@@ -1,1 +1,142 @@
+name: PlayStation Deals Pipeline
 
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 23 * * *'  # 11:00 AM NZST (23:00 UTC previous day)
+    - cron: '0 4 * * *'   # 4:00 PM NZST (04:00 UTC same day)
+
+concurrency:
+  group: playstation-deals
+  cancel-in-progress: false
+
+jobs:
+  ps-deals:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      # =====================================================
+      # CHECKOUT
+      # =====================================================
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # =====================================================
+      # NODE
+      # =====================================================
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      # =====================================================
+      # GOOGLE ANALYTICS KEY
+      # =====================================================
+
+      - name: Create GCP key file
+        run: |
+          echo '${{ secrets.GCP_KEY_JSON }}' > gcp_key.json
+
+      # =====================================================
+      # SCRAPE REGIONS
+      # =====================================================
+
+      - name: Run Indonesia
+        continue-on-error: true
+        run: node id_runCampaignDeals.js
+
+      - name: Run India
+        continue-on-error: true
+        run: node in_runCampaignDeals.js
+
+      - name: Run Singapore
+        continue-on-error: true
+        run: node sg_runCampaignDeals.js
+
+      - name: Run Turkey
+        continue-on-error: true
+        run: node tr_runCampaignDeals.js
+
+      - name: Run US
+        continue-on-error: true
+        run: node us_runCampaignDeals.js
+
+      # =====================================================
+      # MERGE OUTPUT
+      # =====================================================
+
+      - name: Merge regional CSVs
+        run: node merge-en-csvs.js
+
+      # =====================================================
+      # ARTIFACTS
+      # =====================================================
+
+      - name: Upload output artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: playstation-deals-output
+          path: |
+            csvjsontr.csv
+            csvjsontr.json
+            *_campaign_deals.csv
+            *_campaign_deals.json
+            *_campaign_cache.json
+
+      # =====================================================
+      # SAVE SCRAPER STATE TO THIS REPO
+      # =====================================================
+
+      - name: Commit scraper state back to this repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add *_campaign_cache.json
+          git add *_campaign_deals.json
+
+          git diff --cached --quiet || git commit -m "Update PlayStation scraper state"
+          git push
+
+      # =====================================================
+      # PUSH FINAL FEED TO WEBSITE REPO
+      # =====================================================
+
+      - name: Commit and push csvjsontr files to website repository
+        run: |
+          mkdir gh-pages
+          cd gh-pages
+
+          git init
+          git remote add origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/maysaleba/maysaleba.github.io.git
+
+          git config core.sparseCheckout true
+
+          echo "src/csvjsontr.json" >> .git/info/sparse-checkout
+          echo "src/csvjsontr.csv" >> .git/info/sparse-checkout
+
+          git fetch origin main
+          git checkout main
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          cp ../csvjsontr.json src/
+          cp ../csvjsontr.csv src/
+
+          git add src/csvjsontr.json
+          git add src/csvjsontr.csv
+
+          git commit -m "Update PlayStation deals data" || echo "No changes to commit"
+
+          git pull --rebase origin main
+          git push origin main
