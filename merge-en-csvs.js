@@ -8,11 +8,11 @@ const { BetaAnalyticsDataClient } = require("@google-analytics/data");
 // =====================================================
 
 const FILES = [
-  "en-id_campaign_deals.csv",
-  "en-in_campaign_deals.csv",
-  "en-sg_campaign_deals.csv",
-  "en-tr_campaign_deals.csv",
-  "en-us_campaign_deals.csv",
+  "en-id_campaign_deals.json",
+  "en-in_campaign_deals.json",
+  "en-sg_campaign_deals.json",
+  "en-tr_campaign_deals.json",
+  "en-us_campaign_deals.json",
 ];
 
 const GA_PROPERTY_ID = "272381607";
@@ -68,6 +68,19 @@ const OUTPUT_HEADERS = [
 ];
 
 // =====================================================
+
+function readJson(file) {
+  return JSON.parse(fs.readFileSync(file, "utf8"));
+}
+
+function safeReadJsonRows(file) {
+  if (!fs.existsSync(file)) {
+    console.warn(`Missing file: ${file}`);
+    return [];
+  }
+
+  return readJson(file);
+}
 
 function normalizeDate(value) {
   if (!value) return "";
@@ -293,7 +306,7 @@ for (const file of FILES) {
   console.log(`Processing ${file}...`);
 
   const region = getRegion(file);
-  const rows = readCsv(file);
+  const rows = safeReadJsonRows(file);
 
   console.log(`  ${rows.length} rows`);
 
