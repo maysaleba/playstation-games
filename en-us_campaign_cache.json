@@ -1,0 +1,38 @@
+{
+  "active": {
+    "54f9aae2-6159-4453-9cce-0b1cf16c086f": {
+      "categoryId": "54f9aae2-6159-4453-9cce-0b1cf16c086f",
+      "internalName": "cat.gma.Next_Level_Savings",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "saleEnds": "2026-05-28",
+      "sampleProductId": "UB1012-CUSA55657_00-0957074275134563",
+      "sampleProductName": "PARCEL INSPECTION SIMULATOR",
+      "discoveredAt": "2026-05-26",
+      "lastRan": "2026-05-26",
+      "region": "en-us"
+    },
+    "cf1645a7-a2e6-4151-8638-050cff3b1728": {
+      "categoryId": "cf1645a7-a2e6-4151-8638-050cff3b1728",
+      "internalName": "cat.gma.PlayStationIndies",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "saleEnds": "2026-05-28",
+      "sampleProductId": "UB0675-PPSA26516_00-0609381023413073",
+      "sampleProductName": "Idle Devils (Deluxe Edition)",
+      "discoveredAt": "2026-05-26",
+      "lastRan": "2026-05-26",
+      "region": "en-us"
+    },
+    "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
+      "categoryId": "3e5a4aeb-33af-442a-ab10-61d946d3b33c",
+      "internalName": "cat.gma.x_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "saleEnds": "2026-05-28",
+      "sampleProductId": "UB1012-CUSA55657_00-0957074275134563",
+      "sampleProductName": "PARCEL INSPECTION SIMULATOR",
+      "discoveredAt": "2026-05-26",
+      "lastRan": "2026-05-26",
+      "region": "en-us"
+    }
+  },
+  "history": {}
+}
