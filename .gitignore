@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# runtime secrets
+gcp_key.json
+
+# temporary checkout used by workflow
+gh-pages/
+
+# generated final output (pushed to website repo instead)
+csvjsontr.csv
+csvjsontr.json
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
