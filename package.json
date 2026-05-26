@@ -1,0 +1,14 @@
+{
+  "name": "playstation-games",
+  "version": "1.0.0",
+  "scripts": {
+    "merge": "node merge-en-csvs.js",
+    "discover:id": "node id_discoverCampaigns.js",
+    "deals:id": "node id_runCampaignDeals.js"
+  },
+  "dependencies": {
+    "@google-analytics/data": "^6.0.0",
+    "csv-parse": "^6.2.1",
+    "csv-stringify": "^6.7.0"
+  }
+}
