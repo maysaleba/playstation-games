@@ -1,16 +1,5 @@
 {
   "active": {
-    "50f389f4-c0a0-4ff9-85a2-3827796ffb0f": {
-      "categoryId": "50f389f4-c0a0-4ff9-85a2-3827796ffb0f",
-      "internalName": "cat.gma.Next_Level_Savings",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "saleEnds": "2026-05-27",
-      "sampleProductId": "UB1012-CUSA55657_00-0957074275134563",
-      "sampleProductName": "PARCEL INSPECTION SIMULATOR",
-      "discoveredAt": "2026-05-26",
-      "lastRan": "2026-05-26",
-      "region": "en-tr"
-    },
     "d66e22ee-42b5-4cfc-997d-221cae79ae7d": {
       "categoryId": "d66e22ee-42b5-4cfc-997d-221cae79ae7d",
       "internalName": "cat.gma.PlayStationIndies",
@@ -34,5 +23,20 @@
       "region": "en-tr"
     }
   },
-  "history": {}
+  "history": {
+    "50f389f4-c0a0-4ff9-85a2-3827796ffb0f": {
+      "categoryId": "50f389f4-c0a0-4ff9-85a2-3827796ffb0f",
+      "internalName": "cat.gma.Next_Level_Savings",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "saleEnds": "2026-05-27",
+      "sampleProductId": "UB1012-CUSA55657_00-0957074275134563",
+      "sampleProductName": "PARCEL INSPECTION SIMULATOR",
+      "discoveredAt": "2026-05-26",
+      "lastRan": "2026-05-26",
+      "region": "en-tr",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-05-27",
+      "ended": true
+    }
+  }
 }
