@@ -556,8 +556,11 @@ async function discoverCampaigns() {
 
     campaignsToRun.push(campaignWithMeta);
   }
+  
+  const shouldRunAllDeals =
+    campaignsToRun.length > 0 || campaignsToRemove.length > 0;
 
-  if (campaignsToRun.length > 0) {
+  if (shouldRunAllDeals) {
     const earliestSaleEnds =
       campaignsToRun
         .map((c) => c.saleEnds)
@@ -568,7 +571,10 @@ async function discoverCampaigns() {
       ...ALL_DEALS_CATEGORY,
       saleEnds: earliestSaleEnds,
       discoveredAt: today,
-      reason: "Included because at least one new campaign needs processing",
+      reason:
+        campaignsToRun.length > 0
+          ? "Included because at least one new campaign needs processing"
+          : "Included because at least one campaign expired/was removed",
     });
   }
 
