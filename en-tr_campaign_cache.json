@@ -21,6 +21,20 @@
       "discoveredAt": "2026-05-26",
       "lastRan": "2026-05-26",
       "region": "en-tr"
+    },
+    "16ed54d0-7ee2-4654-833c-eb2e7cbf0bd7": {
+      "categoryId": "16ed54d0-7ee2-4654-833c-eb2e7cbf0bd7",
+      "internalName": "cat.gma.x_DaysOfPlay",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Days of Play 2026 - Web - Hub - CTA - EU",
+      "parentViewId": "8d709d3d-38d9-11f1-9190-f6be74c25e4f",
+      "saleEnds": "2026-06-10",
+      "sampleProductId": "UP6312-PPSA34512_00-KILN000000000000",
+      "sampleProductName": "Kiln",
+      "discoveredAt": "2026-05-27",
+      "lastRan": "2026-05-27",
+      "region": "en-tr"
     }
   },
   "history": {

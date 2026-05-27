@@ -1,5 +1,48 @@
 {
   "active": {
+    "ef201a7e-3ce3-48e9-a772-59c425392fc7": {
+      "categoryId": "ef201a7e-3ce3-48e9-a772-59c425392fc7",
+      "internalName": "cat.gma.x_DaysOfPlay",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Days of Play 2026 - Web - Hub - CTA - Asia",
+      "parentViewId": "8d709d3d-38d9-11f1-9190-f6be74c25e4f",
+      "saleEnds": "2026-06-10",
+      "sampleProductId": "UP6312-PPSA34512_00-KILN000000000000",
+      "sampleProductName": "Kiln (Simplified Chinese, English, Korean, Thai, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-05-27",
+      "lastRan": "2026-05-27",
+      "region": "en-id"
+    },
+    "2275209a-f43c-47db-9a92-1277f3ced6c9": {
+      "categoryId": "2275209a-f43c-47db-9a92-1277f3ced6c9",
+      "internalName": "cat.gma.SGFEdit",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-06-10",
+      "sampleProductId": "UB0837-CUSA58615_00-0310863194774719",
+      "sampleProductName": "Dr. Psycho: Hospital Escape (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-05-27",
+      "lastRan": "2026-05-27",
+      "region": "en-id"
+    }
+  },
+  "history": {
+    "dfe69368-95c0-4fe0-a11f-a46fd8b06008": {
+      "categoryId": "dfe69368-95c0-4fe0-a11f-a46fd8b06008",
+      "internalName": "cat.gma.Next_Level_Savings",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "saleEnds": "2026-05-27",
+      "sampleProductId": "UB0008-CUSA58926_00-0287282067387405",
+      "sampleProductName": "Pirate Havoc (English)",
+      "discoveredAt": "2026-05-26",
+      "lastRan": "2026-05-26",
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-05-27",
+      "ended": true
+    },
     "976c3cf7-8dc9-46fb-8691-4603b98224cb": {
       "categoryId": "976c3cf7-8dc9-46fb-8691-4603b98224cb",
       "internalName": "cat.gma.PlayStationIndies",
@@ -9,24 +52,14 @@
       "sampleProductName": "Idle Devils (Deluxe Edition) (Simplified Chinese, English, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-05-26",
       "lastRan": "2026-05-26",
-      "region": "en-id"
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-05-27",
+      "ended": true
     },
     "01d8a9d9-17c2-4521-b871-1425e80eaad3": {
       "categoryId": "01d8a9d9-17c2-4521-b871-1425e80eaad3",
       "internalName": "cat.gma.GamesUnder15ALT",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "saleEnds": "2026-05-27",
-      "sampleProductId": "UB0008-CUSA58926_00-0287282067387405",
-      "sampleProductName": "Pirate Havoc (English)",
-      "discoveredAt": "2026-05-26",
-      "lastRan": "2026-05-26",
-      "region": "en-id"
-    }
-  },
-  "history": {
-    "dfe69368-95c0-4fe0-a11f-a46fd8b06008": {
-      "categoryId": "dfe69368-95c0-4fe0-a11f-a46fd8b06008",
-      "internalName": "cat.gma.Next_Level_Savings",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "saleEnds": "2026-05-27",
       "sampleProductId": "UB0008-CUSA58926_00-0287282067387405",
