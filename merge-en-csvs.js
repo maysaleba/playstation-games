@@ -314,13 +314,13 @@ for (const file of FILES) {
     const rawSlug = row.Slug || row.slug;
     const titleForMatch = row.Title || row.OriginalTitle || rawSlug;
 
-    const productId = row.id || "";
-    const mergeKey = productId || createMatchSlug(titleForMatch);
+    const mergeKey = String(rawSlug || createMatchSlug(titleForMatch))
+      .trim()
+      .toLowerCase();
 
     if (!mergeKey) continue;
 
-    const metaKey = createMatchSlug(titleForMatch);
-    const meta = metacriticMap.get(metaKey) || {};
+    const meta = metacriticMap.get(createMatchSlug(titleForMatch)) || {};
     const hltb = hltbMap.get(createHltbKey(titleForMatch)) || {};
 
     if (!merged.has(mergeKey)) {
