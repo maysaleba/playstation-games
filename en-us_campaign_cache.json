@@ -1,16 +1,5 @@
 {
   "active": {
-    "54f9aae2-6159-4453-9cce-0b1cf16c086f": {
-      "categoryId": "54f9aae2-6159-4453-9cce-0b1cf16c086f",
-      "internalName": "cat.gma.Next_Level_Savings",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "saleEnds": "2026-05-28",
-      "sampleProductId": "UB1012-CUSA55657_00-0957074275134563",
-      "sampleProductName": "PARCEL INSPECTION SIMULATOR",
-      "discoveredAt": "2026-05-26",
-      "lastRan": "2026-05-26",
-      "region": "en-us"
-    },
     "cf1645a7-a2e6-4151-8638-050cff3b1728": {
       "categoryId": "cf1645a7-a2e6-4151-8638-050cff3b1728",
       "internalName": "cat.gma.PlayStationIndies",
@@ -32,7 +21,36 @@
       "discoveredAt": "2026-05-26",
       "lastRan": "2026-05-26",
       "region": "en-us"
+    },
+    "66e7ff8c-7d73-42d8-8e88-b3b54473766a": {
+      "categoryId": "66e7ff8c-7d73-42d8-8e88-b3b54473766a",
+      "internalName": "cat.gma.x_DaysOfPlay",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Days of Play 2026 - Web - Hub - CTA - AM",
+      "parentViewId": "8d709d3d-38d9-11f1-9190-f6be74c25e4f",
+      "saleEnds": "2026-06-11",
+      "sampleProductId": "UP6312-PPSA34512_00-KILN000000000000",
+      "sampleProductName": "Kiln",
+      "discoveredAt": "2026-05-27",
+      "lastRan": "2026-05-27",
+      "region": "en-us"
     }
   },
-  "history": {}
+  "history": {
+    "54f9aae2-6159-4453-9cce-0b1cf16c086f": {
+      "categoryId": "54f9aae2-6159-4453-9cce-0b1cf16c086f",
+      "internalName": "cat.gma.Next_Level_Savings",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "saleEnds": "2026-05-28",
+      "sampleProductId": "UB1012-CUSA55657_00-0957074275134563",
+      "sampleProductName": "PARCEL INSPECTION SIMULATOR",
+      "discoveredAt": "2026-05-26",
+      "lastRan": "2026-05-26",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-05-27",
+      "ended": true
+    }
+  }
 }
