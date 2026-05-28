@@ -1,27 +1,5 @@
 {
   "active": {
-    "cf1645a7-a2e6-4151-8638-050cff3b1728": {
-      "categoryId": "cf1645a7-a2e6-4151-8638-050cff3b1728",
-      "internalName": "cat.gma.PlayStationIndies",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "saleEnds": "2026-05-28",
-      "sampleProductId": "UB0675-PPSA26516_00-0609381023413073",
-      "sampleProductName": "Idle Devils (Deluxe Edition)",
-      "discoveredAt": "2026-05-26",
-      "lastRan": "2026-05-26",
-      "region": "en-us"
-    },
-    "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
-      "categoryId": "3e5a4aeb-33af-442a-ab10-61d946d3b33c",
-      "internalName": "cat.gma.x_Deals",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "saleEnds": "2026-05-28",
-      "sampleProductId": "UB1012-CUSA55657_00-0957074275134563",
-      "sampleProductName": "PARCEL INSPECTION SIMULATOR",
-      "discoveredAt": "2026-05-26",
-      "lastRan": "2026-05-26",
-      "region": "en-us"
-    },
     "66e7ff8c-7d73-42d8-8e88-b3b54473766a": {
       "categoryId": "66e7ff8c-7d73-42d8-8e88-b3b54473766a",
       "internalName": "cat.gma.x_DaysOfPlay",
@@ -34,6 +12,19 @@
       "sampleProductName": "Kiln",
       "discoveredAt": "2026-05-27",
       "lastRan": "2026-05-27",
+      "region": "en-us"
+    },
+    "99b1e68d-f97d-4c2b-8279-949451a63f01": {
+      "categoryId": "99b1e68d-f97d-4c2b-8279-949451a63f01",
+      "internalName": "cat.gma.SGFEdit",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-06-11",
+      "sampleProductId": "UP8553-PPSA37274_00-ORBOFPETALSGAMES",
+      "sampleProductName": "Orb of Petals PS4® & PS5®",
+      "discoveredAt": "2026-05-28",
+      "lastRan": "2026-05-28",
       "region": "en-us"
     }
   },
@@ -50,6 +41,34 @@
       "region": "en-us",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-05-27",
+      "ended": true
+    },
+    "cf1645a7-a2e6-4151-8638-050cff3b1728": {
+      "categoryId": "cf1645a7-a2e6-4151-8638-050cff3b1728",
+      "internalName": "cat.gma.PlayStationIndies",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "saleEnds": "2026-05-28",
+      "sampleProductId": "UB0675-PPSA26516_00-0609381023413073",
+      "sampleProductName": "Idle Devils (Deluxe Edition)",
+      "discoveredAt": "2026-05-26",
+      "lastRan": "2026-05-26",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-05-28",
+      "ended": true
+    },
+    "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
+      "categoryId": "3e5a4aeb-33af-442a-ab10-61d946d3b33c",
+      "internalName": "cat.gma.x_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "saleEnds": "2026-05-28",
+      "sampleProductId": "UB1012-CUSA55657_00-0957074275134563",
+      "sampleProductName": "PARCEL INSPECTION SIMULATOR",
+      "discoveredAt": "2026-05-26",
+      "lastRan": "2026-05-26",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-05-28",
       "ended": true
     }
   }
