@@ -451,9 +451,17 @@ async function main() {
   console.log(`Campaigns to run: ${campaignsToRun.length}`);
   console.log(`Campaigns to remove: ${removeCampaignIds.size}`);
 
-  let rows = existingRows.filter(
-    (row) => !removeCampaignIds.has(row.CampaignCategoryId)
+  const ALL_DEALS_ID = "3f772501-f6f8-49b7-abac-874a88ca4897";
+
+  const willRunAllDeals = campaignsToRun.some(
+    (c) => c.categoryId === ALL_DEALS_ID
   );
+
+  let rows = existingRows.filter((row) => {
+    if (removeCampaignIds.has(row.CampaignCategoryId)) return false;
+    if (willRunAllDeals && row.CampaignCategoryId === ALL_DEALS_ID) return false;
+    return true;
+  });
 
   console.log(`Rows after campaign cleanup: ${rows.length}`);
 
