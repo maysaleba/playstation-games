@@ -1,0 +1,45 @@
+{
+  "active": {
+    "16ed54d0-7ee2-4654-833c-eb2e7cbf0bd7": {
+      "categoryId": "16ed54d0-7ee2-4654-833c-eb2e7cbf0bd7",
+      "internalName": "cat.gma.x_DaysOfPlay",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Days of Play 2026 - Web - Hub - CTA - EU",
+      "parentViewId": "8d709d3d-38d9-11f1-9190-f6be74c25e4f",
+      "saleEnds": "2026-06-10T22:59:00.000Z",
+      "sampleProductId": "UP6312-PPSA34512_00-KILN000000000000",
+      "sampleProductName": "Kiln",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-in"
+    },
+    "8ea5585b-0cd7-4a43-9b7d-23ef0b475e35": {
+      "categoryId": "8ea5585b-0cd7-4a43-9b7d-23ef0b475e35",
+      "internalName": "cat.gma.Mid-YearDeals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01T22:59:00.000Z",
+      "sampleProductId": "EP1661-PPSA33783_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-in"
+    },
+    "a87658c8-993a-417f-af67-07acc9dd0ea8": {
+      "categoryId": "a87658c8-993a-417f-af67-07acc9dd0ea8",
+      "internalName": "cat.gma.x_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01T22:59:00.000Z",
+      "sampleProductId": "EP1661-PPSA33783_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-in"
+    }
+  },
+  "history": {}
+}
