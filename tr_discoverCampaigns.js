@@ -463,7 +463,7 @@ async function fetchProductSaleEnd(productId) {
       const endTime = cta?.price?.endTime;
 
       if (endTime) {
-        return new Date(Number(endTime)).toISOString().slice(0, 10);
+        return new Date(Number(endTime)).toISOString();
       }
     }
   }
