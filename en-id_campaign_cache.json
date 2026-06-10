@@ -1,19 +1,5 @@
 {
   "active": {
-    "ef201a7e-3ce3-48e9-a772-59c425392fc7": {
-      "categoryId": "ef201a7e-3ce3-48e9-a772-59c425392fc7",
-      "internalName": "cat.gma.x_DaysOfPlay",
-      "emsViewId": "",
-      "source": "nextData.EMSLink",
-      "strandName": "[CRO] [PROMO] Days of Play 2026 - Web - Hub - CTA - Asia",
-      "parentViewId": "8d709d3d-38d9-11f1-9190-f6be74c25e4f",
-      "saleEnds": "2026-06-10",
-      "sampleProductId": "UP6312-PPSA34512_00-KILN000000000000",
-      "sampleProductName": "Kiln (Simplified Chinese, English, Korean, Thai, Japanese, Traditional Chinese)",
-      "discoveredAt": "2026-06-04",
-      "lastRan": "2026-06-04",
-      "region": "en-id"
-    },
     "bd5fd4fb-be3d-4428-a0f9-260754df3de6": {
       "categoryId": "bd5fd4fb-be3d-4428-a0f9-260754df3de6",
       "internalName": "cat.gma.Mid-YearDeals",
@@ -51,6 +37,23 @@
       "saleEnds": "2026-06-10",
       "sampleProductId": "UB0837-PPSA36331_00-0014306253012444",
       "sampleProductName": "Dr. Psycho: Hospital Escape (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-06-04",
+      "lastRan": "2026-06-04",
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-06-10",
+      "ended": true
+    },
+    "ef201a7e-3ce3-48e9-a772-59c425392fc7": {
+      "categoryId": "ef201a7e-3ce3-48e9-a772-59c425392fc7",
+      "internalName": "cat.gma.x_DaysOfPlay",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Days of Play 2026 - Web - Hub - CTA - Asia",
+      "parentViewId": "8d709d3d-38d9-11f1-9190-f6be74c25e4f",
+      "saleEnds": "2026-06-10",
+      "sampleProductId": "UP6312-PPSA34512_00-KILN000000000000",
+      "sampleProductName": "Kiln (Simplified Chinese, English, Korean, Thai, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-06-04",
       "lastRan": "2026-06-04",
       "region": "en-id",

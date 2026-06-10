@@ -14,6 +14,34 @@
       "lastRan": "2026-06-04",
       "region": "en-tr"
     },
+    "8ea5585b-0cd7-4a43-9b7d-23ef0b475e35": {
+      "categoryId": "8ea5585b-0cd7-4a43-9b7d-23ef0b475e35",
+      "internalName": "cat.gma.Mid-YearDeals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01",
+      "sampleProductId": "EP1661-PPSA33783_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-tr"
+    },
+    "a87658c8-993a-417f-af67-07acc9dd0ea8": {
+      "categoryId": "a87658c8-993a-417f-af67-07acc9dd0ea8",
+      "internalName": "cat.gma.x_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01",
+      "sampleProductId": "EP1661-PPSA33783_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-tr"
+    }
+  },
+  "history": {
     "488b6df1-3b55-45b0-b7c7-4e3b35c56d57": {
       "categoryId": "488b6df1-3b55-45b0-b7c7-4e3b35c56d57",
       "internalName": "cat.gma.SGFEdit",
@@ -25,8 +53,10 @@
       "sampleProductName": "Casual Sport Series: Racket Sports Bundle",
       "discoveredAt": "2026-06-04",
       "lastRan": "2026-06-04",
-      "region": "en-tr"
+      "region": "en-tr",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-06-10",
+      "ended": true
     }
-  },
-  "history": {}
+  }
 }

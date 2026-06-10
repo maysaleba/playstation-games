@@ -13,6 +13,32 @@
       "discoveredAt": "2026-06-04",
       "lastRan": "2026-06-04",
       "region": "en-in"
+    },
+    "8ea5585b-0cd7-4a43-9b7d-23ef0b475e35": {
+      "categoryId": "8ea5585b-0cd7-4a43-9b7d-23ef0b475e35",
+      "internalName": "cat.gma.Mid-YearDeals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01",
+      "sampleProductId": "EP1661-PPSA33783_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-in"
+    },
+    "a87658c8-993a-417f-af67-07acc9dd0ea8": {
+      "categoryId": "a87658c8-993a-417f-af67-07acc9dd0ea8",
+      "internalName": "cat.gma.x_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01",
+      "sampleProductId": "EP1661-PPSA33783_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-in"
     }
   },
   "history": {
