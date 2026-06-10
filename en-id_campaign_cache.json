@@ -13,7 +13,9 @@
       "discoveredAt": "2026-06-04",
       "lastRan": "2026-06-04",
       "region": "en-id"
-    },
+    }
+  },
+  "history": {
     "2275209a-f43c-47db-9a92-1277f3ced6c9": {
       "categoryId": "2275209a-f43c-47db-9a92-1277f3ced6c9",
       "internalName": "cat.gma.SGFEdit",
@@ -25,8 +27,10 @@
       "sampleProductName": "Dr. Psycho: Hospital Escape (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-06-04",
       "lastRan": "2026-06-04",
-      "region": "en-id"
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-06-10",
+      "ended": true
     }
-  },
-  "history": {}
+  }
 }
