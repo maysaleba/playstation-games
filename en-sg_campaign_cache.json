@@ -14,6 +14,34 @@
       "lastRan": "2026-06-04",
       "region": "en-sg"
     },
+    "bd5fd4fb-be3d-4428-a0f9-260754df3de6": {
+      "categoryId": "bd5fd4fb-be3d-4428-a0f9-260754df3de6",
+      "internalName": "cat.gma.Mid-YearDeals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01",
+      "sampleProductId": "HP1792-PPSA33785_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio (English)",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-sg"
+    },
+    "01d8a9d9-17c2-4521-b871-1425e80eaad3": {
+      "categoryId": "01d8a9d9-17c2-4521-b871-1425e80eaad3",
+      "internalName": "cat.gma.GamesUnder15ALT",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01",
+      "sampleProductId": "HP1792-PPSA33785_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio (English)",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-sg"
+    }
+  },
+  "history": {
     "2275209a-f43c-47db-9a92-1277f3ced6c9": {
       "categoryId": "2275209a-f43c-47db-9a92-1277f3ced6c9",
       "internalName": "cat.gma.SGFEdit",
@@ -25,8 +53,10 @@
       "sampleProductName": "Dr. Psycho: Hospital Escape (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-06-04",
       "lastRan": "2026-06-04",
-      "region": "en-sg"
+      "region": "en-sg",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-06-10",
+      "ended": true
     }
-  },
-  "history": {}
+  }
 }
