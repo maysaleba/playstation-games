@@ -424,6 +424,45 @@ async function main() {
 
   const existingRows = await readJsonFile(JSON_FILE, []);
 
+  const ALL_DEALS_ID = "3f772501-f6f8-49b7-abac-874a88ca4897";
+
+  function isExpiredSaleEnd(value) {
+    if (!value) return false;
+
+    const time = Date.parse(value);
+
+    if (Number.isNaN(time)) return false;
+
+    return time <= Date.now();
+  }
+
+  const hasStaleAllDealsRows = existingRows.some(
+    (row) =>
+      row.CampaignCategoryId === ALL_DEALS_ID &&
+      (
+        !row.SaleEnds ||
+        isExpiredSaleEnd(row.SaleEnds)
+      )
+  );
+
+  if (
+    hasStaleAllDealsRows &&
+    !campaignsToRun.some((c) => c.categoryId === ALL_DEALS_ID)
+  ) {
+    console.log(
+      "Stale All Deals row detected. Forcing All Deals refresh."
+    );
+
+    campaignsToRun.push({
+      categoryId: ALL_DEALS_ID,
+      internalName: "cat.gma.AllDeals",
+      emsViewId: "static",
+      saleEnds: "",
+      discoveredAt: todayIso(),
+      reason: "Stale All Deals row detected",
+    });
+  }
+
   const removeCampaignIds = new Set(
     campaignsToRemove.map((c) => c.categoryId).filter(Boolean)
   );
@@ -431,8 +470,6 @@ async function main() {
   console.log(`Existing rows: ${existingRows.length}`);
   console.log(`Campaigns to run: ${campaignsToRun.length}`);
   console.log(`Campaigns to remove: ${removeCampaignIds.size}`);
-
-  const ALL_DEALS_ID = "3f772501-f6f8-49b7-abac-874a88ca4897";
 
   const willRunAllDeals = campaignsToRun.some(
     (c) => c.categoryId === ALL_DEALS_ID
