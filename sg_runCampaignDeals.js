@@ -2,7 +2,11 @@
 // Node 18+
 
 const fs = require("fs/promises");
-const { discoverCampaigns } = require("./sg_discoverCampaigns");
+const {
+  discoverCampaigns,
+  fetchSampleProductId,
+  fetchProductSaleEnd,
+} = require("./sg_discoverCampaigns");
 
 const LOCALE = "en-sg";
 const SIZE = 100;
@@ -472,11 +476,19 @@ async function main() {
       "Stale All Deals row detected. Forcing All Deals refresh."
     );
 
+    const allDealsSample = await fetchSampleProductId(ALL_DEALS_ID);
+
+    const allDealsSaleEnds = allDealsSample
+      ? await fetchProductSaleEnd(allDealsSample.id)
+      : "";
+
     campaignsToRun.push({
       categoryId: ALL_DEALS_ID,
       internalName: "cat.gma.AllDeals",
       emsViewId: "static",
-      saleEnds: "",
+      saleEnds: allDealsSaleEnds,
+      sampleProductId: allDealsSample?.id || "",
+      sampleProductName: allDealsSample?.name || "",
       discoveredAt: todayIso(),
       reason: "Stale All Deals row detected",
     });

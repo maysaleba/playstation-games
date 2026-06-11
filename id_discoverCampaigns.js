@@ -589,6 +589,8 @@ async function discoverCampaigns() {
 
 module.exports = {
   discoverCampaigns,
+  fetchSampleProductId,
+  fetchProductSaleEnd,
   CACHE_FILE,
   LOCALE,
 };
