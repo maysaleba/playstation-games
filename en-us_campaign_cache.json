@@ -1,19 +1,5 @@
 {
   "active": {
-    "66e7ff8c-7d73-42d8-8e88-b3b54473766a": {
-      "categoryId": "66e7ff8c-7d73-42d8-8e88-b3b54473766a",
-      "internalName": "cat.gma.x_DaysOfPlay",
-      "emsViewId": "",
-      "source": "nextData.EMSLink",
-      "strandName": "[CRO] [PROMO] Days of Play 2026 - Web - Hub - CTA - AM",
-      "parentViewId": "8d709d3d-38d9-11f1-9190-f6be74c25e4f",
-      "saleEnds": "2026-06-11T06:59:00.000Z",
-      "sampleProductId": "UP6312-PPSA34512_00-KILN000000000000",
-      "sampleProductName": "Kiln",
-      "discoveredAt": "2026-06-10",
-      "lastRan": "2026-06-10",
-      "region": "en-us"
-    },
     "99b1e68d-f97d-4c2b-8279-949451a63f01": {
       "categoryId": "99b1e68d-f97d-4c2b-8279-949451a63f01",
       "internalName": "cat.gma.SGFEdit",
@@ -54,5 +40,23 @@
       "region": "en-us"
     }
   },
-  "history": {}
+  "history": {
+    "66e7ff8c-7d73-42d8-8e88-b3b54473766a": {
+      "categoryId": "66e7ff8c-7d73-42d8-8e88-b3b54473766a",
+      "internalName": "cat.gma.x_DaysOfPlay",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Days of Play 2026 - Web - Hub - CTA - AM",
+      "parentViewId": "8d709d3d-38d9-11f1-9190-f6be74c25e4f",
+      "saleEnds": "2026-06-11T06:59:00.000Z",
+      "sampleProductId": "UP6312-PPSA34512_00-KILN000000000000",
+      "sampleProductName": "Kiln",
+      "discoveredAt": "2026-06-10",
+      "lastRan": "2026-06-10",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-06-11",
+      "ended": true
+    }
+  }
 }
