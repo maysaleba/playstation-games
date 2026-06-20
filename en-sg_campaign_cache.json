@@ -10,13 +10,7 @@
       "sampleProductId": "HP1792-PPSA33785_00-SYPS5POETICTRIO0",
       "sampleProductName": "Poetic Trio (English)",
       "discoveredAt": "2026-06-10",
-      "typeFacetCounts": {
-        "FULL_GAME": 1753,
-        "GAME_BUNDLE": 287,
-        "PREMIUM_EDITION": 222
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-20",
+      "lastRan": "2026-06-10",
       "region": "en-sg"
     },
     "01d8a9d9-17c2-4521-b871-1425e80eaad3": {
@@ -29,13 +23,7 @@
       "sampleProductId": "HP1792-PPSA33785_00-SYPS5POETICTRIO0",
       "sampleProductName": "Poetic Trio (English)",
       "discoveredAt": "2026-06-10",
-      "typeFacetCounts": {
-        "FULL_GAME": 1454,
-        "GAME_BUNDLE": 181,
-        "PREMIUM_EDITION": 111
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-20",
+      "lastRan": "2026-06-10",
       "region": "en-sg"
     }
   },
