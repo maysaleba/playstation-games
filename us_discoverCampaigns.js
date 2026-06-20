@@ -410,7 +410,7 @@ async function graphqlGet(operationName, variables, hash) {
   return JSON.parse(text);
 }
 
-async function fetchCategoryPage(categoryId, offset, size, filterBy) {
+async function fetchCategoryPage(categoryId, offset, size, filterBy, returnRaw = false) {
   const json = await graphqlGet(
     "categoryGridRetrieve",
     {
@@ -426,7 +426,43 @@ async function fetchCategoryPage(categoryId, offset, size, filterBy) {
     CATEGORY_GRID_HASH
   );
 
+  if (returnRaw) return json;
+
   return json.data?.categoryGridRetrieve?.products || [];
+}
+
+async function fetchTypeFacetCounts(categoryId) {
+  const json = await fetchCategoryPage(
+    categoryId,
+    0,
+    24,
+    [...STORE_DISPLAY_CLASSIFICATION_FILTERS],
+    true
+  );
+
+  return getTrackedTypeFacetCounts(json);
+}
+
+function getTrackedTypeFacetCounts(productsResponse) {
+  const trackedKeys = ["FULL_GAME", "GAME_BUNDLE", "PREMIUM_EDITION"];
+
+  const typeFacet = productsResponse?.data?.categoryGridRetrieve?.facetOptions
+    ?.find((facet) => facet.name === "storeDisplayClassification");
+
+  const counts = {};
+
+  for (const key of trackedKeys) {
+    const value = typeFacet?.values?.find((v) => v.key === key);
+    counts[key] = value?.count ?? 0;
+  }
+
+  return counts;
+}
+
+function facetCountsChanged(oldCounts = {}, newCounts = {}) {
+  return ["FULL_GAME", "GAME_BUNDLE", "PREMIUM_EDITION"].some(
+    (key) => Number(oldCounts[key] || 0) !== Number(newCounts[key] || 0)
+  );
 }
 
 async function fetchSampleProductId(categoryId) {
@@ -521,7 +557,38 @@ async function discoverCampaigns() {
     const cached = cache.active[campaign.categoryId];
 
     if (cached?.lastRan) {
-      console.log(`Skipping already-ran active campaign: ${campaign.internalName}`);
+      console.log(`Checking facet counts for active campaign: ${campaign.internalName}`);
+
+      const currentFacetCounts = await fetchTypeFacetCounts(campaign.categoryId);
+      const oldFacetCounts = cached.typeFacetCounts || {};
+
+      if (!facetCountsChanged(oldFacetCounts, currentFacetCounts)) {
+        console.log(`Skipping unchanged active campaign: ${campaign.internalName}`);
+        continue;
+      }
+
+      console.log(
+        `Facet count changed. Re-running campaign: ${campaign.internalName}`
+      );
+
+      campaignsToRun.push({
+        ...campaign,
+        saleEnds: cached.saleEnds || "",
+        sampleProductId: cached.sampleProductId || "",
+        sampleProductName: cached.sampleProductName || "",
+        discoveredAt: cached.discoveredAt || today,
+        typeFacetCounts: currentFacetCounts,
+        reason: "Type facet count changed",
+      });
+
+      cache.active[campaign.categoryId] = {
+        ...cached,
+        ...campaign,
+        typeFacetCounts: currentFacetCounts,
+        lastRan: "",
+        region: LOCALE,
+      };
+
       continue;
     }
 
@@ -540,12 +607,15 @@ async function discoverCampaigns() {
 
     const saleEnds = await fetchProductSaleEnd(sample.id);
 
+    const typeFacetCounts = await fetchTypeFacetCounts(campaign.categoryId);
+
     const campaignWithMeta = {
       ...campaign,
       saleEnds,
       sampleProductId: sample.id,
       sampleProductName: sample.name,
       discoveredAt: today,
+      typeFacetCounts,
     };
 
     cache.active[campaign.categoryId] = {
