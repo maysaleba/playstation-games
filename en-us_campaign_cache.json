@@ -10,7 +10,13 @@
       "sampleProductId": "UP7126-CUSA59319_00-0679666267074878",
       "sampleProductName": "Penguin's ArcticDex",
       "discoveredAt": "2026-06-10",
-      "lastRan": "2026-06-10",
+      "typeFacetCounts": {
+        "FULL_GAME": 2487,
+        "GAME_BUNDLE": 460,
+        "PREMIUM_EDITION": 249
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-06-20",
       "region": "en-us"
     },
     "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
@@ -23,7 +29,13 @@
       "sampleProductId": "UP7126-CUSA59319_00-0679666267074878",
       "sampleProductName": "Penguin's ArcticDex",
       "discoveredAt": "2026-06-10",
-      "lastRan": "2026-06-10",
+      "typeFacetCounts": {
+        "FULL_GAME": 2375,
+        "GAME_BUNDLE": 353,
+        "PREMIUM_EDITION": 151
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-06-20",
       "region": "en-us"
     }
   },
