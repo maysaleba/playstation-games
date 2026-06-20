@@ -253,7 +253,7 @@ async function fetchAllCategoryProducts(categoryId, filterBy) {
   return all;
 }
 
-function normalizeProduct(product, campaign, saleEnds, genreSet) {
+function normalizeProduct(product, campaign, saleEnds, genreSet, saleStarted) {
   const price = product.price || {};
   const platforms = product.platforms || [];
   const title = product.name || "";
@@ -263,7 +263,7 @@ function normalizeProduct(product, campaign, saleEnds, genreSet) {
   return {
     SCORE: "",
     SaleEnds: saleEnds,
-    SaleStarted: campaign.discoveredAt || "",
+    SaleStarted: saleStarted || campaign.discoveredAt || "",
     PlusPrice: "",
     PlusDiscount: "",
     PlusPercentOff: "",
@@ -353,7 +353,7 @@ function dedupeRows(rows) {
   return [...map.values()];
 }
 
-async function scrapeCampaign(campaign) {
+async function scrapeCampaign(campaign, existingSaleStartedById = new Map()) {
   console.log(`\nCampaign: ${campaign.internalName}`);
 
   const productMap = new Map();
@@ -413,7 +413,19 @@ console.log(`  SaleEnds from discovery cache: ${saleEnds || "not found"}`);
     const product = productMap.get(productId);
     const genreSet = productGenreMap.get(productId) || new Set();
 
-    rows.push(normalizeProduct(product, campaign, saleEnds, genreSet));
+    const existingSaleStarted = existingSaleStartedById.get(product.id);
+
+    const saleStarted =
+      existingSaleStarted ||
+      (
+        campaign.reason === "Type facet count changed"
+          ? todayIso()
+          : campaign.discoveredAt || todayIso()
+      );
+
+    rows.push(
+      normalizeProduct(product, campaign, saleEnds, genreSet, saleStarted)
+    );
   }
 
   return rows;
@@ -427,6 +439,13 @@ async function main() {
   } = await discoverCampaigns();
 
   const existingRows = await readJsonFile(JSON_FILE, []);
+  const existingSaleStartedById = new Map();
+
+  for (const row of existingRows) {
+    if (row.id && row.SaleStarted) {
+      existingSaleStartedById.set(row.id, row.SaleStarted);
+    }
+  }
 
   const ALL_DEALS_ID = "3f772501-f6f8-49b7-abac-874a88ca4897";
 
@@ -509,7 +528,7 @@ async function main() {
   const newRows = [];
 
   for (const campaign of campaignsToRun) {
-    const campaignRows = await scrapeCampaign(campaign);
+    const campaignRows = await scrapeCampaign(campaign, existingSaleStartedById);
     newRows.push(...campaignRows);
   }
 
