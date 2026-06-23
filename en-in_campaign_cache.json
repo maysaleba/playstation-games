@@ -11,12 +11,12 @@
       "sampleProductName": "Poetic Trio",
       "discoveredAt": "2026-06-10",
       "typeFacetCounts": {
-        "FULL_GAME": 2385,
+        "FULL_GAME": 2384,
         "GAME_BUNDLE": 455,
         "PREMIUM_EDITION": 258
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-06-20",
+      "lastRan": "2026-06-23",
       "region": "en-in"
     },
     "a87658c8-993a-417f-af67-07acc9dd0ea8": {
@@ -30,12 +30,12 @@
       "sampleProductName": "Poetic Trio",
       "discoveredAt": "2026-06-10",
       "typeFacetCounts": {
-        "FULL_GAME": 2269,
+        "FULL_GAME": 2268,
         "GAME_BUNDLE": 345,
         "PREMIUM_EDITION": 159
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-06-20",
+      "lastRan": "2026-06-23",
       "region": "en-in"
     }
   },
