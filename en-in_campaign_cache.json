@@ -37,6 +37,24 @@
       "reason": "Type facet count changed",
       "lastRan": "2026-06-23",
       "region": "en-in"
+    },
+    "16617674-2165-4899-9dbc-d56a68992cef": {
+      "categoryId": "16617674-2165-4899-9dbc-d56a68992cef",
+      "internalName": "cat.gma.x_Weekend_Offer",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01T22:59:00.000Z",
+      "sampleProductId": "EP1004-PPSA01721_00-GTAVANDGWSBUNDLE",
+      "sampleProductName": "Grand Theft Auto V and Great White Shark Card Bundle",
+      "discoveredAt": "2026-06-26",
+      "typeFacetCounts": {
+        "FULL_GAME": 39,
+        "GAME_BUNDLE": 15,
+        "PREMIUM_EDITION": 10
+      },
+      "lastRan": "2026-06-26",
+      "region": "en-in"
     }
   },
   "history": {
