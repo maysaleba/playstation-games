@@ -37,6 +37,24 @@
       "reason": "Type facet count changed",
       "lastRan": "2026-06-20",
       "region": "en-sg"
+    },
+    "d9c34538-e057-44c2-87a0-d941a2142468": {
+      "categoryId": "d9c34538-e057-44c2-87a0-d941a2142468",
+      "internalName": "cat.gma.x_Weekend_Offer",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01T14:59:00.000Z",
+      "sampleProductId": "UP1004-PPSA03420_00-GTAVANDGWSBUNDLE",
+      "sampleProductName": "Grand Theft Auto V and Great White Shark Card Bundle (Simplified Chinese, English, Korean, Traditional Chinese)",
+      "discoveredAt": "2026-06-26",
+      "typeFacetCounts": {
+        "FULL_GAME": 34,
+        "GAME_BUNDLE": 14,
+        "PREMIUM_EDITION": 10
+      },
+      "lastRan": "2026-06-26",
+      "region": "en-sg"
     }
   },
   "history": {}
