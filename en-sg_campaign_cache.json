@@ -37,7 +37,9 @@
       "reason": "Type facet count changed",
       "lastRan": "2026-06-20",
       "region": "en-sg"
-    },
+    }
+  },
+  "history": {
     "d9c34538-e057-44c2-87a0-d941a2142468": {
       "categoryId": "d9c34538-e057-44c2-87a0-d941a2142468",
       "internalName": "cat.gma.x_Weekend_Offer",
@@ -54,8 +56,10 @@
         "PREMIUM_EDITION": 10
       },
       "lastRan": "2026-06-26",
-      "region": "en-sg"
+      "region": "en-sg",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-06-29",
+      "ended": true
     }
-  },
-  "history": {}
+  }
 }
