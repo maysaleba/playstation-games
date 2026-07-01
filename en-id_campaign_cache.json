@@ -1,5 +1,6 @@
 {
-  "active": {
+  "active": {},
+  "history": {
     "bd5fd4fb-be3d-4428-a0f9-260754df3de6": {
       "categoryId": "bd5fd4fb-be3d-4428-a0f9-260754df3de6",
       "internalName": "cat.gma.Mid-YearDeals",
@@ -17,7 +18,10 @@
       },
       "reason": "Type facet count changed",
       "lastRan": "2026-06-20",
-      "region": "en-id"
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-01",
+      "ended": true
     },
     "01d8a9d9-17c2-4521-b871-1425e80eaad3": {
       "categoryId": "01d8a9d9-17c2-4521-b871-1425e80eaad3",
@@ -36,8 +40,10 @@
       },
       "reason": "Type facet count changed",
       "lastRan": "2026-06-20",
-      "region": "en-id"
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-01",
+      "ended": true
     }
-  },
-  "history": {}
+  }
 }

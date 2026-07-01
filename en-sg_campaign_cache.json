@@ -1,41 +1,39 @@
 {
   "active": {
-    "bd5fd4fb-be3d-4428-a0f9-260754df3de6": {
-      "categoryId": "bd5fd4fb-be3d-4428-a0f9-260754df3de6",
-      "internalName": "cat.gma.Mid-YearDeals",
+    "43168327-a9f3-4918-8484-59c5c9ac1c94": {
+      "categoryId": "43168327-a9f3-4918-8484-59c5c9ac1c94",
+      "internalName": "cat.gma.July_Savings",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "",
-      "saleEnds": "2026-07-01T14:59:00.000Z",
-      "sampleProductId": "HP1792-PPSA33785_00-SYPS5POETICTRIO0",
-      "sampleProductName": "Poetic Trio (English)",
-      "discoveredAt": "2026-06-10",
+      "saleEnds": "2026-07-15T14:59:00.000Z",
+      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
+      "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-07-01",
       "typeFacetCounts": {
-        "FULL_GAME": 1753,
-        "GAME_BUNDLE": 287,
-        "PREMIUM_EDITION": 222
+        "FULL_GAME": 1880,
+        "GAME_BUNDLE": 238,
+        "PREMIUM_EDITION": 162
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-20",
+      "lastRan": "2026-07-01",
       "region": "en-sg"
     },
-    "01d8a9d9-17c2-4521-b871-1425e80eaad3": {
-      "categoryId": "01d8a9d9-17c2-4521-b871-1425e80eaad3",
+    "55caed16-8224-4c17-b329-46ded950a32f": {
+      "categoryId": "55caed16-8224-4c17-b329-46ded950a32f",
       "internalName": "cat.gma.GamesUnder15ALT",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "",
-      "saleEnds": "2026-07-01T14:59:00.000Z",
-      "sampleProductId": "HP1792-PPSA33785_00-SYPS5POETICTRIO0",
-      "sampleProductName": "Poetic Trio (English)",
-      "discoveredAt": "2026-06-10",
+      "saleEnds": "2026-07-15T14:59:00.000Z",
+      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
+      "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-07-01",
       "typeFacetCounts": {
-        "FULL_GAME": 1454,
-        "GAME_BUNDLE": 181,
-        "PREMIUM_EDITION": 111
+        "FULL_GAME": 1634,
+        "GAME_BUNDLE": 144,
+        "PREMIUM_EDITION": 61
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-20",
+      "lastRan": "2026-07-01",
       "region": "en-sg"
     }
   },
@@ -59,6 +57,50 @@
       "region": "en-sg",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-06-29",
+      "ended": true
+    },
+    "bd5fd4fb-be3d-4428-a0f9-260754df3de6": {
+      "categoryId": "bd5fd4fb-be3d-4428-a0f9-260754df3de6",
+      "internalName": "cat.gma.Mid-YearDeals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01T14:59:00.000Z",
+      "sampleProductId": "HP1792-PPSA33785_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio (English)",
+      "discoveredAt": "2026-06-10",
+      "typeFacetCounts": {
+        "FULL_GAME": 1753,
+        "GAME_BUNDLE": 287,
+        "PREMIUM_EDITION": 222
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-06-20",
+      "region": "en-sg",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-01",
+      "ended": true
+    },
+    "01d8a9d9-17c2-4521-b871-1425e80eaad3": {
+      "categoryId": "01d8a9d9-17c2-4521-b871-1425e80eaad3",
+      "internalName": "cat.gma.GamesUnder15ALT",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-01T14:59:00.000Z",
+      "sampleProductId": "HP1792-PPSA33785_00-SYPS5POETICTRIO0",
+      "sampleProductName": "Poetic Trio (English)",
+      "discoveredAt": "2026-06-10",
+      "typeFacetCounts": {
+        "FULL_GAME": 1454,
+        "GAME_BUNDLE": 181,
+        "PREMIUM_EDITION": 111
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-06-20",
+      "region": "en-sg",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-01",
       "ended": true
     }
   }
