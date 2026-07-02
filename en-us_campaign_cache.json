@@ -1,41 +1,39 @@
 {
   "active": {
-    "2bb91a6a-b4cd-4fc6-82b6-9c7c3a10102c": {
-      "categoryId": "2bb91a6a-b4cd-4fc6-82b6-9c7c3a10102c",
-      "internalName": "cat.gma.Mid-YearDeals",
+    "d1fa27b1-da1f-4c4b-8e7a-997e59b787f7": {
+      "categoryId": "d1fa27b1-da1f-4c4b-8e7a-997e59b787f7",
+      "internalName": "cat.gma.July_Savings",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "",
-      "saleEnds": "2026-07-02T06:59:00.000Z",
-      "sampleProductId": "UP7126-CUSA59319_00-0679666267074878",
-      "sampleProductName": "Penguin's ArcticDex",
-      "discoveredAt": "2026-06-10",
+      "saleEnds": "2026-07-16T06:59:00.000Z",
+      "sampleProductId": "UP8251-PPSA34497_00-0858799687348498",
+      "sampleProductName": "BrokenLore: FOLLOW",
+      "discoveredAt": "2026-07-02",
       "typeFacetCounts": {
-        "FULL_GAME": 2486,
-        "GAME_BUNDLE": 460,
-        "PREMIUM_EDITION": 249
+        "FULL_GAME": 3330,
+        "GAME_BUNDLE": 512,
+        "PREMIUM_EDITION": 178
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-23",
+      "lastRan": "2026-07-02",
       "region": "en-us"
     },
-    "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
-      "categoryId": "3e5a4aeb-33af-442a-ab10-61d946d3b33c",
+    "5931f998-d583-4643-85e0-e890480fcff9": {
+      "categoryId": "5931f998-d583-4643-85e0-e890480fcff9",
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "",
-      "saleEnds": "2026-07-02T06:59:00.000Z",
-      "sampleProductId": "UP7126-CUSA59319_00-0679666267074878",
-      "sampleProductName": "Penguin's ArcticDex",
-      "discoveredAt": "2026-06-10",
+      "saleEnds": "2026-07-16T06:59:00.000Z",
+      "sampleProductId": "UP8251-PPSA34497_00-0858799687348498",
+      "sampleProductName": "BrokenLore: FOLLOW",
+      "discoveredAt": "2026-07-02",
       "typeFacetCounts": {
-        "FULL_GAME": 2374,
-        "GAME_BUNDLE": 353,
-        "PREMIUM_EDITION": 151
+        "FULL_GAME": 3070,
+        "GAME_BUNDLE": 373,
+        "PREMIUM_EDITION": 94
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-23",
+      "lastRan": "2026-07-02",
       "region": "en-us"
     }
   },
@@ -92,6 +90,50 @@
       "region": "en-us",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-06-29",
+      "ended": true
+    },
+    "2bb91a6a-b4cd-4fc6-82b6-9c7c3a10102c": {
+      "categoryId": "2bb91a6a-b4cd-4fc6-82b6-9c7c3a10102c",
+      "internalName": "cat.gma.Mid-YearDeals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-02T06:59:00.000Z",
+      "sampleProductId": "UP7126-CUSA59319_00-0679666267074878",
+      "sampleProductName": "Penguin's ArcticDex",
+      "discoveredAt": "2026-06-10",
+      "typeFacetCounts": {
+        "FULL_GAME": 2486,
+        "GAME_BUNDLE": 460,
+        "PREMIUM_EDITION": 249
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-06-23",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-02",
+      "ended": true
+    },
+    "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
+      "categoryId": "3e5a4aeb-33af-442a-ab10-61d946d3b33c",
+      "internalName": "cat.gma.x_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-02T06:59:00.000Z",
+      "sampleProductId": "UP7126-CUSA59319_00-0679666267074878",
+      "sampleProductName": "Penguin's ArcticDex",
+      "discoveredAt": "2026-06-10",
+      "typeFacetCounts": {
+        "FULL_GAME": 2374,
+        "GAME_BUNDLE": 353,
+        "PREMIUM_EDITION": 151
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-06-23",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-02",
       "ended": true
     }
   }
