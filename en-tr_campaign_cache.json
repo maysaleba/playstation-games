@@ -35,6 +35,21 @@
       },
       "lastRan": "2026-07-02",
       "region": "en-tr"
+    },
+    "3f772501-f6f8-49b7-abac-874a88ca4897": {
+      "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
+      "internalName": "cat.gma.AllDeals",
+      "emsViewId": "static",
+      "saleEnds": "2026-07-15T22:59:00.000Z",
+      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
+      "sampleProductName": "Dragon Loop",
+      "typeFacetCounts": {
+        "FULL_GAME": 3202,
+        "GAME_BUNDLE": 562,
+        "PREMIUM_EDITION": 171
+      },
+      "lastRan": "",
+      "region": "en-tr"
     }
   },
   "history": {

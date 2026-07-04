@@ -1,5 +1,21 @@
 {
-  "active": {},
+  "active": {
+    "3f772501-f6f8-49b7-abac-874a88ca4897": {
+      "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
+      "internalName": "cat.gma.AllDeals",
+      "emsViewId": "static",
+      "saleEnds": "",
+      "sampleProductId": "",
+      "sampleProductName": "",
+      "typeFacetCounts": {
+        "FULL_GAME": 26,
+        "GAME_BUNDLE": 6,
+        "PREMIUM_EDITION": 3
+      },
+      "lastRan": "",
+      "region": "en-id"
+    }
+  },
   "history": {
     "bd5fd4fb-be3d-4428-a0f9-260754df3de6": {
       "categoryId": "bd5fd4fb-be3d-4428-a0f9-260754df3de6",
