@@ -531,10 +531,14 @@ async function discoverCampaigns() {
     );
   }
 
-  for (const [categoryId, cached] of Object.entries(cache.active)) {
-    const missingFromCurrentDealsPage = !currentCampaignIds.has(categoryId);
+for (const [categoryId, cached] of Object.entries(cache.active)) {
+  if (categoryId === ALL_DEALS_CATEGORY.categoryId) {
+    continue;
+  }
 
-    if (missingFromCurrentDealsPage) {
+  const missingFromCurrentDealsPage = !currentCampaignIds.has(categoryId);
+
+  if (missingFromCurrentDealsPage) {
       const removedCampaign = {
         ...cached,
         categoryId,
@@ -627,10 +631,57 @@ async function discoverCampaigns() {
     campaignsToRun.push(campaignWithMeta);
   }
 
+  const allDealsFacetCounts = await fetchTypeFacetCounts(
+  ALL_DEALS_CATEGORY.categoryId
+);
+
+const oldAllDealsFacetCounts =
+  cache.active[ALL_DEALS_CATEGORY.categoryId]?.typeFacetCounts || {};
+
+const allDealsCountChanged = facetCountsChanged(
+  oldAllDealsFacetCounts,
+  allDealsFacetCounts
+);
+
+if (allDealsCountChanged) {
+  console.log("All Deals count changed. Rebuilding All Deals.");
+
+  const allDealsSample = await fetchSampleProductId(
+    ALL_DEALS_CATEGORY.categoryId
+  );
+
+  const allDealsSaleEnds = allDealsSample
+    ? await fetchProductSaleEnd(allDealsSample.id)
+    : "";
+
+  campaignsToRun.push({
+    ...ALL_DEALS_CATEGORY,
+    saleEnds: allDealsSaleEnds,
+    sampleProductId: allDealsSample?.id || "",
+    sampleProductName: allDealsSample?.name || "",
+    discoveredAt: today,
+    typeFacetCounts: allDealsFacetCounts,
+    reason: "All Deals count changed",
+  });
+
+  cache.active[ALL_DEALS_CATEGORY.categoryId] = {
+    ...ALL_DEALS_CATEGORY,
+    saleEnds: allDealsSaleEnds,
+    sampleProductId: allDealsSample?.id || "",
+    sampleProductName: allDealsSample?.name || "",
+    typeFacetCounts: allDealsFacetCounts,
+    lastRan: "",
+    region: LOCALE,
+  };
+}
+
   const shouldRunAllDeals =
     campaignsToRun.length > 0 || campaignsToRemove.length > 0;
 
-  if (shouldRunAllDeals) {
+  if (
+  shouldRunAllDeals &&
+  !campaignsToRun.some((c) => c.categoryId === ALL_DEALS_CATEGORY.categoryId)
+) {
     const earliestSaleEnds =
       campaignsToRun
         .map((c) => c.saleEnds)
