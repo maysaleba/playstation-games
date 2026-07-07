@@ -11,12 +11,12 @@
       "sampleProductName": "Dragon Loop",
       "discoveredAt": "2026-07-01",
       "typeFacetCounts": {
-        "FULL_GAME": 3254,
+        "FULL_GAME": 3253,
         "GAME_BUNDLE": 537,
         "PREMIUM_EDITION": 173
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-07-06",
+      "lastRan": "2026-07-07",
       "region": "en-in"
     },
     "322ea58b-1a57-4586-93e0-286d1e926394": {
@@ -30,12 +30,12 @@
       "sampleProductName": "Dragon Loop",
       "discoveredAt": "2026-07-01",
       "typeFacetCounts": {
-        "FULL_GAME": 3023,
+        "FULL_GAME": 3022,
         "GAME_BUNDLE": 401,
         "PREMIUM_EDITION": 94
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-07-06",
+      "lastRan": "2026-07-07",
       "region": "en-in"
     },
     "3f772501-f6f8-49b7-abac-874a88ca4897": {
@@ -46,7 +46,7 @@
       "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
       "sampleProductName": "Dragon Loop",
       "typeFacetCounts": {
-        "FULL_GAME": 3259,
+        "FULL_GAME": 3258,
         "GAME_BUNDLE": 564,
         "PREMIUM_EDITION": 176
       },
