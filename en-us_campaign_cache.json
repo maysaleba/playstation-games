@@ -11,12 +11,12 @@
       "sampleProductName": "BrokenLore: FOLLOW",
       "discoveredAt": "2026-07-02",
       "typeFacetCounts": {
-        "FULL_GAME": 3324,
+        "FULL_GAME": 3322,
         "GAME_BUNDLE": 512,
         "PREMIUM_EDITION": 178
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-07-07",
+      "lastRan": "2026-07-09",
       "region": "en-us"
     },
     "5931f998-d583-4643-85e0-e890480fcff9": {
@@ -30,12 +30,12 @@
       "sampleProductName": "BrokenLore: FOLLOW",
       "discoveredAt": "2026-07-02",
       "typeFacetCounts": {
-        "FULL_GAME": 3064,
+        "FULL_GAME": 3062,
         "GAME_BUNDLE": 373,
         "PREMIUM_EDITION": 94
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-07-07",
+      "lastRan": "2026-07-09",
       "region": "en-us"
     },
     "3f772501-f6f8-49b7-abac-874a88ca4897": {
@@ -46,8 +46,8 @@
       "sampleProductId": "UP8251-PPSA34497_00-0858799687348498",
       "sampleProductName": "BrokenLore: FOLLOW",
       "typeFacetCounts": {
-        "FULL_GAME": 3327,
-        "GAME_BUNDLE": 533,
+        "FULL_GAME": 3324,
+        "GAME_BUNDLE": 531,
         "PREMIUM_EDITION": 181
       },
       "lastRan": "",

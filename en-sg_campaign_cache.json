@@ -11,11 +11,12 @@
       "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-07-01",
       "typeFacetCounts": {
-        "FULL_GAME": 1880,
+        "FULL_GAME": 1878,
         "GAME_BUNDLE": 238,
         "PREMIUM_EDITION": 162
       },
-      "lastRan": "2026-07-01",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-09",
       "region": "en-sg"
     },
     "55caed16-8224-4c17-b329-46ded950a32f": {
@@ -29,11 +30,12 @@
       "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-07-01",
       "typeFacetCounts": {
-        "FULL_GAME": 1634,
+        "FULL_GAME": 1632,
         "GAME_BUNDLE": 144,
         "PREMIUM_EDITION": 61
       },
-      "lastRan": "2026-07-01",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-09",
       "region": "en-sg"
     },
     "3f772501-f6f8-49b7-abac-874a88ca4897": {
@@ -44,8 +46,8 @@
       "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
       "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
       "typeFacetCounts": {
-        "FULL_GAME": 1898,
-        "GAME_BUNDLE": 242,
+        "FULL_GAME": 1892,
+        "GAME_BUNDLE": 243,
         "PREMIUM_EDITION": 165
       },
       "lastRan": "",
