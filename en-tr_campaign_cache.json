@@ -43,12 +43,49 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-07-15T22:59:00.000Z",
-      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
-      "sampleProductName": "Dragon Loop",
+      "sampleProductId": "EP5506-PPSA36328_00-0606800860323378",
+      "sampleProductName": "Heroines of Fantasy",
       "typeFacetCounts": {
-        "FULL_GAME": 3283,
-        "GAME_BUNDLE": 599,
-        "PREMIUM_EDITION": 206
+        "FULL_GAME": 6386,
+        "GAME_BUNDLE": 1086,
+        "PREMIUM_EDITION": 413
+      },
+      "lastRan": "",
+      "region": "en-tr"
+    },
+    "9569d3d2-d544-4b06-808c-8eda6f65d64f": {
+      "categoryId": "9569d3d2-d544-4b06-808c-8eda6f65d64f",
+      "internalName": "cat.gma.TGS2025_All",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEE",
+      "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
+      "saleEnds": "2026-07-15T22:59:00.000Z",
+      "sampleProductId": "EP5506-PPSA36328_00-0606800860323378",
+      "sampleProductName": "Heroines of Fantasy",
+      "discoveredAt": "2026-07-14",
+      "typeFacetCounts": {
+        "FULL_GAME": 3210,
+        "GAME_BUNDLE": 529,
+        "PREMIUM_EDITION": 242
+      },
+      "lastRan": "2026-07-14",
+      "region": "en-tr"
+    },
+    "f57b1094-e711-4f2a-99da-88b97b0720ba": {
+      "categoryId": "f57b1094-e711-4f2a-99da-88b97b0720ba",
+      "internalName": "cat.gma.AllDeals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-29T22:59:00.000Z",
+      "sampleProductId": "EP4133-PPSA28981_00-YERBABUENAGAME00",
+      "sampleProductName": "Yerba Buena",
+      "discoveredAt": "2026-07-14",
+      "typeFacetCounts": {
+        "FULL_GAME": 109,
+        "GAME_BUNDLE": 37,
+        "PREMIUM_EDITION": 30
       },
       "lastRan": "",
       "region": "en-tr"
