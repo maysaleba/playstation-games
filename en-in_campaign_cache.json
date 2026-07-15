@@ -1,43 +1,5 @@
 {
   "active": {
-    "e97029b2-8c26-4185-b6d4-aa528ee2c526": {
-      "categoryId": "e97029b2-8c26-4185-b6d4-aa528ee2c526",
-      "internalName": "cat.gma.July_Savings",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-15T22:59:00.000Z",
-      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
-      "sampleProductName": "Dragon Loop",
-      "discoveredAt": "2026-07-01",
-      "typeFacetCounts": {
-        "FULL_GAME": 3248,
-        "GAME_BUNDLE": 537,
-        "PREMIUM_EDITION": 173
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-07-09",
-      "region": "en-in"
-    },
-    "322ea58b-1a57-4586-93e0-286d1e926394": {
-      "categoryId": "322ea58b-1a57-4586-93e0-286d1e926394",
-      "internalName": "cat.gma.x_Deals",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-15T22:59:00.000Z",
-      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
-      "sampleProductName": "Dragon Loop",
-      "discoveredAt": "2026-07-01",
-      "typeFacetCounts": {
-        "FULL_GAME": 3017,
-        "GAME_BUNDLE": 401,
-        "PREMIUM_EDITION": 94
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-07-09",
-      "region": "en-in"
-    },
     "3f772501-f6f8-49b7-abac-874a88ca4897": {
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
@@ -46,9 +8,9 @@
       "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
       "sampleProductName": "Heroines of Fantasy",
       "typeFacetCounts": {
-        "FULL_GAME": 6502,
-        "GAME_BUNDLE": 1090,
-        "PREMIUM_EDITION": 420
+        "FULL_GAME": 6505,
+        "GAME_BUNDLE": 1088,
+        "PREMIUM_EDITION": 419
       },
       "lastRan": "",
       "region": "en-in"
@@ -172,6 +134,50 @@
         "PREMIUM_EDITION": 31
       },
       "lastRan": "",
+      "region": "en-in",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-15",
+      "ended": true
+    },
+    "e97029b2-8c26-4185-b6d4-aa528ee2c526": {
+      "categoryId": "e97029b2-8c26-4185-b6d4-aa528ee2c526",
+      "internalName": "cat.gma.July_Savings",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-15T22:59:00.000Z",
+      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
+      "sampleProductName": "Dragon Loop",
+      "discoveredAt": "2026-07-01",
+      "typeFacetCounts": {
+        "FULL_GAME": 3248,
+        "GAME_BUNDLE": 537,
+        "PREMIUM_EDITION": 173
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-09",
+      "region": "en-in",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-15",
+      "ended": true
+    },
+    "322ea58b-1a57-4586-93e0-286d1e926394": {
+      "categoryId": "322ea58b-1a57-4586-93e0-286d1e926394",
+      "internalName": "cat.gma.x_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-15T22:59:00.000Z",
+      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
+      "sampleProductName": "Dragon Loop",
+      "discoveredAt": "2026-07-01",
+      "typeFacetCounts": {
+        "FULL_GAME": 3017,
+        "GAME_BUNDLE": 401,
+        "PREMIUM_EDITION": 94
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-09",
       "region": "en-in",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-07-15",
