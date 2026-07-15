@@ -4,13 +4,13 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-07-15T22:59:00.000Z",
+      "saleEnds": "2026-07-29T22:59:00.000Z",
       "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
       "sampleProductName": "Heroines of Fantasy",
       "typeFacetCounts": {
-        "FULL_GAME": 6387,
-        "GAME_BUNDLE": 1086,
-        "PREMIUM_EDITION": 412
+        "FULL_GAME": 3215,
+        "GAME_BUNDLE": 548,
+        "PREMIUM_EDITION": 244
       },
       "lastRan": "",
       "region": "en-tr"
@@ -22,7 +22,7 @@
       "source": "nextData.EMSLink",
       "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEE",
       "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
-      "saleEnds": "2026-07-15T22:59:00.000Z",
+      "saleEnds": "2026-07-29T22:59:00.000Z",
       "sampleProductId": "EP5506-PPSA36328_00-0606800860323378",
       "sampleProductName": "Heroines of Fantasy",
       "discoveredAt": "2026-07-14",
@@ -31,7 +31,8 @@
         "GAME_BUNDLE": 529,
         "PREMIUM_EDITION": 242
       },
-      "lastRan": "2026-07-14",
+      "reason": "Expired sale end refreshed",
+      "lastRan": "2026-07-15",
       "region": "en-tr"
     }
   },
