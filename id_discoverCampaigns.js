@@ -73,7 +73,9 @@ async function fetchHtml(url, locale) {
     },
   });
 
-  if (!res.ok) throw new Error(`${url} HTTP ${res.status}`);
+  if (!res.ok) {
+    throw new Error(`${url} HTTP ${res.status}`);
+  }
 
   return await res.text();
 }
@@ -186,6 +188,7 @@ function extractCampaignBannersFromHtml(html, mode = "deals") {
         source: meta.contentSource || "",
         strandName: meta.strandName || "",
       });
+
       continue;
     }
 
@@ -197,6 +200,7 @@ function extractCampaignBannersFromHtml(html, mode = "deals") {
         source: meta.contentSource || "",
         strandName: meta.strandName || "",
       });
+
       continue;
     }
 
@@ -215,7 +219,8 @@ function extractCampaignBannersFromHtml(html, mode = "deals") {
   }
 
   if (mode === "view") {
-    const hrefCategoryRegex = /href="\/[^"]+\/category\/([a-f0-9-]{36})\/1"/g;
+    const hrefCategoryRegex =
+      /href="\/[^"]+\/category\/([a-f0-9-]{36})\/1"/g;
 
     while ((match = hrefCategoryRegex.exec(html)) !== null) {
       banners.push({
@@ -234,13 +239,13 @@ function extractCampaignBannersFromHtml(html, mode = "deals") {
 function dedupeCampaigns(banners) {
   const map = new Map();
 
-  for (const b of banners) {
-    if (!b.categoryId) continue;
+  for (const banner of banners) {
+    if (!banner.categoryId) continue;
 
-    const existing = map.get(b.categoryId);
+    const existing = map.get(banner.categoryId);
 
     if (!existing) {
-      map.set(b.categoryId, b);
+      map.set(banner.categoryId, banner);
       continue;
     }
 
@@ -253,10 +258,10 @@ function dedupeCampaigns(banners) {
     };
 
     const existingRank = sourceRank[existing.source] || 0;
-    const newRank = sourceRank[b.source] || 0;
+    const newRank = sourceRank[banner.source] || 0;
 
     if (newRank > existingRank) {
-      map.set(b.categoryId, b);
+      map.set(banner.categoryId, banner);
     }
   }
 
@@ -266,15 +271,19 @@ function dedupeCampaigns(banners) {
 function pickCampaignCategoriesFromView(banners) {
   const deduped = dedupeCampaigns(banners);
 
-  // Best generic signal: primary EMS_CATEGORY link from Next data
-  const nextDataLinks = deduped.filter((b) => b.source === "nextData.EMSLink");
+  // Best generic signal: primary EMS_CATEGORY link from Next data.
+  const nextDataLinks = deduped.filter(
+    (banner) => banner.source === "nextData.EMSLink"
+  );
 
   if (nextDataLinks.length > 0) {
     return nextDataLinks.slice(0, 1);
   }
 
-  // Fallback: first strand category from the view page
-  const emsStrands = deduped.filter((b) => b.source === "emsStrand");
+  // Fallback: first strand category from the view page.
+  const emsStrands = deduped.filter(
+    (banner) => banner.source === "emsStrand"
+  );
 
   if (emsStrands.length > 0) {
     return emsStrands.slice(0, 1);
@@ -296,7 +305,12 @@ async function fetchViewCampaignBanners(locale, banner) {
   return [...fromNextData, ...fromTelemetry];
 }
 
-async function expandBanner(locale, banner, depth = 0, seenViews = new Set()) {
+async function expandBanner(
+  locale,
+  banner,
+  depth = 0,
+  seenViews = new Set()
+) {
   if (banner.type !== "EMS_VIEW" || !banner.viewId) {
     return [banner];
   }
@@ -317,11 +331,20 @@ async function expandBanner(locale, banner, depth = 0, seenViews = new Set()) {
 
   const viewBannersRaw = await fetchViewCampaignBanners(locale, banner);
 
-  console.log(`Found ${viewBannersRaw.length} raw categories inside EMS_VIEW`);
+  console.log(
+    `Found ${viewBannersRaw.length} raw categories inside EMS_VIEW`
+  );
 
-  for (const b of viewBannersRaw) {
+  for (const viewBanner of viewBannersRaw) {
     console.log(
-      `  VIEW RAW: ${b.categoryId || b.viewId} | ${b.internalName || b.strandName || b.source || ""}`
+      `  VIEW RAW: ${
+        viewBanner.categoryId || viewBanner.viewId
+      } | ${
+        viewBanner.internalName ||
+        viewBanner.strandName ||
+        viewBanner.source ||
+        ""
+      }`
     );
   }
 
@@ -353,11 +376,12 @@ async function fetchDealCampaignBanners(locale) {
 
   const rawBanners = extractCampaignBannersFromHtml(html, "deals");
 
-  // Keep only the first/top banner collection from the deals page.
-  // This prevents All Deals / See More / PS5 Games / Add-ons etc.
+  // Keep only the first/top banner collection from the Deals page.
+  // This prevents All Deals / See More / PS5 Games / Add-ons, etc.
   const topViewId = rawBanners[0]?.emsViewId;
+
   const topBanners = topViewId
-    ? rawBanners.filter((b) => b.emsViewId === topViewId)
+    ? rawBanners.filter((banner) => banner.emsViewId === topViewId)
     : rawBanners;
 
   const expandedBanners = [];
@@ -371,10 +395,13 @@ async function fetchDealCampaignBanners(locale) {
 }
 
 async function graphqlGet(operationName, variables, hash) {
-  const url = new URL("https://web.np.playstation.com/api/graphql/v1/op");
+  const url = new URL(
+    "https://web.np.playstation.com/api/graphql/v1/op"
+  );
 
   url.searchParams.set("operationName", operationName);
   url.searchParams.set("variables", JSON.stringify(variables));
+
   url.searchParams.set(
     "extensions",
     JSON.stringify({
@@ -404,18 +431,28 @@ async function graphqlGet(operationName, variables, hash) {
     console.error("Operation:", operationName);
     console.error("Variables:", JSON.stringify(variables, null, 2));
     console.error("Response:", text);
+
     throw new Error(`${operationName} HTTP ${res.status}`);
   }
 
   return JSON.parse(text);
 }
 
-async function fetchCategoryPage(categoryId, offset, size, filterBy, returnRaw = false) {
+async function fetchCategoryPage(
+  categoryId,
+  offset,
+  size,
+  filterBy,
+  returnRaw = false
+) {
   const json = await graphqlGet(
     "categoryGridRetrieve",
     {
       id: categoryId,
-      pageArgs: { size, offset },
+      pageArgs: {
+        size,
+        offset,
+      },
       sortBy: {
         name: "productReleaseDate",
         isAscending: false,
@@ -426,7 +463,9 @@ async function fetchCategoryPage(categoryId, offset, size, filterBy, returnRaw =
     CATEGORY_GRID_HASH
   );
 
-  if (returnRaw) return json;
+  if (returnRaw) {
+    return json;
+  }
 
   return json.data?.categoryGridRetrieve?.products || [];
 }
@@ -444,15 +483,24 @@ async function fetchTypeFacetCounts(categoryId) {
 }
 
 function getTrackedTypeFacetCounts(productsResponse) {
-  const trackedKeys = ["FULL_GAME", "GAME_BUNDLE", "PREMIUM_EDITION"];
+  const trackedKeys = [
+    "FULL_GAME",
+    "GAME_BUNDLE",
+    "PREMIUM_EDITION",
+  ];
 
-  const typeFacet = productsResponse?.data?.categoryGridRetrieve?.facetOptions
-    ?.find((facet) => facet.name === "storeDisplayClassification");
+  const typeFacet =
+    productsResponse?.data?.categoryGridRetrieve?.facetOptions?.find(
+      (facet) => facet.name === "storeDisplayClassification"
+    );
 
   const counts = {};
 
   for (const key of trackedKeys) {
-    const value = typeFacet?.values?.find((v) => v.key === key);
+    const value = typeFacet?.values?.find(
+      (facetValue) => facetValue.key === key
+    );
+
     counts[key] = value?.count ?? 0;
   }
 
@@ -460,26 +508,54 @@ function getTrackedTypeFacetCounts(productsResponse) {
 }
 
 function facetCountsChanged(oldCounts = {}, newCounts = {}) {
-  return ["FULL_GAME", "GAME_BUNDLE", "PREMIUM_EDITION"].some(
-    (key) => Number(oldCounts[key] || 0) !== Number(newCounts[key] || 0)
+  return [
+    "FULL_GAME",
+    "GAME_BUNDLE",
+    "PREMIUM_EDITION",
+  ].some(
+    (key) =>
+      Number(oldCounts[key] || 0) !==
+      Number(newCounts[key] || 0)
   );
 }
 
+function isExpiredSaleEnd(value) {
+  if (!value) return false;
+
+  const time = Date.parse(value);
+
+  if (Number.isNaN(time)) {
+    return false;
+  }
+
+  return time <= Date.now();
+}
+
 async function fetchSampleProductId(categoryId) {
-  const filterBy = [...STORE_DISPLAY_CLASSIFICATION_FILTERS];
+  const filterBy = [
+    ...STORE_DISPLAY_CLASSIFICATION_FILTERS,
+  ];
 
   for (let offset = 0; ; offset += SIZE) {
-    const products = await fetchCategoryPage(categoryId, offset, SIZE, filterBy);
-    const valid = products.filter(isValidDiscount);
+    const products = await fetchCategoryPage(
+      categoryId,
+      offset,
+      SIZE,
+      filterBy
+    );
 
-    if (valid.length > 0) {
+    const validProducts = products.filter(isValidDiscount);
+
+    if (validProducts.length > 0) {
       return {
-        id: valid[0].id,
-        name: valid[0].name || "",
+        id: validProducts[0].id,
+        name: validProducts[0].name || "",
       };
     }
 
-    if (products.length < SIZE) break;
+    if (products.length < SIZE) {
+      break;
+    }
   }
 
   return null;
@@ -488,11 +564,14 @@ async function fetchSampleProductId(categoryId) {
 async function fetchProductSaleEnd(productId) {
   const json = await graphqlGet(
     "productRetrieveForUpsellWithCtas",
-    { productId },
+    {
+      productId,
+    },
     PRODUCT_DETAIL_HASH
   );
 
-  const products = json?.data?.productRetrieve?.concept?.products || [];
+  const products =
+    json?.data?.productRetrieve?.concept?.products || [];
 
   for (const product of products) {
     for (const cta of product.webctas || []) {
@@ -520,75 +599,239 @@ async function discoverCampaigns() {
 
   console.log(`Discovering campaigns for ${LOCALE}...`);
 
-  const currentCampaigns = await fetchDealCampaignBanners(LOCALE);
-  const currentCampaignIds = new Set(currentCampaigns.map((c) => c.categoryId));
+  const currentCampaigns =
+    await fetchDealCampaignBanners(LOCALE);
 
-  console.log(`Found ${currentCampaigns.length} current campaign banners.`);
+  const currentCampaignIds = new Set(
+    currentCampaigns.map(
+      (campaign) => campaign.categoryId
+    )
+  );
+
+  console.log(
+    `Found ${currentCampaigns.length} current campaign banners.`
+  );
 
   for (const campaign of currentCampaigns) {
     console.log(
-      `Detected campaign: ${campaign.categoryId} | ${campaign.internalName || campaign.strandName || campaign.source || ""}`
+      `Detected campaign: ${
+        campaign.categoryId
+      } | ${
+        campaign.internalName ||
+        campaign.strandName ||
+        campaign.source ||
+        ""
+      }`
     );
   }
 
-for (const [categoryId, cached] of Object.entries(cache.active)) {
-  if (categoryId === ALL_DEALS_CATEGORY.categoryId) {
-    continue;
-  }
-
-  const missingFromCurrentDealsPage = !currentCampaignIds.has(categoryId);
-
-  if (missingFromCurrentDealsPage) {
-      const removedCampaign = {
-        ...cached,
-        categoryId,
-        endedReason: "missing from deals page",
-        endedDetectedAt: today,
-      };
-
-      campaignsToRemove.push(removedCampaign);
-
-      cache.history[categoryId] = {
-        ...removedCampaign,
-        ended: true,
-      };
-
-      delete cache.active[categoryId];
+  /*
+   * Remove cached campaigns that no longer appear on the
+   * PlayStation Deals page.
+   */
+  for (
+    const [categoryId, cached] of
+    Object.entries(cache.active)
+  ) {
+    if (
+      categoryId === ALL_DEALS_CATEGORY.categoryId
+    ) {
+      continue;
     }
+
+    const missingFromCurrentDealsPage =
+      !currentCampaignIds.has(categoryId);
+
+    if (!missingFromCurrentDealsPage) {
+      continue;
+    }
+
+    const removedCampaign = {
+      ...cached,
+      categoryId,
+      endedReason: "missing from deals page",
+      endedDetectedAt: today,
+    };
+
+    campaignsToRemove.push(removedCampaign);
+
+    cache.history[categoryId] = {
+      ...removedCampaign,
+      ended: true,
+    };
+
+    delete cache.active[categoryId];
   }
 
   for (const campaign of currentCampaigns) {
-    const cached = cache.active[campaign.categoryId];
+    const cached =
+      cache.active[campaign.categoryId];
 
+    /*
+     * Existing campaign that has already been scraped.
+     */
     if (cached?.lastRan) {
-      console.log(`Checking facet counts for active campaign: ${campaign.internalName}`);
+      /*
+       * The campaign is still visible, but the stored sale
+       * end has passed.
+       *
+       * Sample another currently discounted product and ask
+       * its product page for a fresh end date. This handles
+       * campaigns that Sony extends without changing the
+       * campaign/category ID.
+       */
+      if (isExpiredSaleEnd(cached.saleEnds)) {
+        console.log(
+          `Cached SaleEnds has expired for visible campaign: ${
+            campaign.internalName ||
+            campaign.categoryId
+          }. Re-sampling a product.`
+        );
 
-      const currentFacetCounts = await fetchTypeFacetCounts(campaign.categoryId);
-      const oldFacetCounts = cached.typeFacetCounts || {};
+        const refreshedSample =
+          await fetchSampleProductId(
+            campaign.categoryId
+          );
 
-      if (!facetCountsChanged(oldFacetCounts, currentFacetCounts)) {
-        console.log(`Skipping unchanged active campaign: ${campaign.internalName}`);
+        const refreshedSaleEnds =
+          refreshedSample
+            ? await fetchProductSaleEnd(
+                refreshedSample.id
+              )
+            : "";
+
+        if (
+          refreshedSaleEnds &&
+          refreshedSaleEnds !== cached.saleEnds
+        ) {
+          console.log(
+            `Refreshed SaleEnds: ${
+              cached.saleEnds
+            } -> ${refreshedSaleEnds}`
+          );
+
+          const currentFacetCounts =
+            await fetchTypeFacetCounts(
+              campaign.categoryId
+            );
+
+          campaignsToRun.push({
+            ...campaign,
+            saleEnds: refreshedSaleEnds,
+            sampleProductId:
+              refreshedSample.id,
+            sampleProductName:
+              refreshedSample.name,
+            discoveredAt:
+              cached.discoveredAt || today,
+            typeFacetCounts:
+              currentFacetCounts,
+            reason:
+              "Expired sale end refreshed",
+          });
+
+          cache.active[campaign.categoryId] = {
+            ...cached,
+            ...campaign,
+            saleEnds: refreshedSaleEnds,
+            sampleProductId:
+              refreshedSample.id,
+            sampleProductName:
+              refreshedSample.name,
+            typeFacetCounts:
+              currentFacetCounts,
+            lastRan: "",
+            region: LOCALE,
+          };
+
+          /*
+           * No need to perform another facet-count check.
+           * The campaign is already scheduled for a full rerun.
+           */
+          continue;
+        }
+
+        if (!refreshedSample) {
+          console.warn(
+            `No discounted sample product found while refreshing ${
+              campaign.internalName ||
+              campaign.categoryId
+            }.`
+          );
+        } else if (!refreshedSaleEnds) {
+          console.warn(
+            `The re-sampled product did not provide a SaleEnds value for ${
+              campaign.internalName ||
+              campaign.categoryId
+            }.`
+          );
+        } else {
+          console.warn(
+            `Re-sampled product returned the same expired SaleEnds for ${
+              campaign.internalName ||
+              campaign.categoryId
+            }: ${refreshedSaleEnds}`
+          );
+        }
+      }
+
+      console.log(
+        `Checking facet counts for active campaign: ${
+          campaign.internalName ||
+          campaign.categoryId
+        }`
+      );
+
+      const currentFacetCounts =
+        await fetchTypeFacetCounts(
+          campaign.categoryId
+        );
+
+      const oldFacetCounts =
+        cached.typeFacetCounts || {};
+
+      if (
+        !facetCountsChanged(
+          oldFacetCounts,
+          currentFacetCounts
+        )
+      ) {
+        console.log(
+          `Skipping unchanged active campaign: ${
+            campaign.internalName ||
+            campaign.categoryId
+          }`
+        );
+
         continue;
       }
 
       console.log(
-        `Facet count changed. Re-running campaign: ${campaign.internalName}`
+        `Facet count changed. Re-running campaign: ${
+          campaign.internalName ||
+          campaign.categoryId
+        }`
       );
 
       campaignsToRun.push({
         ...campaign,
         saleEnds: cached.saleEnds || "",
-        sampleProductId: cached.sampleProductId || "",
-        sampleProductName: cached.sampleProductName || "",
-        discoveredAt: cached.discoveredAt || today,
-        typeFacetCounts: currentFacetCounts,
+        sampleProductId:
+          cached.sampleProductId || "",
+        sampleProductName:
+          cached.sampleProductName || "",
+        discoveredAt:
+          cached.discoveredAt || today,
+        typeFacetCounts:
+          currentFacetCounts,
         reason: "Type facet count changed",
       });
 
       cache.active[campaign.categoryId] = {
         ...cached,
         ...campaign,
-        typeFacetCounts: currentFacetCounts,
+        typeFacetCounts:
+          currentFacetCounts,
         lastRan: "",
         region: LOCALE,
       };
@@ -596,22 +839,40 @@ for (const [categoryId, cached] of Object.entries(cache.active)) {
       continue;
     }
 
+    /*
+     * New campaign, or a campaign already queued because
+     * its previous scrape did not complete.
+     */
     console.log(
-      `Checking new campaign: ${campaign.internalName || campaign.categoryId}`
+      `Checking new campaign: ${
+        campaign.internalName ||
+        campaign.categoryId
+      }`
     );
 
-    const sample = await fetchSampleProductId(campaign.categoryId);
+    const sample =
+      await fetchSampleProductId(
+        campaign.categoryId
+      );
 
     if (!sample) {
       console.warn(
-        `No sample product found for ${campaign.internalName || campaign.categoryId}`
+        `No sample product found for ${
+          campaign.internalName ||
+          campaign.categoryId
+        }`
       );
+
       continue;
     }
 
-    const saleEnds = await fetchProductSaleEnd(sample.id);
+    const saleEnds =
+      await fetchProductSaleEnd(sample.id);
 
-    const typeFacetCounts = await fetchTypeFacetCounts(campaign.categoryId);
+    const typeFacetCounts =
+      await fetchTypeFacetCounts(
+        campaign.categoryId
+      );
 
     const campaignWithMeta = {
       ...campaign,
@@ -628,63 +889,101 @@ for (const [categoryId, cached] of Object.entries(cache.active)) {
       region: LOCALE,
     };
 
-    campaignsToRun.push(campaignWithMeta);
+    campaignsToRun.push(
+      campaignWithMeta
+    );
   }
 
-  const allDealsFacetCounts = await fetchTypeFacetCounts(
-  ALL_DEALS_CATEGORY.categoryId
-);
+  /*
+   * Check All Deals separately.
+   */
+  const allDealsFacetCounts =
+    await fetchTypeFacetCounts(
+      ALL_DEALS_CATEGORY.categoryId
+    );
 
-const oldAllDealsFacetCounts =
-  cache.active[ALL_DEALS_CATEGORY.categoryId]?.typeFacetCounts || {};
+  const oldAllDealsFacetCounts =
+    cache.active[
+      ALL_DEALS_CATEGORY.categoryId
+    ]?.typeFacetCounts || {};
 
-const allDealsCountChanged = facetCountsChanged(
-  oldAllDealsFacetCounts,
-  allDealsFacetCounts
-);
+  const allDealsCountChanged =
+    facetCountsChanged(
+      oldAllDealsFacetCounts,
+      allDealsFacetCounts
+    );
 
-if (allDealsCountChanged) {
-  console.log("All Deals count changed. Rebuilding All Deals.");
+  if (allDealsCountChanged) {
+    console.log(
+      "All Deals count changed. Rebuilding All Deals."
+    );
 
-  const allDealsSample = await fetchSampleProductId(
-    ALL_DEALS_CATEGORY.categoryId
-  );
+    const allDealsSample =
+      await fetchSampleProductId(
+        ALL_DEALS_CATEGORY.categoryId
+      );
 
-  const allDealsSaleEnds = allDealsSample
-    ? await fetchProductSaleEnd(allDealsSample.id)
-    : "";
+    const allDealsSaleEnds =
+      allDealsSample
+        ? await fetchProductSaleEnd(
+            allDealsSample.id
+          )
+        : "";
 
-  campaignsToRun.push({
-    ...ALL_DEALS_CATEGORY,
-    saleEnds: allDealsSaleEnds,
-    sampleProductId: allDealsSample?.id || "",
-    sampleProductName: allDealsSample?.name || "",
-    discoveredAt: today,
-    typeFacetCounts: allDealsFacetCounts,
-    reason: "All Deals count changed",
-  });
+    campaignsToRun.push({
+      ...ALL_DEALS_CATEGORY,
+      saleEnds: allDealsSaleEnds,
+      sampleProductId:
+        allDealsSample?.id || "",
+      sampleProductName:
+        allDealsSample?.name || "",
+      discoveredAt: today,
+      typeFacetCounts:
+        allDealsFacetCounts,
+      reason:
+        "All Deals count changed",
+    });
 
-  cache.active[ALL_DEALS_CATEGORY.categoryId] = {
-    ...ALL_DEALS_CATEGORY,
-    saleEnds: allDealsSaleEnds,
-    sampleProductId: allDealsSample?.id || "",
-    sampleProductName: allDealsSample?.name || "",
-    typeFacetCounts: allDealsFacetCounts,
-    lastRan: "",
-    region: LOCALE,
-  };
-}
+    cache.active[
+      ALL_DEALS_CATEGORY.categoryId
+    ] = {
+      ...ALL_DEALS_CATEGORY,
+      saleEnds: allDealsSaleEnds,
+      sampleProductId:
+        allDealsSample?.id || "",
+      sampleProductName:
+        allDealsSample?.name || "",
+      typeFacetCounts:
+        allDealsFacetCounts,
+      lastRan: "",
+      region: LOCALE,
+    };
+  }
 
+  /*
+   * Whenever any campaign is added, changed, refreshed, or
+   * removed, also rebuild All Deals.
+   */
   const shouldRunAllDeals =
-    campaignsToRun.length > 0 || campaignsToRemove.length > 0;
+    campaignsToRun.length > 0 ||
+    campaignsToRemove.length > 0;
+
+  const allDealsAlreadyQueued =
+    campaignsToRun.some(
+      (campaign) =>
+        campaign.categoryId ===
+        ALL_DEALS_CATEGORY.categoryId
+    );
 
   if (
-  shouldRunAllDeals &&
-  !campaignsToRun.some((c) => c.categoryId === ALL_DEALS_CATEGORY.categoryId)
-) {
+    shouldRunAllDeals &&
+    !allDealsAlreadyQueued
+  ) {
     const earliestSaleEnds =
       campaignsToRun
-        .map((c) => c.saleEnds)
+        .map(
+          (campaign) => campaign.saleEnds
+        )
         .filter(Boolean)
         .sort()[0] || "";
 
@@ -694,12 +993,16 @@ if (allDealsCountChanged) {
       discoveredAt: today,
       reason:
         campaignsToRun.length > 0
-          ? "Included because at least one new campaign needs processing"
+          ? "Included because at least one campaign needs processing"
           : "Included because at least one campaign expired/was removed",
     });
   }
 
-  await fs.writeFile(CACHE_FILE, JSON.stringify(cache, null, 2), "utf8");
+  await fs.writeFile(
+    CACHE_FILE,
+    JSON.stringify(cache, null, 2),
+    "utf8"
+  );
 
   return {
     cache,
@@ -718,14 +1021,34 @@ module.exports = {
 
 if (require.main === module) {
   discoverCampaigns()
-    .then(({ campaignsToRun, campaignsToRemove }) => {
-      console.log("\nDiscovery complete.");
-      console.log(`Campaigns to run: ${campaignsToRun.length}`);
-      console.log(`Campaigns to remove: ${campaignsToRemove.length}`);
-      console.log(`Cache: ${CACHE_FILE}`);
-    })
-    .catch((err) => {
-      console.error(err);
+    .then(
+      ({
+        campaignsToRun,
+        campaignsToRemove,
+      }) => {
+        console.log(
+          "\nDiscovery complete."
+        );
+
+        console.log(
+          `Campaigns to run: ${
+            campaignsToRun.length
+          }`
+        );
+
+        console.log(
+          `Campaigns to remove: ${
+            campaignsToRemove.length
+          }`
+        );
+
+        console.log(
+          `Cache: ${CACHE_FILE}`
+        );
+      }
+    )
+    .catch((error) => {
+      console.error(error);
       process.exit(1);
     });
 }
