@@ -71,24 +71,6 @@
       },
       "lastRan": "2026-07-14",
       "region": "en-tr"
-    },
-    "f57b1094-e711-4f2a-99da-88b97b0720ba": {
-      "categoryId": "f57b1094-e711-4f2a-99da-88b97b0720ba",
-      "internalName": "cat.gma.AllDeals",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-29T22:59:00.000Z",
-      "sampleProductId": "EP4133-PPSA28981_00-YERBABUENAGAME00",
-      "sampleProductName": "Yerba Buena",
-      "discoveredAt": "2026-07-14",
-      "typeFacetCounts": {
-        "FULL_GAME": 109,
-        "GAME_BUNDLE": 37,
-        "PREMIUM_EDITION": 30
-      },
-      "lastRan": "",
-      "region": "en-tr"
     }
   },
   "history": {
@@ -172,6 +154,27 @@
       "region": "en-tr",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-07-02",
+      "ended": true
+    },
+    "f57b1094-e711-4f2a-99da-88b97b0720ba": {
+      "categoryId": "f57b1094-e711-4f2a-99da-88b97b0720ba",
+      "internalName": "cat.gma.AllDeals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-29T22:59:00.000Z",
+      "sampleProductId": "EP4133-PPSA28981_00-YERBABUENAGAME00",
+      "sampleProductName": "Yerba Buena",
+      "discoveredAt": "2026-07-14",
+      "typeFacetCounts": {
+        "FULL_GAME": 109,
+        "GAME_BUNDLE": 37,
+        "PREMIUM_EDITION": 30
+      },
+      "lastRan": "",
+      "region": "en-tr",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-15",
       "ended": true
     }
   }

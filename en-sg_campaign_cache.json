@@ -1,43 +1,5 @@
 {
   "active": {
-    "43168327-a9f3-4918-8484-59c5c9ac1c94": {
-      "categoryId": "43168327-a9f3-4918-8484-59c5c9ac1c94",
-      "internalName": "cat.gma.July_Savings",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-15T14:59:00.000Z",
-      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
-      "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
-      "discoveredAt": "2026-07-01",
-      "typeFacetCounts": {
-        "FULL_GAME": 1878,
-        "GAME_BUNDLE": 238,
-        "PREMIUM_EDITION": 162
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-07-09",
-      "region": "en-sg"
-    },
-    "55caed16-8224-4c17-b329-46ded950a32f": {
-      "categoryId": "55caed16-8224-4c17-b329-46ded950a32f",
-      "internalName": "cat.gma.GamesUnder15ALT",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-15T14:59:00.000Z",
-      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
-      "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
-      "discoveredAt": "2026-07-01",
-      "typeFacetCounts": {
-        "FULL_GAME": 1632,
-        "GAME_BUNDLE": 144,
-        "PREMIUM_EDITION": 61
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-07-09",
-      "region": "en-sg"
-    },
     "3f772501-f6f8-49b7-abac-874a88ca4897": {
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
@@ -158,6 +120,50 @@
       "region": "en-sg",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-07-14",
+      "ended": true
+    },
+    "43168327-a9f3-4918-8484-59c5c9ac1c94": {
+      "categoryId": "43168327-a9f3-4918-8484-59c5c9ac1c94",
+      "internalName": "cat.gma.July_Savings",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-15T14:59:00.000Z",
+      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
+      "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-07-01",
+      "typeFacetCounts": {
+        "FULL_GAME": 1878,
+        "GAME_BUNDLE": 238,
+        "PREMIUM_EDITION": 162
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-09",
+      "region": "en-sg",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-15",
+      "ended": true
+    },
+    "55caed16-8224-4c17-b329-46ded950a32f": {
+      "categoryId": "55caed16-8224-4c17-b329-46ded950a32f",
+      "internalName": "cat.gma.GamesUnder15ALT",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "",
+      "saleEnds": "2026-07-15T14:59:00.000Z",
+      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
+      "sampleProductName": "Dragon Loop (Simplified Chinese, English, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-07-01",
+      "typeFacetCounts": {
+        "FULL_GAME": 1632,
+        "GAME_BUNDLE": 144,
+        "PREMIUM_EDITION": 61
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-09",
+      "region": "en-sg",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-07-15",
       "ended": true
     }
   }
