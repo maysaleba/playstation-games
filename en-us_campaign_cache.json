@@ -8,7 +8,7 @@
       "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
       "sampleProductName": "Heroines of Fantasy",
       "typeFacetCounts": {
-        "FULL_GAME": 6619,
+        "FULL_GAME": 6620,
         "GAME_BUNDLE": 1070,
         "PREMIUM_EDITION": 424
       },
@@ -25,13 +25,13 @@
       "saleEnds": "2026-07-16T06:59:00.000Z",
       "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
       "sampleProductName": "Heroines of Fantasy",
-      "discoveredAt": "2026-07-15",
+      "discoveredAt": "2026-07-16",
       "typeFacetCounts": {
         "FULL_GAME": 3309,
         "GAME_BUNDLE": 532,
         "PREMIUM_EDITION": 244
       },
-      "lastRan": "",
+      "lastRan": "2026-07-16",
       "region": "en-us"
     }
   },
