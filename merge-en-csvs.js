@@ -368,7 +368,7 @@ for (const file of FILES) {
     const existing = merged.get(mergeKey);
 
     existing.SaleEnds = normalizeDate(
-      earlierDate(existing.SaleEnds, row.SaleEnds)
+      laterDate(existing.SaleEnds, row.SaleEnds)
     );
 
     existing.SaleStarted = normalizeDate(
