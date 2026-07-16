@@ -522,13 +522,23 @@ async function main() {
   console.log(`Campaigns to run: ${campaignsToRun.length}`);
   console.log(`Campaigns to remove: ${removeCampaignIds.size}`);
 
-  const willRunAllDeals = campaignsToRun.some(
-    (c) => c.categoryId === ALL_DEALS_ID
+  const rerunCampaignIds = new Set(
+    campaignsToRun
+      .map((campaign) => campaign.categoryId)
+      .filter(Boolean)
   );
 
   let rows = existingRows.filter((row) => {
-    if (removeCampaignIds.has(row.CampaignCategoryId)) return false;
-    if (willRunAllDeals && row.CampaignCategoryId === ALL_DEALS_ID) return false;
+    // Remove campaigns that disappeared from the Deals page
+    if (removeCampaignIds.has(row.CampaignCategoryId)) {
+      return false;
+    }
+
+    // Remove old rows for every campaign that is about to be rebuilt
+    if (rerunCampaignIds.has(row.CampaignCategoryId)) {
+      return false;
+    }
+
     return true;
   });
 
