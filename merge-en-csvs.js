@@ -55,7 +55,6 @@ const OUTPUT_HEADERS = [
   "platform",
   "ESRBRating",
   "MexPrice",
-
   "idPrice",
   "idSalePrice",
   "inPrice",
@@ -66,6 +65,8 @@ const OUTPUT_HEADERS = [
   "trSalePrice",
   "usPrice",
   "usSalePrice",
+  "hkPrice",
+  "hkSalePrice",
 ];
 
 // =====================================================
