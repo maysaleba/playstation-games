@@ -70,6 +70,10 @@ jobs:
         continue-on-error: true
         run: node us_runCampaignDeals.js
 
+      - name: Run Hong Kong
+        continue-on-error: true
+        run: node hk_runCampaignDeals.js
+
       # =====================================================
       # MERGE OUTPUT
       # =====================================================
