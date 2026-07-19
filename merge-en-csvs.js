@@ -13,6 +13,7 @@ const FILES = [
   "en-sg_campaign_deals.json",
   "en-tr_campaign_deals.json",
   "en-us_campaign_deals.json",
+  "en-hk_campaign_deals.json",
 ];
 
 const GA_PROPERTY_ID = "272381607";
