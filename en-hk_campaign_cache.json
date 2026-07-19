@@ -1,0 +1,39 @@
+{
+  "active": {
+    "37996078-1f69-49d7-84d9-9997ec0f87dc": {
+      "categoryId": "37996078-1f69-49d7-84d9-9997ec0f87dc",
+      "internalName": "cat.gma.SummerSale",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEAsia",
+      "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
+      "saleEnds": "2026-07-29T14:59:00.000Z",
+      "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
+      "sampleProductName": "Heroines of Fantasy (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-07-19",
+      "typeFacetCounts": {
+        "FULL_GAME": 2171,
+        "GAME_BUNDLE": 336,
+        "PREMIUM_EDITION": 170
+      },
+      "lastRan": "2026-07-19",
+      "region": "en-hk"
+    },
+    "3f772501-f6f8-49b7-abac-874a88ca4897": {
+      "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
+      "internalName": "cat.gma.AllDeals",
+      "emsViewId": "static",
+      "saleEnds": "2026-07-29T14:59:00.000Z",
+      "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
+      "sampleProductName": "Heroines of Fantasy (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "typeFacetCounts": {
+        "FULL_GAME": 2171,
+        "GAME_BUNDLE": 341,
+        "PREMIUM_EDITION": 170
+      },
+      "lastRan": "",
+      "region": "en-hk"
+    }
+  },
+  "history": {}
+}
