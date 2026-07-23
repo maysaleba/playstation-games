@@ -79,6 +79,11 @@ function cleanProductName(productName = "") {
     .replace(/\sfor\sPlayStation®5/i, "")
     .replace(/\sPS4™ Edition/i, "")
     .replace(/\sPS5™ Edition/i, "")
+
+    // Remove the whole "PS4 Version" or "PS5 Version" phrase
+    .replace(/\sPS4(?:™|®)?\s+Version\b/gi, "")
+    .replace(/\sPS5(?:™|®)?\s+Version\b/gi, "")
+
     .replace(
       /\s*(\[|\s)(PS4 & PS5|PS4＆PS5|＆PS5)(\]|\s)*|\s*PS4&PS5|\s*PS4(™|®)?\s*&\s*PS5(™|®)?/g,
       ""
