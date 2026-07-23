@@ -8,9 +8,9 @@
       "sampleProductId": "",
       "sampleProductName": "",
       "typeFacetCounts": {
-        "FULL_GAME": 32,
+        "FULL_GAME": 31,
         "GAME_BUNDLE": 8,
-        "PREMIUM_EDITION": 1
+        "PREMIUM_EDITION": 2
       },
       "lastRan": "",
       "region": "en-id"
