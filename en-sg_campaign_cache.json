@@ -27,11 +27,12 @@
       "sampleProductName": "Heroines of Fantasy (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-07-16",
       "typeFacetCounts": {
-        "FULL_GAME": 2194,
+        "FULL_GAME": 1362,
         "GAME_BUNDLE": 339,
-        "PREMIUM_EDITION": 171
+        "PREMIUM_EDITION": 226
       },
-      "lastRan": "2026-07-16",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-27",
       "region": "en-sg"
     }
   },
