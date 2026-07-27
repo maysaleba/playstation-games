@@ -4,13 +4,13 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-07-30T06:59:00.000Z",
-      "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
-      "sampleProductName": "Heroines of Fantasy",
+      "saleEnds": "2026-08-13T06:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
+      "sampleProductName": "Rally Car Mechanic Simulator",
       "typeFacetCounts": {
-        "FULL_GAME": 3319,
-        "GAME_BUNDLE": 557,
-        "PREMIUM_EDITION": 248
+        "FULL_GAME": 5268,
+        "GAME_BUNDLE": 1010,
+        "PREMIUM_EDITION": 485
       },
       "lastRan": "",
       "region": "en-us"
@@ -27,12 +27,12 @@
       "sampleProductName": "Heroines of Fantasy",
       "discoveredAt": "2026-07-16",
       "typeFacetCounts": {
-        "FULL_GAME": 3309,
-        "GAME_BUNDLE": 532,
-        "PREMIUM_EDITION": 244
+        "FULL_GAME": 2040,
+        "GAME_BUNDLE": 466,
+        "PREMIUM_EDITION": 256
       },
-      "reason": "Expired sale end refreshed",
-      "lastRan": "2026-07-16",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-27",
       "region": "en-us"
     }
   },

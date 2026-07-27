@@ -27,11 +27,12 @@
       "sampleProductName": "Heroines of Fantasy",
       "discoveredAt": "2026-07-16",
       "typeFacetCounts": {
-        "FULL_GAME": 3210,
-        "GAME_BUNDLE": 529,
-        "PREMIUM_EDITION": 242
+        "FULL_GAME": 1937,
+        "GAME_BUNDLE": 451,
+        "PREMIUM_EDITION": 258
       },
-      "lastRan": "2026-07-16",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-27",
       "region": "en-tr"
     }
   },
