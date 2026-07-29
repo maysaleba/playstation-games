@@ -7,17 +7,17 @@
       "source": "nextData.EMSLink",
       "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEAsia",
       "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
-      "saleEnds": "2026-07-29T14:59:00.000Z",
-      "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
-      "sampleProductName": "Heroines of Fantasy (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "saleEnds": "2026-08-12T14:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
+      "sampleProductName": "Rally Car Mechanic Simulator (Simplified Chinese, English)",
       "discoveredAt": "2026-07-19",
       "typeFacetCounts": {
         "FULL_GAME": 1339,
         "GAME_BUNDLE": 316,
         "PREMIUM_EDITION": 224
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-07-27",
+      "reason": "Expired sale end refreshed",
+      "lastRan": "2026-07-29",
       "region": "en-hk"
     },
     "3f772501-f6f8-49b7-abac-874a88ca4897": {
@@ -28,9 +28,9 @@
       "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
       "sampleProductName": "Rally Car Mechanic Simulator (Simplified Chinese, English)",
       "typeFacetCounts": {
-        "FULL_GAME": 3432,
-        "GAME_BUNDLE": 644,
-        "PREMIUM_EDITION": 386
+        "FULL_GAME": 1407,
+        "GAME_BUNDLE": 329,
+        "PREMIUM_EDITION": 226
       },
       "lastRan": "",
       "region": "en-hk"
