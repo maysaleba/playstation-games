@@ -8,9 +8,9 @@
       "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
       "sampleProductName": "Rally Car Mechanic Simulator",
       "typeFacetCounts": {
-        "FULL_GAME": 5276,
-        "GAME_BUNDLE": 1010,
-        "PREMIUM_EDITION": 488
+        "FULL_GAME": 2148,
+        "GAME_BUNDLE": 483,
+        "PREMIUM_EDITION": 252
       },
       "lastRan": "",
       "region": "en-us"
@@ -22,17 +22,17 @@
       "source": "nextData.EMSLink",
       "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEA",
       "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
-      "saleEnds": "2026-07-30T06:59:00.000Z",
-      "sampleProductId": "EP5506-CUSA58614_00-0606487098617062",
-      "sampleProductName": "Heroines of Fantasy",
+      "saleEnds": "2026-08-13T06:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
+      "sampleProductName": "Rally Car Mechanic Simulator",
       "discoveredAt": "2026-07-16",
       "typeFacetCounts": {
         "FULL_GAME": 2040,
         "GAME_BUNDLE": 466,
         "PREMIUM_EDITION": 256
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-07-27",
+      "reason": "Expired sale end refreshed",
+      "lastRan": "2026-07-30",
       "region": "en-us"
     }
   },

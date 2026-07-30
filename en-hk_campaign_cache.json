@@ -12,12 +12,12 @@
       "sampleProductName": "Rally Car Mechanic Simulator (Simplified Chinese, English)",
       "discoveredAt": "2026-07-19",
       "typeFacetCounts": {
-        "FULL_GAME": 1339,
+        "FULL_GAME": 1338,
         "GAME_BUNDLE": 316,
         "PREMIUM_EDITION": 224
       },
-      "reason": "Expired sale end refreshed",
-      "lastRan": "2026-07-29",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-07-30",
       "region": "en-hk"
     },
     "3f772501-f6f8-49b7-abac-874a88ca4897": {
@@ -28,9 +28,9 @@
       "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
       "sampleProductName": "Rally Car Mechanic Simulator (Simplified Chinese, English)",
       "typeFacetCounts": {
-        "FULL_GAME": 1408,
-        "GAME_BUNDLE": 329,
-        "PREMIUM_EDITION": 227
+        "FULL_GAME": 1407,
+        "GAME_BUNDLE": 328,
+        "PREMIUM_EDITION": 226
       },
       "lastRan": "",
       "region": "en-hk"
