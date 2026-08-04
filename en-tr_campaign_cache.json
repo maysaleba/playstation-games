@@ -8,9 +8,9 @@
       "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
       "sampleProductName": "Rally Car Mechanic Simulator",
       "typeFacetCounts": {
-        "FULL_GAME": 1963,
-        "GAME_BUNDLE": 467,
-        "PREMIUM_EDITION": 266
+        "FULL_GAME": 1909,
+        "GAME_BUNDLE": 460,
+        "PREMIUM_EDITION": 265
       },
       "lastRan": "",
       "region": "en-tr"
@@ -27,12 +27,12 @@
       "sampleProductName": "Rally Car Mechanic Simulator",
       "discoveredAt": "2026-07-16",
       "typeFacetCounts": {
-        "FULL_GAME": 1937,
-        "GAME_BUNDLE": 451,
-        "PREMIUM_EDITION": 258
+        "FULL_GAME": 1883,
+        "GAME_BUNDLE": 444,
+        "PREMIUM_EDITION": 257
       },
-      "reason": "Expired sale end refreshed",
-      "lastRan": "2026-07-29",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-08-04",
       "region": "en-tr"
     }
   },
