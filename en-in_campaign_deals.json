@@ -66600,16 +66600,16 @@
     "PercentOff": "40%",
     "Title": "Gemz 6 Avatar Bundle",
     "OriginalTitle": "Gemz 6 Avatar Bundle",
-    "Slug": "gemz-6-avatar-bundle-ps5",
-    "id": "EP4312-PPSA22741_00-0685933227529484",
+    "Slug": "gemz-6-avatar-bundle-ps4",
+    "id": "EP4312-CUSA48563_00-0512340239469558",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1822/0ad613b14b6fe4ac64e4a8d20c87f65479c5c2254cf7d5ee.png?w=200",
-    "PS4": "FALSE",
-    "PS5": "TRUE",
+    "PS4": "TRUE",
+    "PS5": "FALSE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-in",
-    "url": "https://store.playstation.com/en-in/product/EP4312-PPSA22741_00-0685933227529484"
+    "url": "https://store.playstation.com/en-in/product/EP4312-CUSA48563_00-0512340239469558"
   },
   {
     "SCORE": "",
@@ -66626,16 +66626,16 @@
     "PercentOff": "40%",
     "Title": "Gemz 6 Avatar Bundle",
     "OriginalTitle": "Gemz 6 Avatar Bundle",
-    "Slug": "gemz-6-avatar-bundle-ps4",
-    "id": "EP4312-CUSA48563_00-0512340239469558",
+    "Slug": "gemz-6-avatar-bundle-ps5",
+    "id": "EP4312-PPSA22741_00-0685933227529484",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1822/0ad613b14b6fe4ac64e4a8d20c87f65479c5c2254cf7d5ee.png?w=200",
-    "PS4": "TRUE",
-    "PS5": "FALSE",
+    "PS4": "FALSE",
+    "PS5": "TRUE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-in",
-    "url": "https://store.playstation.com/en-in/product/EP4312-CUSA48563_00-0512340239469558"
+    "url": "https://store.playstation.com/en-in/product/EP4312-PPSA22741_00-0685933227529484"
   },
   {
     "SCORE": "",
