@@ -67770,16 +67770,16 @@
     "PercentOff": "50%",
     "Title": "Sushi Plus 5 Avatar Bundle",
     "OriginalTitle": "Sushi Plus 5 Avatar Bundle",
-    "Slug": "sushi-plus-5-avatar-bundle-ps5",
-    "id": "UP4312-PPSA23269_00-0053597370356943",
+    "Slug": "sushi-plus-5-avatar-bundle-ps4",
+    "id": "UP4312-CUSA48874_00-0855782328790794",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/ee6af207b9eb9094b9f6c8d8e8b10f0b6dbebcbdff4a5e36.png?w=200",
-    "PS4": "FALSE",
-    "PS5": "TRUE",
+    "PS4": "TRUE",
+    "PS5": "FALSE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-us",
-    "url": "https://store.playstation.com/en-us/product/UP4312-PPSA23269_00-0053597370356943"
+    "url": "https://store.playstation.com/en-us/product/UP4312-CUSA48874_00-0855782328790794"
   },
   {
     "SCORE": "",
@@ -67796,16 +67796,16 @@
     "PercentOff": "50%",
     "Title": "Sushi Plus 5 Avatar Bundle",
     "OriginalTitle": "Sushi Plus 5 Avatar Bundle",
-    "Slug": "sushi-plus-5-avatar-bundle-ps4",
-    "id": "UP4312-CUSA48874_00-0855782328790794",
+    "Slug": "sushi-plus-5-avatar-bundle-ps5",
+    "id": "UP4312-PPSA23269_00-0053597370356943",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/ee6af207b9eb9094b9f6c8d8e8b10f0b6dbebcbdff4a5e36.png?w=200",
-    "PS4": "TRUE",
-    "PS5": "FALSE",
+    "PS4": "FALSE",
+    "PS5": "TRUE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-us",
-    "url": "https://store.playstation.com/en-us/product/UP4312-CUSA48874_00-0855782328790794"
+    "url": "https://store.playstation.com/en-us/product/UP4312-PPSA23269_00-0053597370356943"
   },
   {
     "SCORE": "",
