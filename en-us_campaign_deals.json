@@ -67822,16 +67822,16 @@
     "PercentOff": "50%",
     "Title": "AeonX 5 Avatar Bundle",
     "OriginalTitle": "AeonX 5 Avatar Bundle",
-    "Slug": "aeonx-5-avatar-bundle-ps5",
-    "id": "UP4312-PPSA23928_00-0491174958521428",
+    "Slug": "aeonx-5-avatar-bundle-ps4",
+    "id": "UP4312-CUSA49502_00-0505224940219111",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1922/580eef6eeebbdb70957a680ae8a3081c3d5c95402ef5c3ed.png?w=200",
-    "PS4": "FALSE",
-    "PS5": "TRUE",
+    "PS4": "TRUE",
+    "PS5": "FALSE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-us",
-    "url": "https://store.playstation.com/en-us/product/UP4312-PPSA23928_00-0491174958521428"
+    "url": "https://store.playstation.com/en-us/product/UP4312-CUSA49502_00-0505224940219111"
   },
   {
     "SCORE": "",
@@ -67848,16 +67848,16 @@
     "PercentOff": "50%",
     "Title": "AeonX 5 Avatar Bundle",
     "OriginalTitle": "AeonX 5 Avatar Bundle",
-    "Slug": "aeonx-5-avatar-bundle-ps4",
-    "id": "UP4312-CUSA49502_00-0505224940219111",
+    "Slug": "aeonx-5-avatar-bundle-ps5",
+    "id": "UP4312-PPSA23928_00-0491174958521428",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1922/580eef6eeebbdb70957a680ae8a3081c3d5c95402ef5c3ed.png?w=200",
-    "PS4": "TRUE",
-    "PS5": "FALSE",
+    "PS4": "FALSE",
+    "PS5": "TRUE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-us",
-    "url": "https://store.playstation.com/en-us/product/UP4312-CUSA49502_00-0505224940219111"
+    "url": "https://store.playstation.com/en-us/product/UP4312-PPSA23928_00-0491174958521428"
   },
   {
     "SCORE": "",
