@@ -4,35 +4,15 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-08-12T14:59:00.000Z",
-      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
-      "sampleProductName": "Rally Car Mechanic Simulator (Simplified Chinese, English)",
+      "saleEnds": "2026-08-26T14:59:00.000Z",
+      "sampleProductId": "HP8504-PPSA38949_00-0056435653091482",
+      "sampleProductName": "Trash Raccoon PS4® & PS5® (English, Japanese)",
       "typeFacetCounts": {
-        "FULL_GAME": 1334,
-        "GAME_BUNDLE": 336,
-        "PREMIUM_EDITION": 228
+        "FULL_GAME": 3036,
+        "GAME_BUNDLE": 535,
+        "PREMIUM_EDITION": 371
       },
       "lastRan": "",
-      "region": "en-sg"
-    },
-    "37996078-1f69-49d7-84d9-9997ec0f87dc": {
-      "categoryId": "37996078-1f69-49d7-84d9-9997ec0f87dc",
-      "internalName": "cat.gma.SummerSale",
-      "emsViewId": "",
-      "source": "nextData.EMSLink",
-      "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEAsia",
-      "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
-      "saleEnds": "2026-08-12T14:59:00.000Z",
-      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
-      "sampleProductName": "Rally Car Mechanic Simulator (Simplified Chinese, English)",
-      "discoveredAt": "2026-07-16",
-      "typeFacetCounts": {
-        "FULL_GAME": 1311,
-        "GAME_BUNDLE": 332,
-        "PREMIUM_EDITION": 224
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-08-07",
       "region": "en-sg"
     }
   },
@@ -165,6 +145,29 @@
       "region": "en-sg",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-07-15",
+      "ended": true
+    },
+    "37996078-1f69-49d7-84d9-9997ec0f87dc": {
+      "categoryId": "37996078-1f69-49d7-84d9-9997ec0f87dc",
+      "internalName": "cat.gma.SummerSale",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEAsia",
+      "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
+      "saleEnds": "2026-08-12T14:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
+      "sampleProductName": "Rally Car Mechanic Simulator (Simplified Chinese, English)",
+      "discoveredAt": "2026-07-16",
+      "typeFacetCounts": {
+        "FULL_GAME": 1311,
+        "GAME_BUNDLE": 332,
+        "PREMIUM_EDITION": 224
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-08-07",
+      "region": "en-sg",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-08-11",
       "ended": true
     }
   }

@@ -1,5 +1,22 @@
 {
   "active": {
+    "3f772501-f6f8-49b7-abac-874a88ca4897": {
+      "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
+      "internalName": "cat.gma.AllDeals",
+      "emsViewId": "static",
+      "saleEnds": "2026-08-26T14:59:00.000Z",
+      "sampleProductId": "HP8504-PPSA38949_00-0056435653091482",
+      "sampleProductName": "Trash Raccoon PS4® & PS5® (English, Japanese)",
+      "typeFacetCounts": {
+        "FULL_GAME": 3007,
+        "GAME_BUNDLE": 515,
+        "PREMIUM_EDITION": 357
+      },
+      "lastRan": "",
+      "region": "en-hk"
+    }
+  },
+  "history": {
     "37996078-1f69-49d7-84d9-9997ec0f87dc": {
       "categoryId": "37996078-1f69-49d7-84d9-9997ec0f87dc",
       "internalName": "cat.gma.SummerSale",
@@ -18,23 +35,10 @@
       },
       "reason": "Type facet count changed",
       "lastRan": "2026-08-07",
-      "region": "en-hk"
-    },
-    "3f772501-f6f8-49b7-abac-874a88ca4897": {
-      "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
-      "internalName": "cat.gma.AllDeals",
-      "emsViewId": "static",
-      "saleEnds": "2026-08-12T14:59:00.000Z",
-      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
-      "sampleProductName": "Rally Car Mechanic Simulator (Simplified Chinese, English)",
-      "typeFacetCounts": {
-        "FULL_GAME": 1311,
-        "GAME_BUNDLE": 313,
-        "PREMIUM_EDITION": 226
-      },
-      "lastRan": "",
-      "region": "en-hk"
+      "region": "en-hk",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-08-11",
+      "ended": true
     }
-  },
-  "history": {}
+  }
 }

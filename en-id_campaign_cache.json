@@ -4,13 +4,13 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "",
-      "sampleProductId": "",
-      "sampleProductName": "",
+      "saleEnds": "2026-08-26T14:59:00.000Z",
+      "sampleProductId": "HP8504-PPSA38949_00-0056435653091482",
+      "sampleProductName": "Trash Raccoon PS4® & PS5® (English, Japanese)",
       "typeFacetCounts": {
-        "FULL_GAME": 32,
-        "GAME_BUNDLE": 4,
-        "PREMIUM_EDITION": 3
+        "FULL_GAME": 1728,
+        "GAME_BUNDLE": 201,
+        "PREMIUM_EDITION": 142
       },
       "lastRan": "",
       "region": "en-id"

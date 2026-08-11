@@ -4,35 +4,15 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-08-12T22:59:00.000Z",
-      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
-      "sampleProductName": "Rally Car Mechanic Simulator",
+      "saleEnds": "2026-08-26T22:59:00.000Z",
+      "sampleProductId": "UP2833-CUSA59425_00-2000000000000000",
+      "sampleProductName": "Foot Clinic",
       "typeFacetCounts": {
-        "FULL_GAME": 1910,
-        "GAME_BUNDLE": 460,
-        "PREMIUM_EDITION": 265
+        "FULL_GAME": 4695,
+        "GAME_BUNDLE": 1003,
+        "PREMIUM_EDITION": 465
       },
       "lastRan": "",
-      "region": "en-tr"
-    },
-    "9569d3d2-d544-4b06-808c-8eda6f65d64f": {
-      "categoryId": "9569d3d2-d544-4b06-808c-8eda6f65d64f",
-      "internalName": "cat.gma.TGS2025_All",
-      "emsViewId": "",
-      "source": "nextData.EMSLink",
-      "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEE",
-      "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
-      "saleEnds": "2026-08-12T22:59:00.000Z",
-      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
-      "sampleProductName": "Rally Car Mechanic Simulator",
-      "discoveredAt": "2026-07-16",
-      "typeFacetCounts": {
-        "FULL_GAME": 1883,
-        "GAME_BUNDLE": 444,
-        "PREMIUM_EDITION": 257
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-08-04",
       "region": "en-tr"
     }
   },
@@ -182,6 +162,29 @@
       "region": "en-tr",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-07-15",
+      "ended": true
+    },
+    "9569d3d2-d544-4b06-808c-8eda6f65d64f": {
+      "categoryId": "9569d3d2-d544-4b06-808c-8eda6f65d64f",
+      "internalName": "cat.gma.TGS2025_All",
+      "emsViewId": "",
+      "source": "nextData.EMSLink",
+      "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - CTA - SIEE",
+      "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
+      "saleEnds": "2026-08-12T22:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
+      "sampleProductName": "Rally Car Mechanic Simulator",
+      "discoveredAt": "2026-07-16",
+      "typeFacetCounts": {
+        "FULL_GAME": 1883,
+        "GAME_BUNDLE": 444,
+        "PREMIUM_EDITION": 257
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-08-04",
+      "region": "en-tr",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-08-11",
       "ended": true
     }
   }
