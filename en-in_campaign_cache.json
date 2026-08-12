@@ -33,6 +33,24 @@
       },
       "lastRan": "2026-08-12",
       "region": "en-in"
+    },
+    "b24c16e8-6475-4477-8364-41ec777792d5": {
+      "categoryId": "b24c16e8-6475-4477-8364-41ec777792d5",
+      "internalName": "cat.gma.ReadySetPlay",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-08-26T22:59:00.000Z",
+      "sampleProductId": "UP2833-CUSA59425_00-2000000000000000",
+      "sampleProductName": "Foot Clinic",
+      "discoveredAt": "2026-08-12",
+      "typeFacetCounts": {
+        "FULL_GAME": 2891,
+        "GAME_BUNDLE": 547,
+        "PREMIUM_EDITION": 206
+      },
+      "lastRan": "2026-08-12",
+      "region": "en-in"
     }
   },
   "history": {
