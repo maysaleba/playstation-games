@@ -20,6 +20,15 @@ const CATEGORY_GRID_HASH =
 const PRODUCT_DETAIL_HASH =
   "fb0bfa0af4d8dc42b28fa5c077ed715543e7fb8a3deff8117a50b99864d246f1";
 
+const GET_EXPERIENCE_HASH =
+  "b5078800ed1bdebee9800979f9306abeadc5169030263f7095fe573b12e52270";
+
+const GET_VIEW_HASH =
+  "beaeeae873a79849b2bf1df0dde1c14cf72d99cd439d9b2c2387f0edc649596c";
+
+const STORE_CLIENT_ID =
+  "b6de8d4d-bf9b-11ee-ad2a-aea73dc1ea43";
+
 const STORE_DISPLAY_CLASSIFICATION_FILTERS = [
   "storeDisplayClassification:FULL_GAME",
   "storeDisplayClassification:GAME_BUNDLE",
@@ -252,6 +261,7 @@ function dedupeCampaigns(banners) {
     const sourceRank = {
       "nextData.priceSourceId": 5,
       "nextData.EMSLink": 4,
+      emsStrandCategoryId: 4,
       emsStrand: 3,
       emsBanner: 2,
       href: 1,
@@ -284,7 +294,6 @@ function pickCampaignCategoriesFromView(banners) {
   const emsStrands = deduped.filter(
     (banner) => banner.source === "emsStrand"
   );
-
   if (emsStrands.length > 0) {
     return emsStrands.slice(0, 1);
   }
@@ -292,7 +301,178 @@ function pickCampaignCategoriesFromView(banners) {
   return deduped.slice(0, 1);
 }
 
+function extractCampaignBannersFromViewUnion(
+  viewUnion,
+  experienceId = ""
+) {
+  const banners = [];
+
+  function addCategoryBanner(component, context, source) {
+    const categoryId =
+      component?.link?.target ||
+      component?.viewAllLink?.target ||
+      component?.categoryId ||
+      component?.priceSourceId;
+
+    if (!isUuid(categoryId)) {
+      return;
+    }
+
+    banners.push({
+      categoryId,
+      internalName:
+        component?.link?.localizedName ||
+        component?.title ||
+        component?.name ||
+        component?.telemetryData?.interactAction ||
+        context.reportingName ||
+        "",
+      emsViewId: context.emsViewId || "",
+      source,
+      strandName:
+        component?.telemetryData?.strandName ||
+        context.reportingName ||
+        "",
+    });
+  }
+
+  function addViewBanner(component, context) {
+    const viewId = component?.link?.target;
+
+    if (!isUuid(viewId)) {
+      return;
+    }
+
+    banners.push({
+      type: "EMS_VIEW",
+      viewId,
+      experienceId,
+      internalName:
+        component?.telemetryData?.interactAction ||
+        context.reportingName ||
+        "EMS_VIEW",
+      emsViewId: context.emsViewId || "",
+      source: component?.telemetryData?.contentSource || "emsBanner",
+      strandName: context.reportingName || "",
+    });
+  }
+
+  function walk(value, context = {}) {
+    if (!value || typeof value !== "object") {
+      return;
+    }
+
+    if (value.__typename === "EMSViewCollection") {
+      for (const childView of value.childViews || []) {
+        walk(childView, context);
+      }
+
+      return;
+    }
+
+    if (value.__typename !== "EMSView") {
+      return;
+    }
+
+    const viewContext = {
+      ...context,
+      emsViewId: value?.telemetryData?.emsViewId || value.id || "",
+      reportingName: value.reportingName || context.reportingName || "",
+      purpose: value.purpose || context.purpose || "",
+    };
+
+    for (const component of value.components || []) {
+      const linkType =
+        component?.link?.type || component?.viewAllLink?.type || "";
+
+      if (linkType === "EMS_CATEGORY") {
+        const source =
+          component?.telemetryData?.contentSource ||
+          (component.__typename === "EMSStrandComponent"
+            ? "emsStrand"
+            : "emsBanner");
+
+        addCategoryBanner(component, viewContext, source);
+      }
+
+      if (
+        component.__typename === "EMSStrandComponent" &&
+        isUuid(component.categoryId)
+      ) {
+        addCategoryBanner(
+          component,
+          viewContext,
+          "emsStrandCategoryId"
+        );
+      }
+
+      if (component?.link?.type === "EMS_VIEW") {
+        addViewBanner(component, viewContext);
+      }
+    }
+  }
+
+  walk(viewUnion);
+
+  return banners;
+}
+
+function extractCampaignBannersFromExperience(experience) {
+  const banners = [];
+
+  for (const view of experience?.views || []) {
+    banners.push(
+      ...extractCampaignBannersFromViewUnion(
+        view,
+        experience?.id || ""
+      )
+    );
+  }
+
+  return banners;
+}
+
+async function fetchViewCampaignBannersFromApi(banner) {
+  if (!banner?.viewId || !banner?.experienceId) {
+    return [];
+  }
+
+  const json = await graphqlGet(
+    "getView",
+    {
+      experienceId: banner.experienceId,
+      viewId: banner.viewId,
+    },
+    GET_VIEW_HASH
+  );
+
+  const viewUnion = json?.data?.emsViewRetrieve;
+
+  if (!viewUnion) {
+    return [];
+  }
+
+  return extractCampaignBannersFromViewUnion(
+    viewUnion,
+    banner.experienceId
+  );
+}
+
 async function fetchViewCampaignBanners(locale, banner) {
+  try {
+    const fromApi = await fetchViewCampaignBannersFromApi(
+      banner
+    );
+
+    if (fromApi.length > 0) {
+      return fromApi;
+    }
+  } catch (error) {
+    console.warn(
+      `getView API fallback failed for ${banner.viewId}: ${error.message}`
+    );
+  }
+
   const url = banner.experienceId
     ? `https://store.playstation.com/${locale}/view/${banner.experienceId}/${banner.viewId}`
     : `https://store.playstation.com/${locale}/view/${banner.viewId}`;
@@ -303,6 +483,53 @@ async function fetchViewCampaignBanners(locale, banner) {
   const fromTelemetry = extractCampaignBannersFromHtml(html, "view");
 
   return [...fromNextData, ...fromTelemetry];
+}
+
+async function fetchDealCampaignBannersFromExperience(locale) {
+  const json = await graphqlGet(
+    "getExperience",
+    {
+      clientId: STORE_CLIENT_ID,
+      alias: "deals",
+    },
+    GET_EXPERIENCE_HASH
+  );
+
+  const experience = json?.data?.emsExperienceRetrieve;
+
+  if (!experience) {
+    return [];
+  }
+
+  const rawBanners = extractCampaignBannersFromExperience(experience);
+
+  // Try the top collection first, matching previous behavior.
+  const topViewId = rawBanners[0]?.emsViewId;
+
+  const topBanners = topViewId
+    ? rawBanners.filter((banner) => banner.emsViewId === topViewId)
+    : rawBanners;
+
+  const expandedTopBanners = [];
+
+  for (const banner of topBanners) {
+    const expanded = await expandBanner(locale, banner);
+    expandedTopBanners.push(...expanded);
+  }
+
+  const dedupedTop = dedupeCampaigns(expandedTopBanners);
+
+  if (dedupedTop.length > 0) {
+    return dedupedTop;
+  }
+
+  console.warn(
+    "Top deals view did not resolve to EMS_CATEGORY. Falling back to all direct EMS_CATEGORY banners."
+  );
+
+  return dedupeCampaigns(
+    rawBanners.filter((banner) => banner.categoryId)
+  );
 }
 
 async function expandBanner(
@@ -376,6 +603,14 @@ async function fetchDealCampaignBanners(locale) {
 
   const rawBanners = extractCampaignBannersFromHtml(html, "deals");
 
+  if (rawBanners.length === 0) {
+    console.warn(
+      "No campaign telemetry found in Deals HTML. Trying GraphQL experience fallback."
+    );
+
+    return await fetchDealCampaignBannersFromExperience(locale);
+  }
+
   // Keep only the first/top banner collection from the Deals page.
   // This prevents All Deals / See More / PS5 Games / Add-ons, etc.
   const topViewId = rawBanners[0]?.emsViewId;
@@ -391,7 +626,28 @@ async function fetchDealCampaignBanners(locale) {
     expandedBanners.push(...expanded);
   }
 
-  return dedupeCampaigns(expandedBanners);
+  const deduped = dedupeCampaigns(expandedBanners);
+
+  if (deduped.length > 0) {
+    return deduped;
+  }
+
+  console.warn(
+    "HTML campaign extraction produced no categories. Trying GraphQL experience fallback."
+  );
+
+  return await fetchDealCampaignBannersFromExperience(locale);
+}
+
+function isPersistedQueryHashFailure(responseText = "") {
+  const text = String(responseText).toLowerCase();
+
+  return (
+    text.includes("not whitelisted") ||
+    text.includes("persistedquerynotfound") ||
+    text.includes("persisted query not found") ||
+    text.includes("persisted_query_not_found")
+  );
 }
 
 async function graphqlGet(operationName, variables, hash) {
@@ -428,6 +684,12 @@ async function graphqlGet(operationName, variables, hash) {
   const text = await res.text();
 
   if (!res.ok) {
+    if (isPersistedQueryHashFailure(text)) {
+      console.error(
+        `HASH_CHECK_FAILED: ${operationName} persisted query may be outdated. Refresh GET_EXPERIENCE_HASH / GET_VIEW_HASH / STORE_CLIENT_ID.`
+      );
+    }
+
     console.error("Operation:", operationName);
     console.error("Variables:", JSON.stringify(variables, null, 2));
     console.error("Response:", text);
@@ -435,7 +697,18 @@ async function graphqlGet(operationName, variables, hash) {
     throw new Error(`${operationName} HTTP ${res.status}`);
   }
 
-  return JSON.parse(text);
+  const json = JSON.parse(text);
+
+  if (
+    Array.isArray(json?.errors) &&
+    isPersistedQueryHashFailure(JSON.stringify(json.errors))
+  ) {
+    console.error(
+      `HASH_CHECK_FAILED: ${operationName} returned persisted-query errors. Refresh GET_EXPERIENCE_HASH / GET_VIEW_HASH / STORE_CLIENT_ID.`
+    );
+  }
+
+  return json;
 }
 
 async function fetchCategoryPage(
