@@ -8,9 +8,9 @@
       "sampleProductId": "UP2833-CUSA59425_00-2000000000000000",
       "sampleProductName": "Foot Clinic",
       "typeFacetCounts": {
-        "FULL_GAME": 4973,
+        "FULL_GAME": 4972,
         "GAME_BUNDLE": 1025,
-        "PREMIUM_EDITION": 472
+        "PREMIUM_EDITION": 471
       },
       "lastRan": "",
       "region": "en-us"
@@ -30,6 +30,24 @@
         "FULL_GAME": 1985,
         "GAME_BUNDLE": 458,
         "PREMIUM_EDITION": 255
+      },
+      "lastRan": "2026-08-12",
+      "region": "en-us"
+    },
+    "8bbfa258-996f-4613-aaf6-4a27e585952f": {
+      "categoryId": "8bbfa258-996f-4613-aaf6-4a27e585952f",
+      "internalName": "cat.gma.ReadySetPlay",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-08-27T06:59:00.000Z",
+      "sampleProductId": "UP2833-CUSA59425_00-2000000000000000",
+      "sampleProductName": "Foot Clinic",
+      "discoveredAt": "2026-08-12",
+      "typeFacetCounts": {
+        "FULL_GAME": 2979,
+        "GAME_BUNDLE": 550,
+        "PREMIUM_EDITION": 207
       },
       "lastRan": "2026-08-12",
       "region": "en-us"
