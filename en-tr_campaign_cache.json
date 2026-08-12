@@ -14,6 +14,25 @@
       },
       "lastRan": "",
       "region": "en-tr"
+    },
+    "9569d3d2-d544-4b06-808c-8eda6f65d64f": {
+      "categoryId": "9569d3d2-d544-4b06-808c-8eda6f65d64f",
+      "internalName": "Deals",
+      "emsViewId": "43b80a89-6e49-11f1-8c1a-86b98f38072e",
+      "source": "emsStrandCategoryId",
+      "strandName": "[CRO] [PROMO] Summer Sale 2026 - Web - Hub - See All Strand - SIEE",
+      "parentViewId": "d3ffb853-7a36-11f1-ae78-0e2c62e337a2",
+      "saleEnds": "2026-08-12T22:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35185_00-ULGRALLYMECHA001",
+      "sampleProductName": "Rally Car Mechanic Simulator",
+      "discoveredAt": "2026-08-12",
+      "typeFacetCounts": {
+        "FULL_GAME": 1883,
+        "GAME_BUNDLE": 444,
+        "PREMIUM_EDITION": 257
+      },
+      "lastRan": "2026-08-12",
+      "region": "en-tr"
     }
   },
   "history": {
