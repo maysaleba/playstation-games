@@ -49814,5 +49814,31 @@
     "CampaignCategoryId": "58b8c196-d1cd-4b75-8f2d-8cce3ab64a6c",
     "Region": "en-hk",
     "url": "https://store.playstation.com/en-hk/product/UP3385-CUSA08001_00-ASIA000000000015"
+  },
+  {
+    "SCORE": "",
+    "SaleEnds": "2026-08-26T14:59:00.000Z",
+    "SaleStarted": "2026-08-14",
+    "PlusPrice": "",
+    "PlusDiscount": "",
+    "PlusPercentOff": "",
+    "Publisher": "",
+    "ReleaseDate": "",
+    "Genre": "Action",
+    "Price": "HK$318.00",
+    "SalePrice": "HK$47.70",
+    "PercentOff": "85%",
+    "Title": "Mafia: Definitive Edition®",
+    "OriginalTitle": "Mafia: Definitive Edition for PS5® (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+    "Slug": "mafia-definitive-edition-ps4-ps5",
+    "id": "UP1001-PPSA36393_00-MAFIA1DEPS500000",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/35jaBRLW6kV4wfF3bi0nxRIH.png?w=200",
+    "PS4": "TRUE",
+    "PS5": "TRUE",
+    "Popularity": "",
+    "CampaignName": "cat.gma.AllDeals",
+    "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
+    "Region": "en-hk",
+    "url": "https://store.playstation.com/en-hk/product/UP1001-PPSA36393_00-MAFIA1DEPS500000"
   }
 ]
