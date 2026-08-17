@@ -8,8 +8,8 @@
       "sampleProductId": "UP1001-PPSA36393_00-MAFIA1DEPS500000",
       "sampleProductName": "Mafia: Definitive Edition for PS5® (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "typeFacetCounts": {
-        "FULL_GAME": 1733,
-        "GAME_BUNDLE": 204,
+        "FULL_GAME": 1731,
+        "GAME_BUNDLE": 205,
         "PREMIUM_EDITION": 147
       },
       "lastRan": "",
@@ -26,11 +26,12 @@
       "sampleProductName": "Trash Raccoon PS4® & PS5® (English, Japanese)",
       "discoveredAt": "2026-08-12",
       "typeFacetCounts": {
-        "FULL_GAME": 1710,
-        "GAME_BUNDLE": 199,
+        "FULL_GAME": 1709,
+        "GAME_BUNDLE": 200,
         "PREMIUM_EDITION": 145
       },
-      "lastRan": "2026-08-12",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-08-17",
       "region": "en-sg"
     }
   },
