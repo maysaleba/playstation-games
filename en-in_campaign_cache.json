@@ -8,9 +8,9 @@
       "sampleProductId": "EP1001-PPSA36458_00-MAFIA1DEPS500000",
       "sampleProductName": "Mafia: Definitive Edition for PS5®",
       "typeFacetCounts": {
-        "FULL_GAME": 2905,
-        "GAME_BUNDLE": 558,
-        "PREMIUM_EDITION": 218
+        "FULL_GAME": 2851,
+        "GAME_BUNDLE": 559,
+        "PREMIUM_EDITION": 219
       },
       "lastRan": "",
       "region": "en-in"
@@ -26,11 +26,12 @@
       "sampleProductName": "Foot Clinic",
       "discoveredAt": "2026-08-12",
       "typeFacetCounts": {
-        "FULL_GAME": 2891,
+        "FULL_GAME": 2836,
         "GAME_BUNDLE": 547,
         "PREMIUM_EDITION": 206
       },
-      "lastRan": "2026-08-12",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-08-18",
       "region": "en-in"
     }
   },
