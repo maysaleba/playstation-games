@@ -15,23 +15,40 @@
       "lastRan": "",
       "region": "en-id"
     },
-    "1facb739-28c8-4b26-bcff-8950e7707b84": {
-      "categoryId": "1facb739-28c8-4b26-bcff-8950e7707b84",
-      "internalName": "cat.gma.ReadySetPlay",
+    "d1102107-6c2f-4ba8-9491-9371b7cafd4f": {
+      "categoryId": "d1102107-6c2f-4ba8-9491-9371b7cafd4f",
+      "internalName": "cat.gma.Promotion_PROMO",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-09T14:59:00.000Z",
+      "sampleProductId": "EP4638-PPSA33862_00-0355584296320741",
+      "sampleProductName": "Voidtrain (Simplified Chinese, English, Korean, Japanese)",
+      "discoveredAt": "2026-08-26",
+      "typeFacetCounts": {
+        "FULL_GAME": 1691,
+        "GAME_BUNDLE": 277,
+        "PREMIUM_EDITION": 162
+      },
+      "lastRan": "2026-08-26",
+      "region": "en-id"
+    },
+    "55caed16-8224-4c17-b329-46ded950a32f": {
+      "categoryId": "55caed16-8224-4c17-b329-46ded950a32f",
+      "internalName": "cat.gma.GamesUnder15ALT",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
       "saleEnds": "2026-08-26T14:59:00.000Z",
-      "sampleProductId": "HP8504-PPSA38949_00-0056435653091482",
-      "sampleProductName": "Trash Raccoon PS4® & PS5® (English, Japanese)",
-      "discoveredAt": "2026-08-14",
+      "sampleProductId": "EP3877-CUSA20030_00-NAUGHTFULLBUNDLE",
+      "sampleProductName": "Naught (Full Pack) (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-08-26",
       "typeFacetCounts": {
-        "FULL_GAME": 1667,
-        "GAME_BUNDLE": 198,
-        "PREMIUM_EDITION": 141
+        "FULL_GAME": 1383,
+        "GAME_BUNDLE": 119,
+        "PREMIUM_EDITION": 59
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-08-18",
+      "lastRan": "2026-08-26",
       "region": "en-id"
     }
   },
@@ -99,6 +116,28 @@
       "region": "en-id",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-08-14",
+      "ended": true
+    },
+    "1facb739-28c8-4b26-bcff-8950e7707b84": {
+      "categoryId": "1facb739-28c8-4b26-bcff-8950e7707b84",
+      "internalName": "cat.gma.ReadySetPlay",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-08-26T14:59:00.000Z",
+      "sampleProductId": "HP8504-PPSA38949_00-0056435653091482",
+      "sampleProductName": "Trash Raccoon PS4® & PS5® (English, Japanese)",
+      "discoveredAt": "2026-08-14",
+      "typeFacetCounts": {
+        "FULL_GAME": 1667,
+        "GAME_BUNDLE": 198,
+        "PREMIUM_EDITION": 141
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-08-18",
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-08-26",
       "ended": true
     }
   }
