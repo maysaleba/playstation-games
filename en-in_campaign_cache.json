@@ -4,34 +4,51 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-08-26T22:59:00.000Z",
-      "sampleProductId": "EP1001-PPSA36458_00-MAFIA1DEPS500000",
-      "sampleProductName": "Mafia: Definitive Edition for PS5®",
+      "saleEnds": "2026-09-09T22:59:00.000Z",
+      "sampleProductId": "EP4133-PPSA34751_00-MUDRUNNER0000000",
+      "sampleProductName": "MudRunner [PS4 & PS5]",
       "typeFacetCounts": {
-        "FULL_GAME": 5435,
-        "GAME_BUNDLE": 1039,
-        "PREMIUM_EDITION": 423
+        "FULL_GAME": 2614,
+        "GAME_BUNDLE": 490,
+        "PREMIUM_EDITION": 214
       },
       "lastRan": "",
       "region": "en-in"
     },
-    "b24c16e8-6475-4477-8364-41ec777792d5": {
-      "categoryId": "b24c16e8-6475-4477-8364-41ec777792d5",
-      "internalName": "cat.gma.ReadySetPlay",
+    "322ea58b-1a57-4586-93e0-286d1e926394": {
+      "categoryId": "322ea58b-1a57-4586-93e0-286d1e926394",
+      "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-08-26T22:59:00.000Z",
-      "sampleProductId": "UP2833-CUSA59425_00-2000000000000000",
-      "sampleProductName": "Foot Clinic",
-      "discoveredAt": "2026-08-12",
+      "saleEnds": "2026-09-09T22:59:00.000Z",
+      "sampleProductId": "EP6958-PPSA05536_00-0095201314209104",
+      "sampleProductName": "What Lies in the Multiverse - Avatar Edition",
+      "discoveredAt": "2026-08-27",
       "typeFacetCounts": {
-        "FULL_GAME": 2835,
-        "GAME_BUNDLE": 547,
-        "PREMIUM_EDITION": 207
+        "FULL_GAME": 2263,
+        "GAME_BUNDLE": 286,
+        "PREMIUM_EDITION": 89
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-08-24",
+      "lastRan": "2026-08-27",
+      "region": "en-in"
+    },
+    "a7a59912-fefa-4f29-957c-3757dadc1798": {
+      "categoryId": "a7a59912-fefa-4f29-957c-3757dadc1798",
+      "internalName": "cat.gma.Promotion_PROMO",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-09T22:59:00.000Z",
+      "sampleProductId": "EP3185-PPSA26394_00-0529507570862690",
+      "sampleProductName": "Formula Legends Deluxe Edition",
+      "discoveredAt": "2026-08-27",
+      "typeFacetCounts": {
+        "FULL_GAME": 2595,
+        "GAME_BUNDLE": 480,
+        "PREMIUM_EDITION": 198
+      },
+      "lastRan": "2026-08-27",
       "region": "en-in"
     }
   },
@@ -203,6 +220,28 @@
       "region": "en-in",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-08-12",
+      "ended": true
+    },
+    "b24c16e8-6475-4477-8364-41ec777792d5": {
+      "categoryId": "b24c16e8-6475-4477-8364-41ec777792d5",
+      "internalName": "cat.gma.ReadySetPlay",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-08-26T22:59:00.000Z",
+      "sampleProductId": "UP2833-CUSA59425_00-2000000000000000",
+      "sampleProductName": "Foot Clinic",
+      "discoveredAt": "2026-08-12",
+      "typeFacetCounts": {
+        "FULL_GAME": 2835,
+        "GAME_BUNDLE": 547,
+        "PREMIUM_EDITION": 207
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-08-24",
+      "region": "en-in",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-08-27",
       "ended": true
     }
   }

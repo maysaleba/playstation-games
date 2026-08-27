@@ -4,13 +4,13 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-08-26T14:59:00.000Z",
-      "sampleProductId": "UP1001-PPSA36393_00-MAFIA1DEPS500000",
-      "sampleProductName": "Mafia: Definitive Edition for PS5® (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "saleEnds": "2026-09-09T14:59:00.000Z",
+      "sampleProductId": "UP4133-PPSA35314_00-MUDRUNNER0000000",
+      "sampleProductName": "MudRunner [PS4 & PS5] (Simplified Chinese, English)",
       "typeFacetCounts": {
-        "FULL_GAME": 3374,
-        "GAME_BUNDLE": 480,
-        "PREMIUM_EDITION": 308
+        "FULL_GAME": 1717,
+        "GAME_BUNDLE": 281,
+        "PREMIUM_EDITION": 172
       },
       "lastRan": "",
       "region": "en-id"
@@ -26,11 +26,12 @@
       "sampleProductName": "Voidtrain (Simplified Chinese, English, Korean, Japanese)",
       "discoveredAt": "2026-08-26",
       "typeFacetCounts": {
-        "FULL_GAME": 1691,
+        "FULL_GAME": 1690,
         "GAME_BUNDLE": 277,
         "PREMIUM_EDITION": 162
       },
-      "lastRan": "2026-08-26",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-08-27",
       "region": "en-id"
     },
     "55caed16-8224-4c17-b329-46ded950a32f": {
@@ -39,16 +40,17 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-08-26T14:59:00.000Z",
+      "saleEnds": "2026-09-09T14:59:00.000Z",
       "sampleProductId": "EP3877-CUSA20030_00-NAUGHTFULLBUNDLE",
       "sampleProductName": "Naught (Full Pack) (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-08-26",
       "typeFacetCounts": {
-        "FULL_GAME": 1383,
+        "FULL_GAME": 1382,
         "GAME_BUNDLE": 119,
         "PREMIUM_EDITION": 59
       },
-      "lastRan": "2026-08-26",
+      "reason": "Expired sale end refreshed",
+      "lastRan": "2026-08-27",
       "region": "en-id"
     }
   },
