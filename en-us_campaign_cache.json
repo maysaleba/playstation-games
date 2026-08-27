@@ -4,13 +4,13 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-08-27T06:59:00.000Z",
+      "saleEnds": "2026-09-10T06:59:00.000Z",
       "sampleProductId": "UP4133-PPSA35314_00-MUDRUNNER0000000",
       "sampleProductName": "MudRunner [PS4 & PS5]",
       "typeFacetCounts": {
-        "FULL_GAME": 5564,
-        "GAME_BUNDLE": 996,
-        "PREMIUM_EDITION": 425
+        "FULL_GAME": 2658,
+        "GAME_BUNDLE": 450,
+        "PREMIUM_EDITION": 214
       },
       "lastRan": "",
       "region": "en-us"
@@ -21,7 +21,7 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-08-27T06:59:00.000Z",
+      "saleEnds": "2026-09-10T06:59:00.000Z",
       "sampleProductId": "UP6963-CUSA30765_00-0061115447025551",
       "sampleProductName": "What Lies in the Multiverse - Avatar Edition",
       "discoveredAt": "2026-08-27",
@@ -30,6 +30,7 @@
         "GAME_BUNDLE": 263,
         "PREMIUM_EDITION": 92
       },
+      "reason": "Expired sale end refreshed",
       "lastRan": "2026-08-27",
       "region": "en-us"
     },
