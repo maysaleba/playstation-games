@@ -8,9 +8,9 @@
       "sampleProductId": "UP4133-PPSA35314_00-MUDRUNNER0000000",
       "sampleProductName": "MudRunner [PS4 & PS5] (Simplified Chinese, English)",
       "typeFacetCounts": {
-        "FULL_GAME": 1705,
+        "FULL_GAME": 1703,
         "GAME_BUNDLE": 283,
-        "PREMIUM_EDITION": 169
+        "PREMIUM_EDITION": 167
       },
       "lastRan": "",
       "region": "en-hk"
@@ -26,12 +26,12 @@
       "sampleProductName": "Naught (Full Pack) (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-08-26",
       "typeFacetCounts": {
-        "FULL_GAME": 1375,
+        "FULL_GAME": 1374,
         "GAME_BUNDLE": 119,
         "PREMIUM_EDITION": 58
       },
-      "reason": "Expired sale end refreshed",
-      "lastRan": "2026-08-27",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-03",
       "region": "en-hk"
     },
     "d1102107-6c2f-4ba8-9491-9371b7cafd4f": {
@@ -45,12 +45,12 @@
       "sampleProductName": "Voidtrain (Simplified Chinese, English, Korean, Japanese)",
       "discoveredAt": "2026-08-26",
       "typeFacetCounts": {
-        "FULL_GAME": 1674,
+        "FULL_GAME": 1673,
         "GAME_BUNDLE": 278,
         "PREMIUM_EDITION": 161
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-08-27",
+      "lastRan": "2026-09-03",
       "region": "en-hk"
     }
   },

@@ -10,7 +10,7 @@
       "typeFacetCounts": {
         "FULL_GAME": 2662,
         "GAME_BUNDLE": 450,
-        "PREMIUM_EDITION": 212
+        "PREMIUM_EDITION": 213
       },
       "lastRan": "",
       "region": "en-us"
@@ -26,12 +26,12 @@
       "sampleProductName": "What Lies in the Multiverse - Avatar Edition",
       "discoveredAt": "2026-08-27",
       "typeFacetCounts": {
-        "FULL_GAME": 2373,
+        "FULL_GAME": 2372,
         "GAME_BUNDLE": 263,
         "PREMIUM_EDITION": 92
       },
-      "reason": "Expired sale end refreshed",
-      "lastRan": "2026-08-27",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-03",
       "region": "en-us"
     },
     "bb7fa7b3-ebe5-443e-9615-237ea6ee08b9": {
@@ -45,11 +45,12 @@
       "sampleProductName": "Formula Legends Deluxe Edition",
       "discoveredAt": "2026-08-27",
       "typeFacetCounts": {
-        "FULL_GAME": 2643,
+        "FULL_GAME": 2642,
         "GAME_BUNDLE": 444,
         "PREMIUM_EDITION": 198
       },
-      "lastRan": "2026-08-27",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-03",
       "region": "en-us"
     }
   },
