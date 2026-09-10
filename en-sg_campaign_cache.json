@@ -4,13 +4,13 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-09-09T14:59:00.000Z",
-      "sampleProductId": "UP4133-PPSA35314_00-MUDRUNNER0000000",
-      "sampleProductName": "MudRunner [PS4 & PS5] (Simplified Chinese, English)",
+      "saleEnds": "2026-09-23T14:59:00.000Z",
+      "sampleProductId": "UP7552-CUSA59968_00-0709275160809884",
+      "sampleProductName": "4096 Space Traders Era (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 3383,
-        "GAME_BUNDLE": 612,
-        "PREMIUM_EDITION": 381
+        "FULL_GAME": 1694,
+        "GAME_BUNDLE": 338,
+        "PREMIUM_EDITION": 219
       },
       "lastRan": "",
       "region": "en-sg"
@@ -26,11 +26,12 @@
       "sampleProductName": "4096 Space Traders Era (English)",
       "discoveredAt": "2026-09-09",
       "typeFacetCounts": {
-        "FULL_GAME": 1321,
+        "FULL_GAME": 1320,
         "GAME_BUNDLE": 203,
         "PREMIUM_EDITION": 103
       },
-      "lastRan": "2026-09-09",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-10",
       "region": "en-sg"
     },
     "1cc408db-44ef-4610-91c2-b281a567356e": {
@@ -44,11 +45,12 @@
       "sampleProductName": "4096 Space Traders Era (English)",
       "discoveredAt": "2026-09-09",
       "typeFacetCounts": {
-        "FULL_GAME": 1718,
+        "FULL_GAME": 1717,
         "GAME_BUNDLE": 338,
         "PREMIUM_EDITION": 250
       },
-      "lastRan": "2026-09-09",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-10",
       "region": "en-sg"
     }
   },

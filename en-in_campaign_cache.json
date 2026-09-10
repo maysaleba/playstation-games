@@ -4,51 +4,51 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-09-09T22:59:00.000Z",
-      "sampleProductId": "EP4133-PPSA34751_00-MUDRUNNER0000000",
-      "sampleProductName": "MudRunner [PS4 & PS5]",
+      "saleEnds": "2026-09-23T22:59:00.000Z",
+      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
+      "sampleProductName": "Tailbreak",
       "typeFacetCounts": {
-        "FULL_GAME": 4580,
-        "GAME_BUNDLE": 822,
-        "PREMIUM_EDITION": 441
+        "FULL_GAME": 1994,
+        "GAME_BUNDLE": 347,
+        "PREMIUM_EDITION": 238
       },
       "lastRan": "",
       "region": "en-in"
     },
-    "322ea58b-1a57-4586-93e0-286d1e926394": {
-      "categoryId": "322ea58b-1a57-4586-93e0-286d1e926394",
+    "a87658c8-993a-417f-af67-07acc9dd0ea8": {
+      "categoryId": "a87658c8-993a-417f-af67-07acc9dd0ea8",
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-09T22:59:00.000Z",
-      "sampleProductId": "EP6958-PPSA05536_00-0095201314209104",
-      "sampleProductName": "What Lies in the Multiverse - Avatar Edition",
-      "discoveredAt": "2026-08-27",
+      "saleEnds": "2026-09-23T22:59:00.000Z",
+      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
+      "sampleProductName": "Tailbreak",
+      "discoveredAt": "2026-09-10",
       "typeFacetCounts": {
-        "FULL_GAME": 2263,
-        "GAME_BUNDLE": 286,
-        "PREMIUM_EDITION": 89
+        "FULL_GAME": 1844,
+        "GAME_BUNDLE": 206,
+        "PREMIUM_EDITION": 97
       },
-      "lastRan": "2026-08-27",
+      "lastRan": "2026-09-10",
       "region": "en-in"
     },
-    "a7a59912-fefa-4f29-957c-3757dadc1798": {
-      "categoryId": "a7a59912-fefa-4f29-957c-3757dadc1798",
-      "internalName": "cat.gma.Promotion_PROMO",
+    "7fab629e-1b5e-4c29-890d-44c6dbb0a7d5": {
+      "categoryId": "7fab629e-1b5e-4c29-890d-44c6dbb0a7d5",
+      "internalName": "cat.gma.Promotion",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-09T22:59:00.000Z",
-      "sampleProductId": "EP3185-PPSA26394_00-0529507570862690",
-      "sampleProductName": "Formula Legends Deluxe Edition",
-      "discoveredAt": "2026-08-27",
+      "saleEnds": "2026-09-23T22:59:00.000Z",
+      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
+      "sampleProductName": "Tailbreak",
+      "discoveredAt": "2026-09-10",
       "typeFacetCounts": {
-        "FULL_GAME": 2595,
-        "GAME_BUNDLE": 480,
-        "PREMIUM_EDITION": 198
+        "FULL_GAME": 1948,
+        "GAME_BUNDLE": 316,
+        "PREMIUM_EDITION": 209
       },
-      "lastRan": "2026-08-27",
+      "lastRan": "2026-09-10",
       "region": "en-in"
     }
   },
@@ -183,21 +183,20 @@
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-15T22:59:00.000Z",
-      "sampleProductId": "UB0675-PPSA35471_00-0821068578334461",
-      "sampleProductName": "Dragon Loop",
-      "discoveredAt": "2026-07-01",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-09T22:59:00.000Z",
+      "sampleProductId": "EP6958-PPSA05536_00-0095201314209104",
+      "sampleProductName": "What Lies in the Multiverse - Avatar Edition",
+      "discoveredAt": "2026-08-27",
       "typeFacetCounts": {
-        "FULL_GAME": 3017,
-        "GAME_BUNDLE": 401,
-        "PREMIUM_EDITION": 94
+        "FULL_GAME": 2263,
+        "GAME_BUNDLE": 286,
+        "PREMIUM_EDITION": 89
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-07-09",
+      "lastRan": "2026-08-27",
       "region": "en-in",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-07-15",
+      "endedDetectedAt": "2026-09-10",
       "ended": true
     },
     "9569d3d2-d544-4b06-808c-8eda6f65d64f": {
@@ -242,6 +241,27 @@
       "region": "en-in",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-08-27",
+      "ended": true
+    },
+    "a7a59912-fefa-4f29-957c-3757dadc1798": {
+      "categoryId": "a7a59912-fefa-4f29-957c-3757dadc1798",
+      "internalName": "cat.gma.Promotion_PROMO",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-09T22:59:00.000Z",
+      "sampleProductId": "EP3185-PPSA26394_00-0529507570862690",
+      "sampleProductName": "Formula Legends Deluxe Edition",
+      "discoveredAt": "2026-08-27",
+      "typeFacetCounts": {
+        "FULL_GAME": 2595,
+        "GAME_BUNDLE": 480,
+        "PREMIUM_EDITION": 198
+      },
+      "lastRan": "2026-08-27",
+      "region": "en-in",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-09-10",
       "ended": true
     }
   }
