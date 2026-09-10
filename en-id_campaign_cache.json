@@ -8,9 +8,9 @@
       "sampleProductId": "UP7552-CUSA59968_00-0709275160809884",
       "sampleProductName": "4096 Space Traders Era (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 1690,
+        "FULL_GAME": 1689,
         "GAME_BUNDLE": 334,
-        "PREMIUM_EDITION": 217
+        "PREMIUM_EDITION": 215
       },
       "lastRan": "",
       "region": "en-id"
@@ -26,11 +26,12 @@
       "sampleProductName": "4096 Space Traders Era (English)",
       "discoveredAt": "2026-09-09",
       "typeFacetCounts": {
-        "FULL_GAME": 1714,
+        "FULL_GAME": 1713,
         "GAME_BUNDLE": 334,
         "PREMIUM_EDITION": 248
       },
-      "lastRan": "2026-09-09",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-10",
       "region": "en-id"
     },
     "01d8a9d9-17c2-4521-b871-1425e80eaad3": {

@@ -63896,16 +63896,16 @@
     "PercentOff": "60%",
     "Title": "Hand-Drawn Epic Adventures",
     "OriginalTitle": "Hand-Drawn Epic Adventures",
-    "Slug": "hand-drawn-epic-adventures-ps4",
-    "id": "EP1762-CUSA08410_00-HANDDRAWNBUNDLE0",
+    "Slug": "hand-drawn-epic-adventures-ps5",
+    "id": "EP1762-PPSA06666_00-HANDDRAWNBUNDLE0",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0421/8f9a50ba312878e0e5f5a2f03d6aec157d7d7c8c6bbbcb5e.png?w=200",
-    "PS4": "TRUE",
-    "PS5": "FALSE",
+    "PS4": "FALSE",
+    "PS5": "TRUE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-tr",
-    "url": "https://store.playstation.com/en-tr/product/EP1762-CUSA08410_00-HANDDRAWNBUNDLE0"
+    "url": "https://store.playstation.com/en-tr/product/EP1762-PPSA06666_00-HANDDRAWNBUNDLE0"
   },
   {
     "SCORE": "",
@@ -63922,16 +63922,16 @@
     "PercentOff": "60%",
     "Title": "Hand-Drawn Epic Adventures",
     "OriginalTitle": "Hand-Drawn Epic Adventures",
-    "Slug": "hand-drawn-epic-adventures-ps5",
-    "id": "EP1762-PPSA06666_00-HANDDRAWNBUNDLE0",
+    "Slug": "hand-drawn-epic-adventures-ps4",
+    "id": "EP1762-CUSA08410_00-HANDDRAWNBUNDLE0",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0421/8f9a50ba312878e0e5f5a2f03d6aec157d7d7c8c6bbbcb5e.png?w=200",
-    "PS4": "FALSE",
-    "PS5": "TRUE",
+    "PS4": "TRUE",
+    "PS5": "FALSE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-tr",
-    "url": "https://store.playstation.com/en-tr/product/EP1762-PPSA06666_00-HANDDRAWNBUNDLE0"
+    "url": "https://store.playstation.com/en-tr/product/EP1762-CUSA08410_00-HANDDRAWNBUNDLE0"
   },
   {
     "SCORE": "",
@@ -64755,15 +64755,15 @@
     "Title": "EA SPORTS™ MVP Bundle",
     "OriginalTitle": "EA SPORTS™ MVP Bundle (College Football 27 Deluxe Edition & Madden NFL 27 Deluxe Edition)",
     "Slug": "ea-sports-mvp-bundle-ps5",
-    "id": "UP0006-PPSA32904_00-MADDN27MVPBUNDLE",
-    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/8de85331de0463fc500dc7550aa40eebeb01ca364fa1790c.png?w=200",
+    "id": "UP0006-PPSA32814_00-CFB27MVPBUNDLE00",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2810/5b63481ad2de42eb16baad732f9fa60106e2cd142995b5bf.png?w=200",
     "PS4": "FALSE",
     "PS5": "TRUE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-tr",
-    "url": "https://store.playstation.com/en-tr/product/UP0006-PPSA32904_00-MADDN27MVPBUNDLE"
+    "url": "https://store.playstation.com/en-tr/product/UP0006-PPSA32814_00-CFB27MVPBUNDLE00"
   },
   {
     "SCORE": "",
@@ -64781,15 +64781,15 @@
     "Title": "EA SPORTS™ MVP Bundle",
     "OriginalTitle": "EA SPORTS™ MVP Bundle (College Football 27 Deluxe Edition & Madden NFL 27 Deluxe Edition)",
     "Slug": "ea-sports-mvp-bundle-ps5",
-    "id": "UP0006-PPSA32814_00-CFB27MVPBUNDLE00",
-    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2810/5b63481ad2de42eb16baad732f9fa60106e2cd142995b5bf.png?w=200",
+    "id": "UP0006-PPSA32904_00-MADDN27MVPBUNDLE",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/8de85331de0463fc500dc7550aa40eebeb01ca364fa1790c.png?w=200",
     "PS4": "FALSE",
     "PS5": "TRUE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-tr",
-    "url": "https://store.playstation.com/en-tr/product/UP0006-PPSA32814_00-CFB27MVPBUNDLE00"
+    "url": "https://store.playstation.com/en-tr/product/UP0006-PPSA32904_00-MADDN27MVPBUNDLE"
   },
   {
     "SCORE": "",
