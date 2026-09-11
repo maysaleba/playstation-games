@@ -8,8 +8,8 @@
       "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
       "sampleProductName": "Tailbreak",
       "typeFacetCounts": {
-        "FULL_GAME": 2026,
-        "GAME_BUNDLE": 339,
+        "FULL_GAME": 2029,
+        "GAME_BUNDLE": 340,
         "PREMIUM_EDITION": 233
       },
       "lastRan": "",
@@ -26,11 +26,12 @@
       "sampleProductName": "Tailbreak",
       "discoveredAt": "2026-09-10",
       "typeFacetCounts": {
-        "FULL_GAME": 1979,
-        "GAME_BUNDLE": 313,
-        "PREMIUM_EDITION": 210
+        "FULL_GAME": 2007,
+        "GAME_BUNDLE": 328,
+        "PREMIUM_EDITION": 225
       },
-      "lastRan": "2026-09-10",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-11",
       "region": "en-us"
     },
     "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
