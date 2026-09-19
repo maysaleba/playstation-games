@@ -26,11 +26,12 @@
       "sampleProductName": "4096 Space Traders Era (English)",
       "discoveredAt": "2026-09-09",
       "typeFacetCounts": {
-        "FULL_GAME": 1284,
-        "GAME_BUNDLE": 187,
+        "FULL_GAME": 1292,
+        "GAME_BUNDLE": 189,
         "PREMIUM_EDITION": 104
       },
-      "lastRan": "2026-09-09",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-19",
       "region": "en-hk"
     },
     "1cc408db-44ef-4610-91c2-b281a567356e": {
@@ -44,11 +45,12 @@
       "sampleProductName": "4096 Space Traders Era (English)",
       "discoveredAt": "2026-09-09",
       "typeFacetCounts": {
-        "FULL_GAME": 1669,
-        "GAME_BUNDLE": 321,
+        "FULL_GAME": 1677,
+        "GAME_BUNDLE": 323,
         "PREMIUM_EDITION": 252
       },
-      "lastRan": "2026-09-09",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-19",
       "region": "en-hk"
     }
   },
