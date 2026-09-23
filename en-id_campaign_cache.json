@@ -15,23 +15,58 @@
       "lastRan": "",
       "region": "en-id"
     },
-    "1cc408db-44ef-4610-91c2-b281a567356e": {
-      "categoryId": "1cc408db-44ef-4610-91c2-b281a567356e",
-      "internalName": "cat.gma.Promotion",
+    "1eda2d3d-2420-4522-9c9d-4b7491f91f4f": {
+      "categoryId": "1eda2d3d-2420-4522-9c9d-4b7491f91f4f",
+      "internalName": "cat.gma.Autumn_Adventures_26_New",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-23T14:59:00.000Z",
-      "sampleProductId": "UP7552-CUSA59968_00-0709275160809884",
-      "sampleProductName": "4096 Space Traders Era (English)",
-      "discoveredAt": "2026-09-09",
+      "saleEnds": "2026-10-07T14:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35683_00-ULGMONURENO00001",
+      "sampleProductName": "Monuments Renovator (Simplified Chinese, English, Traditional Chinese)",
+      "discoveredAt": "2026-09-23",
       "typeFacetCounts": {
-        "FULL_GAME": 1713,
-        "GAME_BUNDLE": 334,
-        "PREMIUM_EDITION": 248
+        "FULL_GAME": 922,
+        "GAME_BUNDLE": 188,
+        "PREMIUM_EDITION": 140
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-09-10",
+      "lastRan": "2026-09-23",
+      "region": "en-id"
+    },
+    "55caed16-8224-4c17-b329-46ded950a32f": {
+      "categoryId": "55caed16-8224-4c17-b329-46ded950a32f",
+      "internalName": "cat.gma.GamesUnder15ALT",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-07T14:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35683_00-ULGMONURENO00001",
+      "sampleProductName": "Monuments Renovator (Simplified Chinese, English, Traditional Chinese)",
+      "discoveredAt": "2026-09-23",
+      "typeFacetCounts": {
+        "FULL_GAME": 648,
+        "GAME_BUNDLE": 65,
+        "PREMIUM_EDITION": 30
+      },
+      "lastRan": "2026-09-23",
+      "region": "en-id"
+    },
+    "976c3cf7-8dc9-46fb-8691-4603b98224cb": {
+      "categoryId": "976c3cf7-8dc9-46fb-8691-4603b98224cb",
+      "internalName": "cat.gma.PlayStationIndies",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-07T14:59:00.000Z",
+      "sampleProductId": "UB0027-PPSA35386_00-0123533566661672",
+      "sampleProductName": "1x1 Street Football: mini soccer PvP PS4 & PS5 (English)",
+      "discoveredAt": "2026-09-23",
+      "typeFacetCounts": {
+        "FULL_GAME": 950,
+        "GAME_BUNDLE": 78,
+        "PREMIUM_EDITION": 34
+      },
+      "lastRan": "2026-09-23",
       "region": "en-id"
     }
   },
@@ -165,6 +200,28 @@
       "region": "en-id",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-09-09",
+      "ended": true
+    },
+    "1cc408db-44ef-4610-91c2-b281a567356e": {
+      "categoryId": "1cc408db-44ef-4610-91c2-b281a567356e",
+      "internalName": "cat.gma.Promotion",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-23T14:59:00.000Z",
+      "sampleProductId": "UP7552-CUSA59968_00-0709275160809884",
+      "sampleProductName": "4096 Space Traders Era (English)",
+      "discoveredAt": "2026-09-09",
+      "typeFacetCounts": {
+        "FULL_GAME": 1713,
+        "GAME_BUNDLE": 334,
+        "PREMIUM_EDITION": 248
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-10",
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-09-23",
       "ended": true
     }
   }

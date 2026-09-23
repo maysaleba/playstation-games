@@ -8,29 +8,11 @@
       "sampleProductId": "JP5574-PPSA36861_00-0899716810529852",
       "sampleProductName": "iRacing Arcade",
       "typeFacetCounts": {
-        "FULL_GAME": 5115,
+        "FULL_GAME": 5116,
         "GAME_BUNDLE": 947,
         "PREMIUM_EDITION": 439
       },
       "lastRan": "",
-      "region": "en-in"
-    },
-    "a87658c8-993a-417f-af67-07acc9dd0ea8": {
-      "categoryId": "a87658c8-993a-417f-af67-07acc9dd0ea8",
-      "internalName": "cat.gma.x_Deals",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-23T22:59:00.000Z",
-      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
-      "sampleProductName": "Tailbreak",
-      "discoveredAt": "2026-09-10",
-      "typeFacetCounts": {
-        "FULL_GAME": 1844,
-        "GAME_BUNDLE": 206,
-        "PREMIUM_EDITION": 97
-      },
-      "lastRan": "2026-09-10",
       "region": "en-in"
     },
     "7fab629e-1b5e-4c29-890d-44c6dbb0a7d5": {
@@ -119,21 +101,20 @@
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-01T22:59:00.000Z",
-      "sampleProductId": "EP1661-PPSA33783_00-SYPS5POETICTRIO0",
-      "sampleProductName": "Poetic Trio",
-      "discoveredAt": "2026-06-10",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-23T22:59:00.000Z",
+      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
+      "sampleProductName": "Tailbreak",
+      "discoveredAt": "2026-09-10",
       "typeFacetCounts": {
-        "FULL_GAME": 2268,
-        "GAME_BUNDLE": 345,
-        "PREMIUM_EDITION": 159
+        "FULL_GAME": 1844,
+        "GAME_BUNDLE": 206,
+        "PREMIUM_EDITION": 97
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-23",
+      "lastRan": "2026-09-10",
       "region": "en-in",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-07-01",
+      "endedDetectedAt": "2026-09-23",
       "ended": true
     },
     "f57b1094-e711-4f2a-99da-88b97b0720ba": {

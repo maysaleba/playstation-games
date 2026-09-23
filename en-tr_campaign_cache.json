@@ -33,24 +33,6 @@
       "reason": "Type facet count changed",
       "lastRan": "2026-09-11",
       "region": "en-tr"
-    },
-    "a87658c8-993a-417f-af67-07acc9dd0ea8": {
-      "categoryId": "a87658c8-993a-417f-af67-07acc9dd0ea8",
-      "internalName": "cat.gma.x_Deals",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-23T22:59:00.000Z",
-      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
-      "sampleProductName": "Tailbreak",
-      "discoveredAt": "2026-09-10",
-      "typeFacetCounts": {
-        "FULL_GAME": 1810,
-        "GAME_BUNDLE": 207,
-        "PREMIUM_EDITION": 98
-      },
-      "lastRan": "2026-09-10",
-      "region": "en-tr"
     }
   },
   "history": {
@@ -119,21 +101,20 @@
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-01T22:59:00.000Z",
-      "sampleProductId": "EP1661-PPSA33783_00-SYPS5POETICTRIO0",
-      "sampleProductName": "Poetic Trio",
-      "discoveredAt": "2026-06-10",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-23T22:59:00.000Z",
+      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
+      "sampleProductName": "Tailbreak",
+      "discoveredAt": "2026-09-10",
       "typeFacetCounts": {
-        "FULL_GAME": 2191,
-        "GAME_BUNDLE": 345,
-        "PREMIUM_EDITION": 158
+        "FULL_GAME": 1810,
+        "GAME_BUNDLE": 207,
+        "PREMIUM_EDITION": 98
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-23",
+      "lastRan": "2026-09-10",
       "region": "en-tr",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-07-02",
+      "endedDetectedAt": "2026-09-23",
       "ended": true
     },
     "f57b1094-e711-4f2a-99da-88b97b0720ba": {
