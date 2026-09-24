@@ -8,48 +8,65 @@
       "sampleProductId": "UB1423-PPSA29500_00-0748181188680542",
       "sampleProductName": "Quiz & Learn: Food & Drink",
       "typeFacetCounts": {
-        "FULL_GAME": 5173,
+        "FULL_GAME": 5174,
         "GAME_BUNDLE": 927,
         "PREMIUM_EDITION": 436
       },
       "lastRan": "",
       "region": "en-us"
     },
-    "aee204c4-193c-42d2-bb15-125e3d3f1f3d": {
-      "categoryId": "aee204c4-193c-42d2-bb15-125e3d3f1f3d",
-      "internalName": "cat.gma.Promotion",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-24T06:59:00.000Z",
-      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
-      "sampleProductName": "Tailbreak",
-      "discoveredAt": "2026-09-10",
-      "typeFacetCounts": {
-        "FULL_GAME": 2007,
-        "GAME_BUNDLE": 328,
-        "PREMIUM_EDITION": 225
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-09-11",
-      "region": "en-us"
-    },
-    "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
-      "categoryId": "3e5a4aeb-33af-442a-ab10-61d946d3b33c",
+    "5931f998-d583-4643-85e0-e890480fcff9": {
+      "categoryId": "5931f998-d583-4643-85e0-e890480fcff9",
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-24T06:59:00.000Z",
-      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
-      "sampleProductName": "Tailbreak",
-      "discoveredAt": "2026-09-10",
+      "saleEnds": "2026-10-08T06:59:00.000Z",
+      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
+      "sampleProductName": "Galactic Warfare Collection",
+      "discoveredAt": "2026-09-24",
       "typeFacetCounts": {
-        "FULL_GAME": 1872,
-        "GAME_BUNDLE": 202,
-        "PREMIUM_EDITION": 94
+        "FULL_GAME": 1224,
+        "GAME_BUNDLE": 225,
+        "PREMIUM_EDITION": 70
       },
-      "lastRan": "2026-09-10",
+      "lastRan": "2026-09-24",
+      "region": "en-us"
+    },
+    "cf1645a7-a2e6-4151-8638-050cff3b1728": {
+      "categoryId": "cf1645a7-a2e6-4151-8638-050cff3b1728",
+      "internalName": "cat.gma.PlayStationIndies",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-08T06:59:00.000Z",
+      "sampleProductId": "UB1423-PPSA29500_00-0748181188680542",
+      "sampleProductName": "Quiz & Learn: Food & Drink",
+      "discoveredAt": "2026-09-24",
+      "typeFacetCounts": {
+        "FULL_GAME": 1769,
+        "GAME_BUNDLE": 237,
+        "PREMIUM_EDITION": 57
+      },
+      "lastRan": "2026-09-24",
+      "region": "en-us"
+    },
+    "56f636cb-c476-40b8-9ffd-b17f3f5cf5ad": {
+      "categoryId": "56f636cb-c476-40b8-9ffd-b17f3f5cf5ad",
+      "internalName": "cat.gma.Autumn_Adventures_26_New",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-08T06:59:00.000Z",
+      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
+      "sampleProductName": "Galactic Warfare Collection",
+      "discoveredAt": "2026-09-24",
+      "typeFacetCounts": {
+        "FULL_GAME": 1430,
+        "GAME_BUNDLE": 347,
+        "PREMIUM_EDITION": 150
+      },
+      "lastRan": "2026-09-24",
       "region": "en-us"
     }
   },
@@ -135,21 +152,20 @@
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
-      "strandName": "",
-      "saleEnds": "2026-07-02T06:59:00.000Z",
-      "sampleProductId": "UP7126-CUSA59319_00-0679666267074878",
-      "sampleProductName": "Penguin's ArcticDex",
-      "discoveredAt": "2026-06-10",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-24T06:59:00.000Z",
+      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
+      "sampleProductName": "Tailbreak",
+      "discoveredAt": "2026-09-10",
       "typeFacetCounts": {
-        "FULL_GAME": 2374,
-        "GAME_BUNDLE": 353,
-        "PREMIUM_EDITION": 151
+        "FULL_GAME": 1872,
+        "GAME_BUNDLE": 202,
+        "PREMIUM_EDITION": 94
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-06-23",
+      "lastRan": "2026-09-10",
       "region": "en-us",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-07-02",
+      "endedDetectedAt": "2026-09-24",
       "ended": true
     },
     "d1fa27b1-da1f-4c4b-8e7a-997e59b787f7": {
@@ -260,6 +276,28 @@
       "region": "en-us",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-09-10",
+      "ended": true
+    },
+    "aee204c4-193c-42d2-bb15-125e3d3f1f3d": {
+      "categoryId": "aee204c4-193c-42d2-bb15-125e3d3f1f3d",
+      "internalName": "cat.gma.Promotion",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-24T06:59:00.000Z",
+      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
+      "sampleProductName": "Tailbreak",
+      "discoveredAt": "2026-09-10",
+      "typeFacetCounts": {
+        "FULL_GAME": 2007,
+        "GAME_BUNDLE": 328,
+        "PREMIUM_EDITION": 225
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-11",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-09-24",
       "ended": true
     }
   }

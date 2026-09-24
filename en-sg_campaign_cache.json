@@ -8,9 +8,9 @@
       "sampleProductId": "EP5987-PPSA35683_00-ULGMONURENO00001",
       "sampleProductName": "Monuments Renovator (Simplified Chinese, English, Traditional Chinese)",
       "typeFacetCounts": {
-        "FULL_GAME": 3552,
-        "GAME_BUNDLE": 600,
-        "PREMIUM_EDITION": 389
+        "FULL_GAME": 1893,
+        "GAME_BUNDLE": 271,
+        "PREMIUM_EDITION": 177
       },
       "lastRan": "",
       "region": "en-sg"
@@ -27,10 +27,11 @@
       "discoveredAt": "2026-09-23",
       "typeFacetCounts": {
         "FULL_GAME": 924,
-        "GAME_BUNDLE": 188,
+        "GAME_BUNDLE": 187,
         "PREMIUM_EDITION": 140
       },
-      "lastRan": "2026-09-23",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-24",
       "region": "en-sg"
     },
     "55caed16-8224-4c17-b329-46ded950a32f": {

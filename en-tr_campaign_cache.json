@@ -8,30 +8,65 @@
       "sampleProductId": "JP5574-PPSA36861_00-0899716810529852",
       "sampleProductName": "iRacing Arcade",
       "typeFacetCounts": {
-        "FULL_GAME": 5053,
-        "GAME_BUNDLE": 937,
-        "PREMIUM_EDITION": 433
+        "FULL_GAME": 3126,
+        "GAME_BUNDLE": 604,
+        "PREMIUM_EDITION": 202
       },
       "lastRan": "",
       "region": "en-tr"
     },
-    "7fab629e-1b5e-4c29-890d-44c6dbb0a7d5": {
-      "categoryId": "7fab629e-1b5e-4c29-890d-44c6dbb0a7d5",
-      "internalName": "cat.gma.Promotion",
+    "d66e22ee-42b5-4cfc-997d-221cae79ae7d": {
+      "categoryId": "d66e22ee-42b5-4cfc-997d-221cae79ae7d",
+      "internalName": "cat.gma.PlayStationIndies",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-23T22:59:00.000Z",
-      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
-      "sampleProductName": "Tailbreak",
-      "discoveredAt": "2026-09-10",
+      "saleEnds": "2026-10-07T22:59:00.000Z",
+      "sampleProductId": "JP5574-PPSA36861_00-0899716810529852",
+      "sampleProductName": "iRacing Arcade",
+      "discoveredAt": "2026-09-24",
       "typeFacetCounts": {
-        "FULL_GAME": 1941,
-        "GAME_BUNDLE": 331,
-        "PREMIUM_EDITION": 228
+        "FULL_GAME": 1693,
+        "GAME_BUNDLE": 233,
+        "PREMIUM_EDITION": 55
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-09-11",
+      "lastRan": "2026-09-24",
+      "region": "en-tr"
+    },
+    "fc461e2d-f0a2-4b15-bf1f-73a825efca1c": {
+      "categoryId": "fc461e2d-f0a2-4b15-bf1f-73a825efca1c",
+      "internalName": "cat.gma.Autumn_Adventures_26_New",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-07T22:59:00.000Z",
+      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
+      "sampleProductName": "Galactic Warfare Collection",
+      "discoveredAt": "2026-09-24",
+      "typeFacetCounts": {
+        "FULL_GAME": 1438,
+        "GAME_BUNDLE": 341,
+        "PREMIUM_EDITION": 144
+      },
+      "lastRan": "2026-09-24",
+      "region": "en-tr"
+    },
+    "322ea58b-1a57-4586-93e0-286d1e926394": {
+      "categoryId": "322ea58b-1a57-4586-93e0-286d1e926394",
+      "internalName": "cat.gma.x_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-07T22:59:00.000Z",
+      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
+      "sampleProductName": "Galactic Warfare Collection",
+      "discoveredAt": "2026-09-24",
+      "typeFacetCounts": {
+        "FULL_GAME": 1228,
+        "GAME_BUNDLE": 221,
+        "PREMIUM_EDITION": 66
+      },
+      "lastRan": "2026-09-24",
       "region": "en-tr"
     }
   },
@@ -244,6 +279,28 @@
       "region": "en-tr",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-09-10",
+      "ended": true
+    },
+    "7fab629e-1b5e-4c29-890d-44c6dbb0a7d5": {
+      "categoryId": "7fab629e-1b5e-4c29-890d-44c6dbb0a7d5",
+      "internalName": "cat.gma.Promotion",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-09-23T22:59:00.000Z",
+      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
+      "sampleProductName": "Tailbreak",
+      "discoveredAt": "2026-09-10",
+      "typeFacetCounts": {
+        "FULL_GAME": 1941,
+        "GAME_BUNDLE": 331,
+        "PREMIUM_EDITION": 228
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-09-11",
+      "region": "en-tr",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-09-24",
       "ended": true
     }
   }
