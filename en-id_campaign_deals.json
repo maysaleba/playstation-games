@@ -56730,5 +56730,31 @@
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-id",
     "url": "https://store.playstation.com/en-id/product/EB1415-CUSA53874_00-0107749309525941"
+  },
+  {
+    "SCORE": "",
+    "SaleEnds": "2026-10-07T14:59:00.000Z",
+    "SaleStarted": "2026-09-25",
+    "PlusPrice": "",
+    "PlusDiscount": "",
+    "PlusPercentOff": "",
+    "Publisher": "",
+    "ReleaseDate": "",
+    "Genre": "Shooter",
+    "Price": "Rp 1,165,500",
+    "SalePrice": "Rp 326,340",
+    "PercentOff": "72%",
+    "Title": "Call of Duty®: Black Ops Cold War - Cross-Gen Bundle",
+    "OriginalTitle": "Call of Duty®: Black Ops Cold War - Cross-Gen Bundle PS4™ & PS5® (Simplified Chinese, English, Korean, Traditional Chinese)",
+    "Slug": "call-of-duty-black-ops-cold-war-cross-gen-bundle-ps4-ps5",
+    "id": "HP0002-PPSA02053_00-CODCWTHEGAME0001",
+    "img": "https://image.api.playstation.com/vulcan/img/rnd/202111/2000/vDTX1PFjQfaEuC6LxpiFrljo.png?w=200",
+    "PS4": "TRUE",
+    "PS5": "TRUE",
+    "Popularity": "",
+    "CampaignName": "cat.gma.AllDeals",
+    "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
+    "Region": "en-id",
+    "url": "https://store.playstation.com/en-id/product/HP0002-PPSA02053_00-CODCWTHEGAME0001"
   }
 ]
