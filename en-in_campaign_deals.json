@@ -101258,16 +101258,16 @@
     "PercentOff": "50%",
     "Title": "Easter Journey Avatar Bundle with Barcode",
     "OriginalTitle": "Easter Journey Avatar Bundle with Barcode",
-    "Slug": "easter-journey-avatar-bundle-with-barcode-ps5",
-    "id": "EP5823-PPSA22468_00-AVATARBUNDLEERIK",
+    "Slug": "easter-journey-avatar-bundle-with-barcode-ps4",
+    "id": "EP5823-CUSA48397_00-AVATARBUNDLEERIK",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2614/948d43fde8b6138f76ce6f055a8cc445204b7975c85fe182.png?w=200",
-    "PS4": "FALSE",
-    "PS5": "TRUE",
+    "PS4": "TRUE",
+    "PS5": "FALSE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-in",
-    "url": "https://store.playstation.com/en-in/product/EP5823-PPSA22468_00-AVATARBUNDLEERIK"
+    "url": "https://store.playstation.com/en-in/product/EP5823-CUSA48397_00-AVATARBUNDLEERIK"
   },
   {
     "SCORE": "",
@@ -101284,16 +101284,16 @@
     "PercentOff": "50%",
     "Title": "Easter Journey Avatar Bundle with Barcode",
     "OriginalTitle": "Easter Journey Avatar Bundle with Barcode",
-    "Slug": "easter-journey-avatar-bundle-with-barcode-ps4",
-    "id": "EP5823-CUSA48397_00-AVATARBUNDLEERIK",
+    "Slug": "easter-journey-avatar-bundle-with-barcode-ps5",
+    "id": "EP5823-PPSA22468_00-AVATARBUNDLEERIK",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2614/948d43fde8b6138f76ce6f055a8cc445204b7975c85fe182.png?w=200",
-    "PS4": "TRUE",
-    "PS5": "FALSE",
+    "PS4": "FALSE",
+    "PS5": "TRUE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-in",
-    "url": "https://store.playstation.com/en-in/product/EP5823-CUSA48397_00-AVATARBUNDLEERIK"
+    "url": "https://store.playstation.com/en-in/product/EP5823-PPSA22468_00-AVATARBUNDLEERIK"
   },
   {
     "SCORE": "",
