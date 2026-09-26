@@ -101476,5 +101476,31 @@
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-in",
     "url": "https://store.playstation.com/en-in/product/EP5823-CUSA47135_00-0675044548494361"
+  },
+  {
+    "SCORE": "",
+    "SaleEnds": "2026-10-07T22:59:00.000Z",
+    "SaleStarted": "2026-09-26",
+    "PlusPrice": "",
+    "PlusDiscount": "",
+    "PlusPercentOff": "",
+    "Publisher": "",
+    "ReleaseDate": "",
+    "Genre": "Sport",
+    "Price": "Rs 7,499",
+    "SalePrice": "Rs 5,024",
+    "PercentOff": "33%",
+    "Title": "NBA 2K27 Deluxe Edition",
+    "OriginalTitle": "NBA 2K27 Deluxe Edition",
+    "Slug": "nba-2k27-deluxe-edition-ps5",
+    "id": "UP1001-PPSA35889_00-NBA2K27SUPERED00",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2914/76cf4ba1f27e80ed95004bdac77385faa0c1d8ae686e0046.png?w=200",
+    "PS4": "FALSE",
+    "PS5": "TRUE",
+    "Popularity": "",
+    "CampaignName": "cat.gma.AllDeals",
+    "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
+    "Region": "en-in",
+    "url": "https://store.playstation.com/en-in/product/UP1001-PPSA35889_00-NBA2K27SUPERED00"
   }
 ]
