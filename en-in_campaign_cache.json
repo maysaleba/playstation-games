@@ -8,9 +8,9 @@
       "sampleProductId": "UP1001-PPSA35889_00-NBA2K27SUPERED00",
       "sampleProductName": "NBA 2K27 Deluxe Edition",
       "typeFacetCounts": {
-        "FULL_GAME": 3158,
-        "GAME_BUNDLE": 615,
-        "PREMIUM_EDITION": 211
+        "FULL_GAME": 3156,
+        "GAME_BUNDLE": 614,
+        "PREMIUM_EDITION": 210
       },
       "lastRan": "",
       "region": "en-in"
@@ -45,10 +45,11 @@
       "discoveredAt": "2026-09-24",
       "typeFacetCounts": {
         "FULL_GAME": 1445,
-        "GAME_BUNDLE": 348,
+        "GAME_BUNDLE": 347,
         "PREMIUM_EDITION": 152
       },
-      "lastRan": "2026-09-24",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-01",
       "region": "en-in"
     },
     "d66e22ee-42b5-4cfc-997d-221cae79ae7d": {
