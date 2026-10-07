@@ -8,7 +8,7 @@
       "sampleProductId": "UB1423-PPSA29500_00-0748181188680542",
       "sampleProductName": "Quiz & Learn: Food & Drink",
       "typeFacetCounts": {
-        "FULL_GAME": 3179,
+        "FULL_GAME": 3180,
         "GAME_BUNDLE": 601,
         "PREMIUM_EDITION": 210
       },
@@ -29,24 +29,6 @@
         "FULL_GAME": 1224,
         "GAME_BUNDLE": 225,
         "PREMIUM_EDITION": 70
-      },
-      "lastRan": "2026-09-24",
-      "region": "en-us"
-    },
-    "cf1645a7-a2e6-4151-8638-050cff3b1728": {
-      "categoryId": "cf1645a7-a2e6-4151-8638-050cff3b1728",
-      "internalName": "cat.gma.PlayStationIndies",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-08T06:59:00.000Z",
-      "sampleProductId": "UB1423-PPSA29500_00-0748181188680542",
-      "sampleProductName": "Quiz & Learn: Food & Drink",
-      "discoveredAt": "2026-09-24",
-      "typeFacetCounts": {
-        "FULL_GAME": 1769,
-        "GAME_BUNDLE": 237,
-        "PREMIUM_EDITION": 57
       },
       "lastRan": "2026-09-24",
       "region": "en-us"
@@ -299,6 +281,27 @@
       "region": "en-us",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-09-24",
+      "ended": true
+    },
+    "cf1645a7-a2e6-4151-8638-050cff3b1728": {
+      "categoryId": "cf1645a7-a2e6-4151-8638-050cff3b1728",
+      "internalName": "cat.gma.PlayStationIndies",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-08T06:59:00.000Z",
+      "sampleProductId": "UB1423-PPSA29500_00-0748181188680542",
+      "sampleProductName": "Quiz & Learn: Food & Drink",
+      "discoveredAt": "2026-09-24",
+      "typeFacetCounts": {
+        "FULL_GAME": 1769,
+        "GAME_BUNDLE": 237,
+        "PREMIUM_EDITION": 57
+      },
+      "lastRan": "2026-09-24",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-10-07",
       "ended": true
     }
   }

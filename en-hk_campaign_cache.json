@@ -4,70 +4,51 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-10-07T14:59:00.000Z",
-      "sampleProductId": "EP5987-PPSA35683_00-ULGMONURENO00001",
-      "sampleProductName": "Monuments Renovator (Simplified Chinese, English, Traditional Chinese)",
+      "saleEnds": "2026-10-21T14:59:00.000Z",
+      "sampleProductId": "UP0006-PPSA34063_00-NHL27DELUXEDITON",
+      "sampleProductName": "NHL 27 Deluxe Edition PS5 (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 1889,
-        "GAME_BUNDLE": 276,
-        "PREMIUM_EDITION": 173
+        "FULL_GAME": 3232,
+        "GAME_BUNDLE": 488,
+        "PREMIUM_EDITION": 319
       },
       "lastRan": "",
       "region": "en-hk"
     },
-    "976c3cf7-8dc9-46fb-8691-4603b98224cb": {
-      "categoryId": "976c3cf7-8dc9-46fb-8691-4603b98224cb",
-      "internalName": "cat.gma.PlayStationIndies",
+    "10f8c20b-f1b4-4814-ad6a-acb122e4ab04": {
+      "categoryId": "10f8c20b-f1b4-4814-ad6a-acb122e4ab04",
+      "internalName": "cat.gma.PlayersChoice",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-07T14:59:00.000Z",
-      "sampleProductId": "UB0027-PPSA35386_00-0123533566661672",
-      "sampleProductName": "1x1 Street Football: mini soccer PvP PS4 & PS5 (English)",
-      "discoveredAt": "2026-09-23",
+      "saleEnds": "2026-10-21T14:59:00.000Z",
+      "sampleProductId": "UP0006-PPSA34063_00-NHL27DELUXEDITON",
+      "sampleProductName": "NHL 27 Deluxe Edition PS5 (English)",
+      "discoveredAt": "2026-10-07",
       "typeFacetCounts": {
-        "FULL_GAME": 942,
-        "GAME_BUNDLE": 77,
-        "PREMIUM_EDITION": 33
+        "FULL_GAME": 1342,
+        "GAME_BUNDLE": 216,
+        "PREMIUM_EDITION": 136
       },
-      "lastRan": "2026-09-23",
+      "lastRan": "2026-10-07",
       "region": "en-hk"
     },
-    "55caed16-8224-4c17-b329-46ded950a32f": {
-      "categoryId": "55caed16-8224-4c17-b329-46ded950a32f",
+    "01d8a9d9-17c2-4521-b871-1425e80eaad3": {
+      "categoryId": "01d8a9d9-17c2-4521-b871-1425e80eaad3",
       "internalName": "cat.gma.GamesUnder15ALT",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
       "saleEnds": "2026-10-07T14:59:00.000Z",
-      "sampleProductId": "EP5987-PPSA35683_00-ULGMONURENO00001",
-      "sampleProductName": "Monuments Renovator (Simplified Chinese, English, Traditional Chinese)",
-      "discoveredAt": "2026-09-23",
+      "sampleProductId": "UP1181-PPSA36982_00-0050775809389403",
+      "sampleProductName": "Save My Scrap (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-10-07",
       "typeFacetCounts": {
-        "FULL_GAME": 648,
-        "GAME_BUNDLE": 67,
-        "PREMIUM_EDITION": 31
+        "FULL_GAME": 1292,
+        "GAME_BUNDLE": 189,
+        "PREMIUM_EDITION": 104
       },
-      "lastRan": "2026-09-23",
-      "region": "en-hk"
-    },
-    "1eda2d3d-2420-4522-9c9d-4b7491f91f4f": {
-      "categoryId": "1eda2d3d-2420-4522-9c9d-4b7491f91f4f",
-      "internalName": "cat.gma.Autumn_Adventures_26_New",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-07T14:59:00.000Z",
-      "sampleProductId": "EP5987-PPSA35683_00-ULGMONURENO00001",
-      "sampleProductName": "Monuments Renovator (Simplified Chinese, English, Traditional Chinese)",
-      "discoveredAt": "2026-09-23",
-      "typeFacetCounts": {
-        "FULL_GAME": 927,
-        "GAME_BUNDLE": 188,
-        "PREMIUM_EDITION": 138
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-01",
+      "lastRan": "2026-10-07",
       "region": "en-hk"
     }
   },
@@ -122,20 +103,19 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-09T14:59:00.000Z",
-      "sampleProductId": "EP3877-CUSA20030_00-NAUGHTFULLBUNDLE",
-      "sampleProductName": "Naught (Full Pack) (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
-      "discoveredAt": "2026-08-26",
+      "saleEnds": "2026-10-07T14:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35683_00-ULGMONURENO00001",
+      "sampleProductName": "Monuments Renovator (Simplified Chinese, English, Traditional Chinese)",
+      "discoveredAt": "2026-09-23",
       "typeFacetCounts": {
-        "FULL_GAME": 1374,
-        "GAME_BUNDLE": 119,
-        "PREMIUM_EDITION": 58
+        "FULL_GAME": 648,
+        "GAME_BUNDLE": 67,
+        "PREMIUM_EDITION": 31
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-09-03",
+      "lastRan": "2026-09-23",
       "region": "en-hk",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-09-09",
+      "endedDetectedAt": "2026-10-07",
       "ended": true
     },
     "d1102107-6c2f-4ba8-9491-9371b7cafd4f": {
@@ -202,6 +182,49 @@
       "region": "en-hk",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-09-23",
+      "ended": true
+    },
+    "976c3cf7-8dc9-46fb-8691-4603b98224cb": {
+      "categoryId": "976c3cf7-8dc9-46fb-8691-4603b98224cb",
+      "internalName": "cat.gma.PlayStationIndies",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-07T14:59:00.000Z",
+      "sampleProductId": "UB0027-PPSA35386_00-0123533566661672",
+      "sampleProductName": "1x1 Street Football: mini soccer PvP PS4 & PS5 (English)",
+      "discoveredAt": "2026-09-23",
+      "typeFacetCounts": {
+        "FULL_GAME": 942,
+        "GAME_BUNDLE": 77,
+        "PREMIUM_EDITION": 33
+      },
+      "lastRan": "2026-09-23",
+      "region": "en-hk",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-10-07",
+      "ended": true
+    },
+    "1eda2d3d-2420-4522-9c9d-4b7491f91f4f": {
+      "categoryId": "1eda2d3d-2420-4522-9c9d-4b7491f91f4f",
+      "internalName": "cat.gma.Autumn_Adventures_26_New",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-07T14:59:00.000Z",
+      "sampleProductId": "EP5987-PPSA35683_00-ULGMONURENO00001",
+      "sampleProductName": "Monuments Renovator (Simplified Chinese, English, Traditional Chinese)",
+      "discoveredAt": "2026-09-23",
+      "typeFacetCounts": {
+        "FULL_GAME": 927,
+        "GAME_BUNDLE": 188,
+        "PREMIUM_EDITION": 138
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-01",
+      "region": "en-hk",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-10-07",
       "ended": true
     }
   }
