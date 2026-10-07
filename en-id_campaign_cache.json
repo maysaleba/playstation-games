@@ -8,7 +8,7 @@
       "sampleProductId": "UP0006-PPSA34063_00-NHL27DELUXEDITON",
       "sampleProductName": "NHL 27 Deluxe Edition PS5 (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 3237,
+        "FULL_GAME": 3239,
         "GAME_BUNDLE": 484,
         "PREMIUM_EDITION": 324
       },
@@ -26,10 +26,11 @@
       "sampleProductName": "Save My Scrap (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-10-07",
       "typeFacetCounts": {
-        "FULL_GAME": 1319,
-        "GAME_BUNDLE": 202,
-        "PREMIUM_EDITION": 101
+        "FULL_GAME": 1116,
+        "GAME_BUNDLE": 132,
+        "PREMIUM_EDITION": 78
       },
+      "reason": "Type facet count changed",
       "lastRan": "2026-10-07",
       "region": "en-id"
     },

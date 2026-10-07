@@ -8,66 +8,47 @@
       "sampleProductId": "EP1003-PPSA30933_00-PROJECTSYMES0000",
       "sampleProductName": "Fallout 76 PS4 & PS5",
       "typeFacetCounts": {
-        "FULL_GAME": 5614,
-        "GAME_BUNDLE": 1093,
-        "PREMIUM_EDITION": 414
+        "FULL_GAME": 5653,
+        "GAME_BUNDLE": 1100,
+        "PREMIUM_EDITION": 418
       },
       "lastRan": "",
       "region": "en-in"
     },
-    "322ea58b-1a57-4586-93e0-286d1e926394": {
-      "categoryId": "322ea58b-1a57-4586-93e0-286d1e926394",
+    "02273136-0742-4c0f-8cb8-4c560b181173": {
+      "categoryId": "02273136-0742-4c0f-8cb8-4c560b181173",
+      "internalName": "cat.gma.PlayersChoice",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-21T22:59:00.000Z",
+      "sampleProductId": "EP1003-PPSA30933_00-PROJECTSYMES0000",
+      "sampleProductName": "Fallout 76 PS4 & PS5",
+      "discoveredAt": "2026-10-07",
+      "typeFacetCounts": {
+        "FULL_GAME": 2503,
+        "GAME_BUNDLE": 488,
+        "PREMIUM_EDITION": 209
+      },
+      "lastRan": "2026-10-07",
+      "region": "en-in"
+    },
+    "a87658c8-993a-417f-af67-07acc9dd0ea8": {
+      "categoryId": "a87658c8-993a-417f-af67-07acc9dd0ea8",
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-07T22:59:00.000Z",
-      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
-      "sampleProductName": "Galactic Warfare Collection",
-      "discoveredAt": "2026-09-24",
+      "saleEnds": "2026-10-21T22:59:00.000Z",
+      "sampleProductId": "EP1003-PPSA30933_00-PROJECTSYMES0000",
+      "sampleProductName": "Fallout 76 PS4 & PS5",
+      "discoveredAt": "2026-10-07",
       "typeFacetCounts": {
-        "FULL_GAME": 1233,
-        "GAME_BUNDLE": 225,
-        "PREMIUM_EDITION": 70
+        "FULL_GAME": 2390,
+        "GAME_BUNDLE": 374,
+        "PREMIUM_EDITION": 145
       },
-      "lastRan": "2026-09-24",
-      "region": "en-in"
-    },
-    "fc461e2d-f0a2-4b15-bf1f-73a825efca1c": {
-      "categoryId": "fc461e2d-f0a2-4b15-bf1f-73a825efca1c",
-      "internalName": "cat.gma.Autumn_Adventures_26_New",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-07T22:59:00.000Z",
-      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
-      "sampleProductName": "Galactic Warfare Collection",
-      "discoveredAt": "2026-09-24",
-      "typeFacetCounts": {
-        "FULL_GAME": 1445,
-        "GAME_BUNDLE": 347,
-        "PREMIUM_EDITION": 152
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-01",
-      "region": "en-in"
-    },
-    "d66e22ee-42b5-4cfc-997d-221cae79ae7d": {
-      "categoryId": "d66e22ee-42b5-4cfc-997d-221cae79ae7d",
-      "internalName": "cat.gma.PlayStationIndies",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-07T22:59:00.000Z",
-      "sampleProductId": "JP5574-PPSA36861_00-0899716810529852",
-      "sampleProductName": "iRacing Arcade",
-      "discoveredAt": "2026-09-24",
-      "typeFacetCounts": {
-        "FULL_GAME": 1717,
-        "GAME_BUNDLE": 233,
-        "PREMIUM_EDITION": 55
-      },
-      "lastRan": "2026-09-24",
+      "lastRan": "2026-10-07",
       "region": "en-in"
     }
   },
@@ -202,19 +183,19 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-09T22:59:00.000Z",
-      "sampleProductId": "EP6958-PPSA05536_00-0095201314209104",
-      "sampleProductName": "What Lies in the Multiverse - Avatar Edition",
-      "discoveredAt": "2026-08-27",
+      "saleEnds": "2026-10-07T22:59:00.000Z",
+      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
+      "sampleProductName": "Galactic Warfare Collection",
+      "discoveredAt": "2026-09-24",
       "typeFacetCounts": {
-        "FULL_GAME": 2263,
-        "GAME_BUNDLE": 286,
-        "PREMIUM_EDITION": 89
+        "FULL_GAME": 1233,
+        "GAME_BUNDLE": 225,
+        "PREMIUM_EDITION": 70
       },
-      "lastRan": "2026-08-27",
+      "lastRan": "2026-09-24",
       "region": "en-in",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-09-10",
+      "endedDetectedAt": "2026-10-07",
       "ended": true
     },
     "9569d3d2-d544-4b06-808c-8eda6f65d64f": {
@@ -302,6 +283,49 @@
       "region": "en-in",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-09-24",
+      "ended": true
+    },
+    "fc461e2d-f0a2-4b15-bf1f-73a825efca1c": {
+      "categoryId": "fc461e2d-f0a2-4b15-bf1f-73a825efca1c",
+      "internalName": "cat.gma.Autumn_Adventures_26_New",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-07T22:59:00.000Z",
+      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
+      "sampleProductName": "Galactic Warfare Collection",
+      "discoveredAt": "2026-09-24",
+      "typeFacetCounts": {
+        "FULL_GAME": 1445,
+        "GAME_BUNDLE": 347,
+        "PREMIUM_EDITION": 152
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-01",
+      "region": "en-in",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-10-07",
+      "ended": true
+    },
+    "d66e22ee-42b5-4cfc-997d-221cae79ae7d": {
+      "categoryId": "d66e22ee-42b5-4cfc-997d-221cae79ae7d",
+      "internalName": "cat.gma.PlayStationIndies",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-07T22:59:00.000Z",
+      "sampleProductId": "JP5574-PPSA36861_00-0899716810529852",
+      "sampleProductName": "iRacing Arcade",
+      "discoveredAt": "2026-09-24",
+      "typeFacetCounts": {
+        "FULL_GAME": 1717,
+        "GAME_BUNDLE": 233,
+        "PREMIUM_EDITION": 55
+      },
+      "lastRan": "2026-09-24",
+      "region": "en-in",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-10-07",
       "ended": true
     }
   }

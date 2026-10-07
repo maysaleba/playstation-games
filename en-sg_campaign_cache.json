@@ -26,10 +26,11 @@
       "sampleProductName": "Save My Scrap (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-10-07",
       "typeFacetCounts": {
-        "FULL_GAME": 1320,
-        "GAME_BUNDLE": 203,
-        "PREMIUM_EDITION": 103
+        "FULL_GAME": 1118,
+        "GAME_BUNDLE": 133,
+        "PREMIUM_EDITION": 78
       },
+      "reason": "Type facet count changed",
       "lastRan": "2026-10-07",
       "region": "en-sg"
     },
