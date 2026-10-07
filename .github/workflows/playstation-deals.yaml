@@ -81,6 +81,9 @@ jobs:
       - name: Merge regional CSVs
         run: node merge-en-csvs.js
 
+      - name: Track historical sale lows
+        run: node track-lowest-prices.js
+
       # =====================================================
       # ARTIFACTS
       # =====================================================
@@ -92,6 +95,7 @@ jobs:
           path: |
             csvjsontr.csv
             csvjsontr.json
+            playstation_current_sale_status.json
             *_campaign_deals.csv
             *_campaign_deals.json
             *_campaign_cache.json
@@ -107,6 +111,7 @@ jobs:
 
           git add *_campaign_cache.json
           git add *_campaign_deals.json
+          git add playstation_lowest_prices.json playstation_current_sale_status.json
 
           git diff --cached --quiet || git commit -m "Update PlayStation scraper state"
           git push
