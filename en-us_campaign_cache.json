@@ -8,48 +8,47 @@
       "sampleProductId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
       "sampleProductName": "Fallout 76 PS4 & PS5",
       "typeFacetCounts": {
-        "FULL_GAME": 5892,
+        "FULL_GAME": 5891,
         "GAME_BUNDLE": 1086,
         "PREMIUM_EDITION": 427
       },
       "lastRan": "",
       "region": "en-us"
     },
-    "5931f998-d583-4643-85e0-e890480fcff9": {
-      "categoryId": "5931f998-d583-4643-85e0-e890480fcff9",
+    "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
+      "categoryId": "3e5a4aeb-33af-442a-ab10-61d946d3b33c",
       "internalName": "cat.gma.x_Deals",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-08T06:59:00.000Z",
-      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
-      "sampleProductName": "Galactic Warfare Collection",
-      "discoveredAt": "2026-09-24",
+      "saleEnds": "2026-10-22T06:59:00.000Z",
+      "sampleProductId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
+      "sampleProductName": "Fallout 76 PS4 & PS5",
+      "discoveredAt": "2026-10-08",
       "typeFacetCounts": {
-        "FULL_GAME": 1224,
-        "GAME_BUNDLE": 225,
-        "PREMIUM_EDITION": 70
+        "FULL_GAME": 2611,
+        "GAME_BUNDLE": 371,
+        "PREMIUM_EDITION": 150
       },
-      "lastRan": "2026-09-24",
+      "lastRan": "2026-10-08",
       "region": "en-us"
     },
-    "56f636cb-c476-40b8-9ffd-b17f3f5cf5ad": {
-      "categoryId": "56f636cb-c476-40b8-9ffd-b17f3f5cf5ad",
-      "internalName": "cat.gma.Autumn_Adventures_26_New",
+    "52e149ff-ec0d-4492-8fd9-a7df289f0ec9": {
+      "categoryId": "52e149ff-ec0d-4492-8fd9-a7df289f0ec9",
+      "internalName": "cat.gma.PlayersChoice",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-08T06:59:00.000Z",
-      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
-      "sampleProductName": "Galactic Warfare Collection",
-      "discoveredAt": "2026-09-24",
+      "saleEnds": "2026-10-22T06:59:00.000Z",
+      "sampleProductId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
+      "sampleProductName": "Fallout 76 PS4 & PS5",
+      "discoveredAt": "2026-10-08",
       "typeFacetCounts": {
-        "FULL_GAME": 1430,
-        "GAME_BUNDLE": 346,
-        "PREMIUM_EDITION": 150
+        "FULL_GAME": 2726,
+        "GAME_BUNDLE": 491,
+        "PREMIUM_EDITION": 217
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-01",
+      "lastRan": "2026-10-08",
       "region": "en-us"
     }
   },
@@ -179,20 +178,19 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-10T06:59:00.000Z",
-      "sampleProductId": "UP6963-CUSA30765_00-0061115447025551",
-      "sampleProductName": "What Lies in the Multiverse - Avatar Edition",
-      "discoveredAt": "2026-08-27",
+      "saleEnds": "2026-10-08T06:59:00.000Z",
+      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
+      "sampleProductName": "Galactic Warfare Collection",
+      "discoveredAt": "2026-09-24",
       "typeFacetCounts": {
-        "FULL_GAME": 2372,
-        "GAME_BUNDLE": 263,
-        "PREMIUM_EDITION": 92
+        "FULL_GAME": 1224,
+        "GAME_BUNDLE": 225,
+        "PREMIUM_EDITION": 70
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-09-03",
+      "lastRan": "2026-09-24",
       "region": "en-us",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-09-10",
+      "endedDetectedAt": "2026-10-08",
       "ended": true
     },
     "456b8dc5-ab56-439a-9f60-8940a650b412": {
@@ -302,6 +300,28 @@
       "region": "en-us",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-10-07",
+      "ended": true
+    },
+    "56f636cb-c476-40b8-9ffd-b17f3f5cf5ad": {
+      "categoryId": "56f636cb-c476-40b8-9ffd-b17f3f5cf5ad",
+      "internalName": "cat.gma.Autumn_Adventures_26_New",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-08T06:59:00.000Z",
+      "sampleProductId": "JB0500-PPSA35365_00-0194569805549971",
+      "sampleProductName": "Galactic Warfare Collection",
+      "discoveredAt": "2026-09-24",
+      "typeFacetCounts": {
+        "FULL_GAME": 1430,
+        "GAME_BUNDLE": 346,
+        "PREMIUM_EDITION": 150
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-01",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-10-08",
       "ended": true
     }
   }

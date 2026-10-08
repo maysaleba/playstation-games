@@ -8,9 +8,9 @@
       "sampleProductId": "EP1003-PPSA30933_00-PROJECTSYMES0000",
       "sampleProductName": "Fallout 76 PS4 & PS5",
       "typeFacetCounts": {
-        "FULL_GAME": 5548,
-        "GAME_BUNDLE": 1087,
-        "PREMIUM_EDITION": 409
+        "FULL_GAME": 2451,
+        "GAME_BUNDLE": 490,
+        "PREMIUM_EDITION": 212
       },
       "lastRan": "",
       "region": "en-tr"
@@ -26,11 +26,12 @@
       "sampleProductName": "Fallout 76 PS4 & PS5",
       "discoveredAt": "2026-10-07",
       "typeFacetCounts": {
-        "FULL_GAME": 2316,
+        "FULL_GAME": 2315,
         "GAME_BUNDLE": 372,
-        "PREMIUM_EDITION": 143
+        "PREMIUM_EDITION": 142
       },
-      "lastRan": "2026-10-07",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-08",
       "region": "en-tr"
     },
     "02273136-0742-4c0f-8cb8-4c560b181173": {
@@ -44,11 +45,12 @@
       "sampleProductName": "Fallout 76 PS4 & PS5",
       "discoveredAt": "2026-10-07",
       "typeFacetCounts": {
-        "FULL_GAME": 2428,
+        "FULL_GAME": 2426,
         "GAME_BUNDLE": 484,
         "PREMIUM_EDITION": 207
       },
-      "lastRan": "2026-10-07",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-08",
       "region": "en-tr"
     }
   },
