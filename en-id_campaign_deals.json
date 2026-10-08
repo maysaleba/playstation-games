@@ -42784,16 +42784,16 @@
     "PercentOff": "70%",
     "Title": "Zorro The Chronicles",
     "OriginalTitle": "Zorro The Chronicles (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
-    "Slug": "zorro-the-chronicles-ps5",
-    "id": "EP6665-PPSA06508_00-ZTC0000000000000",
+    "Slug": "zorro-the-chronicles-ps4",
+    "id": "EP6665-CUSA32226_00-ZTC0000000000000",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/Z05juMNIk6Pva2ibWIRP3vBr.png?w=200",
-    "PS4": "FALSE",
-    "PS5": "TRUE",
+    "PS4": "TRUE",
+    "PS5": "FALSE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-id",
-    "url": "https://store.playstation.com/en-id/product/EP6665-PPSA06508_00-ZTC0000000000000"
+    "url": "https://store.playstation.com/en-id/product/EP6665-CUSA32226_00-ZTC0000000000000"
   },
   {
     "SCORE": "",
@@ -42810,16 +42810,16 @@
     "PercentOff": "70%",
     "Title": "Zorro The Chronicles",
     "OriginalTitle": "Zorro The Chronicles (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
-    "Slug": "zorro-the-chronicles-ps4",
-    "id": "EP6665-CUSA32226_00-ZTC0000000000000",
+    "Slug": "zorro-the-chronicles-ps5",
+    "id": "EP6665-PPSA06508_00-ZTC0000000000000",
     "img": "https://image.api.playstation.com/vulcan/ap/rnd/202201/3114/Z05juMNIk6Pva2ibWIRP3vBr.png?w=200",
-    "PS4": "TRUE",
-    "PS5": "FALSE",
+    "PS4": "FALSE",
+    "PS5": "TRUE",
     "Popularity": "",
     "CampaignName": "cat.gma.AllDeals",
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-id",
-    "url": "https://store.playstation.com/en-id/product/EP6665-CUSA32226_00-ZTC0000000000000"
+    "url": "https://store.playstation.com/en-id/product/EP6665-PPSA06508_00-ZTC0000000000000"
   },
   {
     "SCORE": "",
