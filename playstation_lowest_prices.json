@@ -540510,7 +540510,7 @@
         "currency": "IDR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 92000,
         "saleStart": "2026-10-09",
         "saleEnd": "2026-10-21T14:59:00.000Z"
       }
@@ -540522,9 +540522,9 @@
       "currentSale": {
         "price": 399,
         "currency": "INR",
-        "status": "unknown",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 399,
         "saleStart": "2026-10-09",
         "saleEnd": "2026-10-21T22:59:00.000Z"
       }
@@ -540538,7 +540538,7 @@
         "currency": "SGD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 7.98,
         "saleStart": "2026-10-09",
         "saleEnd": "2026-10-21T14:59:00.000Z"
       }
@@ -540552,7 +540552,7 @@
         "currency": "TRY",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 231.8,
         "saleStart": "2026-10-09",
         "saleEnd": "2026-10-21T22:59:00.000Z"
       }
@@ -540566,7 +540566,7 @@
         "currency": "USD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 5.99,
         "saleStart": "2026-10-09",
         "saleEnd": "2026-10-22T06:59:00.000Z"
       }
@@ -540580,7 +540580,7 @@
         "currency": "HKD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 45.8,
         "saleStart": "2026-10-09",
         "saleEnd": "2026-10-21T14:59:00.000Z"
       }
