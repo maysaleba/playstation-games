@@ -5,12 +5,12 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-10-22T06:59:00.000Z",
-      "sampleProductId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
-      "sampleProductName": "Fallout 76 PS4 & PS5",
+      "sampleProductId": "UP1001-PPSA36864_00-MAFIA3DEPS500000",
+      "sampleProductName": "Mafia III: Definitive Edition for PS5®",
       "typeFacetCounts": {
-        "FULL_GAME": 2739,
-        "GAME_BUNDLE": 494,
-        "PREMIUM_EDITION": 222
+        "FULL_GAME": 2738,
+        "GAME_BUNDLE": 495,
+        "PREMIUM_EDITION": 223
       },
       "lastRan": "",
       "region": "en-us"
@@ -26,11 +26,12 @@
       "sampleProductName": "Fallout 76 PS4 & PS5",
       "discoveredAt": "2026-10-08",
       "typeFacetCounts": {
-        "FULL_GAME": 2611,
-        "GAME_BUNDLE": 371,
+        "FULL_GAME": 2605,
+        "GAME_BUNDLE": 367,
         "PREMIUM_EDITION": 150
       },
-      "lastRan": "2026-10-08",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-09",
       "region": "en-us"
     },
     "52e149ff-ec0d-4492-8fd9-a7df289f0ec9": {
@@ -44,11 +45,12 @@
       "sampleProductName": "Fallout 76 PS4 & PS5",
       "discoveredAt": "2026-10-08",
       "typeFacetCounts": {
-        "FULL_GAME": 2726,
-        "GAME_BUNDLE": 491,
+        "FULL_GAME": 2719,
+        "GAME_BUNDLE": 489,
         "PREMIUM_EDITION": 217
       },
-      "lastRan": "2026-10-08",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-09",
       "region": "en-us"
     }
   },
