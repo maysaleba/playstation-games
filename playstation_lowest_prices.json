@@ -540585,5 +540585,91 @@
         "saleEnd": "2026-10-21T14:59:00.000Z"
       }
     }
+  },
+  "battlefield-6-game-of-the-year-edition-ps5": {
+    "ID": {
+      "price": 938400,
+      "currency": "IDR",
+      "date": "2026-10-14",
+      "currentSale": {
+        "price": 938400,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-10-14",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
+    },
+    "IN": {
+      "price": 4499,
+      "currency": "INR",
+      "date": "2026-10-14",
+      "currentSale": {
+        "price": 4499,
+        "currency": "INR",
+        "status": "unknown",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-10-14",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
+    },
+    "SG": {
+      "price": 83.94,
+      "currency": "SGD",
+      "date": "2026-10-14",
+      "currentSale": {
+        "price": 83.94,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-10-14",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
+    },
+    "TR": {
+      "price": 2400,
+      "currency": "TRY",
+      "date": "2026-10-14",
+      "currentSale": {
+        "price": 2400,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-10-14",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
+    },
+    "US": {
+      "price": 59.99,
+      "currency": "USD",
+      "date": "2026-10-14",
+      "currentSale": {
+        "price": 59.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-10-14",
+        "saleEnd": "2026-10-22T06:59:00.000Z"
+      }
+    },
+    "HK": {
+      "price": 472.8,
+      "currency": "HKD",
+      "date": "2026-10-14",
+      "currentSale": {
+        "price": 472.8,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-10-14",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
+    }
   }
 }

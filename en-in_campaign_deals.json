@@ -82158,5 +82158,31 @@
     "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
     "Region": "en-in",
     "url": "https://store.playstation.com/en-in/product/EP1762-PPSA06666_00-DEMETRIOSPS50000"
+  },
+  {
+    "SCORE": "",
+    "SaleEnds": "2026-10-21T22:59:00.000Z",
+    "SaleStarted": "2026-10-14",
+    "PlusPrice": "",
+    "PlusDiscount": "",
+    "PlusPercentOff": "",
+    "Publisher": "",
+    "ReleaseDate": "",
+    "Genre": "Shooter",
+    "Price": "Rs 7,499",
+    "SalePrice": "Rs 4,499",
+    "PercentOff": "40%",
+    "Title": "Battlefield™ 6 Game of the Year Edition",
+    "OriginalTitle": "Battlefield™ 6 Game of the Year Edition",
+    "Slug": "battlefield-6-game-of-the-year-edition-ps5",
+    "id": "UP0006-PPSA19534_00-SANTIAGODELUXE00",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0821/488b64830331711ecfc3dd8d48629d6ba6c51cd680a30bd1.png?w=200",
+    "PS4": "FALSE",
+    "PS5": "TRUE",
+    "Popularity": "",
+    "CampaignName": "cat.gma.AllDeals",
+    "CampaignCategoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
+    "Region": "en-in",
+    "url": "https://store.playstation.com/en-in/product/UP0006-PPSA19534_00-SANTIAGODELUXE00"
   }
 ]
