@@ -222870,7 +222870,16 @@
     "US": {
       "price": 9.99,
       "currency": "USD",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 9.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 9.99,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-22T06:59:00.000Z"
+      }
     },
     "HK": {
       "price": 78.5,
@@ -226310,7 +226319,16 @@
     "US": {
       "price": 3.99,
       "currency": "USD",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 3.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 3.99,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-22T06:59:00.000Z"
+      }
     },
     "HK": {
       "price": 31.04,
@@ -247512,7 +247530,16 @@
     "US": {
       "price": 38.99,
       "currency": "USD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 38.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 38.99,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-22T06:59:00.000Z"
+      }
     },
     "HK": {
       "price": 278.2,
@@ -247587,9 +247614,18 @@
       }
     },
     "US": {
-      "price": 29.99,
+      "price": 23.99,
       "currency": "USD",
-      "date": "2026-06-10"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 23.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 29.99,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-22T06:59:00.000Z"
+      }
     },
     "HK": {
       "price": 171.2,
@@ -412788,7 +412824,16 @@
     "US": {
       "price": 19.99,
       "currency": "USD",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 19.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 19.99,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-22T06:59:00.000Z"
+      }
     }
   },
   "ys-ix-monstrum-nox-ps4": {
@@ -414480,7 +414525,16 @@
     "US": {
       "price": 9.99,
       "currency": "USD",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 9.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 9.99,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-22T06:59:00.000Z"
+      }
     }
   },
   "sigi-a-fart-for-melusina-ps4": {
@@ -425583,9 +425637,18 @@
       }
     },
     "US": {
-      "price": 9.89,
+      "price": 4.49,
       "currency": "USD",
-      "date": "2026-06-10"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 4.49,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 9.89,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-22T06:59:00.000Z"
+      }
     }
   },
   "super-hydorah-ps4": {
