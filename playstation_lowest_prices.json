@@ -214941,9 +214941,18 @@
   },
   "marvel-vs-capcom-fighting-collection-arcade-classics-ps4": {
     "ID": {
-      "price": 248000,
+      "price": 220224,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 220224,
+        "currency": "IDR",
+        "status": "new_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 248000,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 1199,
@@ -214951,9 +214960,18 @@
       "date": "2026-05-27"
     },
     "SG": {
-      "price": 28.8,
+      "price": 23.04,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 23.04,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 28.8,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 699.6,
@@ -214966,9 +214984,18 @@
       "date": "2026-05-27"
     },
     "HK": {
-      "price": 143.2,
+      "price": 114.56,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 114.56,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 143.2,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "astro-bot-ps5": {
@@ -222787,22 +222814,58 @@
     "ID": {
       "price": 144500,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 160395,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 144500,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "SG": {
       "price": 13.47,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 13.47,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 13.47,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 749,
       "currency": "INR",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 749,
+        "currency": "INR",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 749,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "TR": {
       "price": 524.5,
       "currency": "TRY",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 524.5,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 524.5,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "US": {
       "price": 9.99,
@@ -222812,7 +222875,16 @@
     "HK": {
       "price": 78.5,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "currentSale": {
+        "price": 78.5,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 78.5,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "warriors-orochi-4-ultimate-ps4": {
@@ -223973,17 +224045,44 @@
     "ID": {
       "price": 138000,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 153180,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 138000,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "SG": {
       "price": 14.52,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 14.52,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 14.52,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "HK": {
       "price": 78,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "currentSale": {
+        "price": 78,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 78,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "ghost-recon-wildlands-ultimate-edition-ps4": {
@@ -224930,7 +225029,16 @@
     "ID": {
       "price": 129600,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 143856,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 129600,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 559,
@@ -224940,7 +225048,16 @@
     "SG": {
       "price": 14.22,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 14.22,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 14.22,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 335.84,
@@ -224955,7 +225072,16 @@
     "HK": {
       "price": 74.88,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "currentSale": {
+        "price": 74.88,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 74.88,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "dishonored-death-of-the-outsider-ps4": {
@@ -226128,22 +226254,58 @@
     "ID": {
       "price": 52160,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 57897,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 52160,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "SG": {
       "price": 5.78,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 5.78,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 5.78,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 266,
       "currency": "INR",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 266,
+        "currency": "INR",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 266,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "TR": {
       "price": 172.64,
       "currency": "TRY",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 172.64,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 172.64,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "US": {
       "price": 3.99,
@@ -226153,7 +226315,16 @@
     "HK": {
       "price": 31.04,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "currentSale": {
+        "price": 31.04,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 31.04,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "saints-row-iv-re-elected-ps4": {
@@ -234790,7 +234961,16 @@
     "IN": {
       "price": 1199,
       "currency": "INR",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "currentSale": {
+        "price": 1199,
+        "currency": "INR",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1199,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "SG": {
       "price": 27.66,
@@ -234800,7 +234980,16 @@
     "TR": {
       "price": 1119.6,
       "currency": "TRY",
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "currentSale": {
+        "price": 1119.6,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1119.6,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "US": {
       "price": 19.99,
@@ -247267,22 +247456,58 @@
     "ID": {
       "price": 481000,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 533910,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 481000,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 2274,
       "currency": "INR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 2274,
+        "currency": "INR",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 2274,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "SG": {
       "price": 55.64,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 55.64,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 55.64,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 1676.35,
       "currency": "TRY",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 1676.35,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1676.35,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "US": {
       "price": 38.99,
@@ -247292,29 +247517,74 @@
     "HK": {
       "price": 278.2,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "currentSale": {
+        "price": 278.2,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 278.2,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "capcom-fighting-collection-1-+-2-bundle-ps4": {
     "ID": {
-      "price": 370000,
+      "price": 328560,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 328560,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 370000,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "SG": {
-      "price": 42.8,
+      "price": 34.24,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 34.24,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 42.8,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
-      "price": 1749,
+      "price": 1399,
       "currency": "INR",
-      "date": "2026-06-10"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 1399,
+        "currency": "INR",
+        "status": "new_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1749,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "TR": {
-      "price": 1289.5,
+      "price": 1031.6,
       "currency": "TRY",
-      "date": "2026-06-10"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 1031.6,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1289.5,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "US": {
       "price": 29.99,
@@ -247322,16 +247592,34 @@
       "date": "2026-06-10"
     },
     "HK": {
-      "price": 214,
+      "price": 171.2,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 171.2,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 214,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "capcom-fighting-collection-2-ps4": {
     "ID": {
-      "price": 318500,
+      "price": 271950,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 271950,
+        "currency": "IDR",
+        "status": "new_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 318500,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 1624,
@@ -247339,9 +247627,18 @@
       "date": "2026-05-27"
     },
     "SG": {
-      "price": 37.37,
+      "price": 28.75,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 28.75,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 37.37,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 1136.85,
@@ -247354,9 +247651,18 @@
       "date": "2026-05-27"
     },
     "HK": {
-      "price": 187.2,
+      "price": 144,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 144,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 187.2,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "mortal-kombat-1-ps5": {
@@ -247479,9 +247785,18 @@
   },
   "street-fighter-6-ps4-ps5": {
     "ID": {
-      "price": 245000,
+      "price": 217560,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 217560,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 245000,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 999,
@@ -247498,9 +247813,18 @@
       }
     },
     "SG": {
-      "price": 28.5,
+      "price": 22.8,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 22.8,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 28.5,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 699.6,
@@ -247531,16 +247855,34 @@
       }
     },
     "HK": {
-      "price": 144,
+      "price": 115.2,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 115.2,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 144,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "capcom-fighting-collection-ps4": {
     "ID": {
-      "price": 185000,
+      "price": 135531,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 135531,
+        "currency": "IDR",
+        "status": "new_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 185000,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 1248,
@@ -247548,9 +247890,18 @@
       "date": "2026-05-27"
     },
     "SG": {
-      "price": 21.4,
+      "price": 14.12,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 14.12,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 21.4,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 649.5,
@@ -247563,9 +247914,18 @@
       "date": "2026-05-27"
     },
     "HK": {
-      "price": 109,
+      "price": 71.94,
       "currency": "HKD",
-      "date": "2026-07-27"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 71.94,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 109,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T14:59:00.000Z"
+      }
     }
   },
   "injustice-2-legendary-edition-ps4": {
@@ -412400,12 +412760,30 @@
     "IN": {
       "price": 1665,
       "currency": "INR",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 1665,
+        "currency": "INR",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1665,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "TR": {
       "price": 1049.5,
       "currency": "TRY",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 1049.5,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1049.5,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "US": {
       "price": 19.99,
@@ -414074,12 +414452,30 @@
     "IN": {
       "price": 832,
       "currency": "INR",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 832,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 832,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "TR": {
       "price": 349.5,
       "currency": "TRY",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "currentSale": {
+        "price": 349.5,
+        "currency": "TRY",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 349.5,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "US": {
       "price": 9.99,
@@ -425159,14 +425555,32 @@
   },
   "street-fighter-30th-anniversary-collection-ps4": {
     "IN": {
-      "price": 659,
+      "price": 299,
       "currency": "INR",
-      "date": "2026-06-10"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 299,
+        "currency": "INR",
+        "status": "new_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 659,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "TR": {
-      "price": 346.17,
+      "price": 157.35,
       "currency": "TRY",
-      "date": "2026-06-10"
+      "date": "2026-10-16",
+      "currentSale": {
+        "price": 157.35,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 346.17,
+        "saleStart": "2026-10-16",
+        "saleEnd": "2026-10-21T22:59:00.000Z"
+      }
     },
     "US": {
       "price": 9.89,
