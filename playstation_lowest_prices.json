@@ -11799,7 +11799,7 @@
       "currentSale": {
         "price": 301920,
         "currency": "IDR",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 301920,
         "saleStart": "2026-10-07",
@@ -35281,7 +35281,7 @@
       "currentSale": {
         "price": 49,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 49,
         "saleStart": "2026-10-07",
@@ -35309,7 +35309,7 @@
       "currentSale": {
         "price": 25.6,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 25.6,
         "saleStart": "2026-10-07",
@@ -35367,7 +35367,7 @@
       "currentSale": {
         "price": 49,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 49,
         "saleStart": "2026-10-07",
@@ -35395,7 +35395,7 @@
       "currentSale": {
         "price": 25.6,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 25.6,
         "saleStart": "2026-10-07",
@@ -48218,7 +48218,7 @@
       "currentSale": {
         "price": 49,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 49,
         "saleStart": "2026-10-07",
@@ -48246,7 +48246,7 @@
       "currentSale": {
         "price": 25.6,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 25.6,
         "saleStart": "2026-10-07",
@@ -48304,7 +48304,7 @@
       "currentSale": {
         "price": 49,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 49,
         "saleStart": "2026-10-07",
@@ -48332,7 +48332,7 @@
       "currentSale": {
         "price": 25.6,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 25.6,
         "saleStart": "2026-10-07",
@@ -61412,7 +61412,7 @@
       "currentSale": {
         "price": 103,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 103,
         "saleStart": "2026-10-07",
@@ -61426,7 +61426,7 @@
       "currentSale": {
         "price": 53.75,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 53.75,
         "saleStart": "2026-10-07",
@@ -122488,7 +122488,7 @@
       "currentSale": {
         "price": 1199,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1199,
         "saleStart": "2026-10-07",
@@ -122516,7 +122516,7 @@
       "currentSale": {
         "price": 624.75,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 624.75,
         "saleStart": "2026-10-07",
@@ -193391,7 +193391,7 @@
       "currentSale": {
         "price": 249,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 249,
         "saleStart": "2026-10-07",
@@ -193405,7 +193405,7 @@
       "currentSale": {
         "price": 129.8,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 129.8,
         "saleStart": "2026-10-07",
@@ -194659,7 +194659,7 @@
       "currentSale": {
         "price": 624,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 624,
         "saleStart": "2026-10-07",
@@ -209100,7 +209100,7 @@
       "currentSale": {
         "price": 249,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 249,
         "saleStart": "2026-10-07",
@@ -209114,7 +209114,7 @@
       "currentSale": {
         "price": 129.8,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 129.8,
         "saleStart": "2026-10-07",
@@ -218261,7 +218261,7 @@
       "currentSale": {
         "price": 1439,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1439,
         "saleStart": "2026-10-07",
@@ -218280,7 +218280,7 @@
       "currentSale": {
         "price": 749.7,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 749.7,
         "saleStart": "2026-10-07",
@@ -330069,7 +330069,7 @@
       "currentSale": {
         "price": 436,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 436,
         "saleStart": "2026-10-07",
@@ -330083,7 +330083,7 @@
       "currentSale": {
         "price": 227.15,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 227.15,
         "saleStart": "2026-10-07",
@@ -334983,7 +334983,7 @@
       "currentSale": {
         "price": 436,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 436,
         "saleStart": "2026-10-07",
@@ -334997,7 +334997,7 @@
       "currentSale": {
         "price": 227.15,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 227.15,
         "saleStart": "2026-10-07",
@@ -338978,7 +338978,7 @@
       "currentSale": {
         "price": 249,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 249,
         "saleStart": "2026-10-07",
@@ -338992,7 +338992,7 @@
       "currentSale": {
         "price": 129.8,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 129.8,
         "saleStart": "2026-10-07",
