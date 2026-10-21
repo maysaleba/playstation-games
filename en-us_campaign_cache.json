@@ -8,9 +8,9 @@
       "sampleProductId": "UP1001-PPSA36864_00-MAFIA3DEPS500000",
       "sampleProductName": "Mafia III: Definitive Edition for PS5®",
       "typeFacetCounts": {
-        "FULL_GAME": 2744,
-        "GAME_BUNDLE": 498,
-        "PREMIUM_EDITION": 227
+        "FULL_GAME": 4672,
+        "GAME_BUNDLE": 857,
+        "PREMIUM_EDITION": 427
       },
       "lastRan": "",
       "region": "en-us"
@@ -50,6 +50,24 @@
         "PREMIUM_EDITION": 218
       },
       "reason": "Type facet count changed",
+      "lastRan": "2026-10-21",
+      "region": "en-us"
+    },
+    "c69e349b-2c5b-435c-af83-69fa06673f26": {
+      "categoryId": "c69e349b-2c5b-435c-af83-69fa06673f26",
+      "internalName": "cat.gma.Halloween",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-05T07:59:00.000Z",
+      "sampleProductId": "UB2551-PPSA38510_00-0542265777974288",
+      "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition",
+      "discoveredAt": "2026-10-21",
+      "typeFacetCounts": {
+        "FULL_GAME": 508,
+        "GAME_BUNDLE": 105,
+        "PREMIUM_EDITION": 65
+      },
       "lastRan": "2026-10-21",
       "region": "en-us"
     }
