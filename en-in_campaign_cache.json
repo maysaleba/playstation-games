@@ -8,9 +8,9 @@
       "sampleProductId": "UP0006-PPSA34015_00-27ULTIMATEBUNDLE",
       "sampleProductName": "EA SPORTS FC™ 27 Ultimate Edition PS4 & PS5",
       "typeFacetCounts": {
-        "FULL_GAME": 1968,
-        "GAME_BUNDLE": 388,
-        "PREMIUM_EDITION": 228
+        "FULL_GAME": 1925,
+        "GAME_BUNDLE": 378,
+        "PREMIUM_EDITION": 219
       },
       "lastRan": "",
       "region": "en-in"
@@ -63,9 +63,10 @@
       "discoveredAt": "2026-10-22",
       "typeFacetCounts": {
         "FULL_GAME": 1899,
-        "GAME_BUNDLE": 366,
-        "PREMIUM_EDITION": 212
+        "GAME_BUNDLE": 365,
+        "PREMIUM_EDITION": 211
       },
+      "reason": "Type facet count changed",
       "lastRan": "2026-10-22",
       "region": "en-in"
     }

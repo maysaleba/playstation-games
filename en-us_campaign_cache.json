@@ -4,13 +4,13 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-10-22T06:59:00.000Z",
-      "sampleProductId": "UP1001-PPSA36864_00-MAFIA3DEPS500000",
-      "sampleProductName": "Mafia III: Definitive Edition for PS5®",
+      "saleEnds": "2026-10-29T06:59:00.000Z",
+      "sampleProductId": "UP0006-PPSA34015_00-27ULTIMATEBUNDLE",
+      "sampleProductName": "EA SPORTS FC™ 27 Ultimate Edition PS4 & PS5",
       "typeFacetCounts": {
-        "FULL_GAME": 4680,
-        "GAME_BUNDLE": 862,
-        "PREMIUM_EDITION": 432
+        "FULL_GAME": 2125,
+        "GAME_BUNDLE": 398,
+        "PREMIUM_EDITION": 228
       },
       "lastRan": "",
       "region": "en-us"
@@ -44,10 +44,11 @@
       "sampleProductName": "Moomintroll: Winter's Warmth",
       "discoveredAt": "2026-10-22",
       "typeFacetCounts": {
-        "FULL_GAME": 1978,
+        "FULL_GAME": 1971,
         "GAME_BUNDLE": 365,
-        "PREMIUM_EDITION": 214
+        "PREMIUM_EDITION": 208
       },
+      "reason": "Type facet count changed",
       "lastRan": "2026-10-22",
       "region": "en-us"
     },
