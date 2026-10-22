@@ -8,49 +8,11 @@
       "sampleProductId": "UP1001-PPSA36864_00-MAFIA3DEPS500000",
       "sampleProductName": "Mafia III: Definitive Edition for PS5®",
       "typeFacetCounts": {
-        "FULL_GAME": 4672,
-        "GAME_BUNDLE": 857,
-        "PREMIUM_EDITION": 427
+        "FULL_GAME": 4680,
+        "GAME_BUNDLE": 862,
+        "PREMIUM_EDITION": 432
       },
       "lastRan": "",
-      "region": "en-us"
-    },
-    "3e5a4aeb-33af-442a-ab10-61d946d3b33c": {
-      "categoryId": "3e5a4aeb-33af-442a-ab10-61d946d3b33c",
-      "internalName": "cat.gma.x_Deals",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-22T06:59:00.000Z",
-      "sampleProductId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
-      "sampleProductName": "Fallout 76 PS4 & PS5",
-      "discoveredAt": "2026-10-08",
-      "typeFacetCounts": {
-        "FULL_GAME": 2610,
-        "GAME_BUNDLE": 369,
-        "PREMIUM_EDITION": 151
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-21",
-      "region": "en-us"
-    },
-    "52e149ff-ec0d-4492-8fd9-a7df289f0ec9": {
-      "categoryId": "52e149ff-ec0d-4492-8fd9-a7df289f0ec9",
-      "internalName": "cat.gma.PlayersChoice",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-10-22T06:59:00.000Z",
-      "sampleProductId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
-      "sampleProductName": "Fallout 76 PS4 & PS5",
-      "discoveredAt": "2026-10-08",
-      "typeFacetCounts": {
-        "FULL_GAME": 2726,
-        "GAME_BUNDLE": 490,
-        "PREMIUM_EDITION": 218
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-21",
       "region": "en-us"
     },
     "c69e349b-2c5b-435c-af83-69fa06673f26": {
@@ -69,6 +31,42 @@
         "PREMIUM_EDITION": 65
       },
       "lastRan": "2026-10-21",
+      "region": "en-us"
+    },
+    "3d62380f-7d69-40ae-aefe-52387125e07a": {
+      "categoryId": "3d62380f-7d69-40ae-aefe-52387125e07a",
+      "internalName": "cat.gma.PlanetOfTheDiscounts",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-05T07:59:00.000Z",
+      "sampleProductId": "EP3387-PPSA37137_00-0195913753223999",
+      "sampleProductName": "Moomintroll: Winter's Warmth",
+      "discoveredAt": "2026-10-22",
+      "typeFacetCounts": {
+        "FULL_GAME": 1978,
+        "GAME_BUNDLE": 365,
+        "PREMIUM_EDITION": 214
+      },
+      "lastRan": "2026-10-22",
+      "region": "en-us"
+    },
+    "17deb54c-b0f5-48a5-88dd-6f970ece5136": {
+      "categoryId": "17deb54c-b0f5-48a5-88dd-6f970ece5136",
+      "internalName": "cat.gma.GamesforLess",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-05T07:59:00.000Z",
+      "sampleProductId": "HB1576-PPSA33909_00-00000PS5AUREVOIR",
+      "sampleProductName": "Au Revoir",
+      "discoveredAt": "2026-10-22",
+      "typeFacetCounts": {
+        "FULL_GAME": 1798,
+        "GAME_BUNDLE": 215,
+        "PREMIUM_EDITION": 89
+      },
+      "lastRan": "2026-10-22",
       "region": "en-us"
     }
   },
@@ -155,19 +153,20 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-09-24T06:59:00.000Z",
-      "sampleProductId": "UP6088-PPSA38777_00-0598984919214879",
-      "sampleProductName": "Tailbreak",
-      "discoveredAt": "2026-09-10",
+      "saleEnds": "2026-10-22T06:59:00.000Z",
+      "sampleProductId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
+      "sampleProductName": "Fallout 76 PS4 & PS5",
+      "discoveredAt": "2026-10-08",
       "typeFacetCounts": {
-        "FULL_GAME": 1872,
-        "GAME_BUNDLE": 202,
-        "PREMIUM_EDITION": 94
+        "FULL_GAME": 2610,
+        "GAME_BUNDLE": 369,
+        "PREMIUM_EDITION": 151
       },
-      "lastRan": "2026-09-10",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-21",
       "region": "en-us",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-09-24",
+      "endedDetectedAt": "2026-10-22",
       "ended": true
     },
     "d1fa27b1-da1f-4c4b-8e7a-997e59b787f7": {
@@ -342,6 +341,28 @@
       "region": "en-us",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-10-08",
+      "ended": true
+    },
+    "52e149ff-ec0d-4492-8fd9-a7df289f0ec9": {
+      "categoryId": "52e149ff-ec0d-4492-8fd9-a7df289f0ec9",
+      "internalName": "cat.gma.PlayersChoice",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-10-22T06:59:00.000Z",
+      "sampleProductId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
+      "sampleProductName": "Fallout 76 PS4 & PS5",
+      "discoveredAt": "2026-10-08",
+      "typeFacetCounts": {
+        "FULL_GAME": 2726,
+        "GAME_BUNDLE": 490,
+        "PREMIUM_EDITION": 218
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-21",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-10-22",
       "ended": true
     }
   }
