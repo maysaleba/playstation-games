@@ -154,7 +154,6 @@ async function main() {
       let record = lowest[slug][country];
       const sameOffer = offer.active && record?.currentSale &&
         record.currentSale.saleStart === offer.saleStart &&
-        record.currentSale.saleEnd === offer.saleEnd &&
         Number(record.currentSale.price) === offer.price &&
         record.currentSale.currency === offer.currency;
       const historicReference = sameOffer && record.currentSale.statusRule === 'ps_global_php_v1'
