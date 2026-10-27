@@ -223977,58 +223977,22 @@
     "IN": {
       "price": 749,
       "currency": "INR",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 749,
-        "currency": "INR",
-        "status": "matches_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 749,
-        "saleStart": "2026-10-16",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "TR": {
       "price": 524.5,
       "currency": "TRY",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 524.5,
-        "currency": "TRY",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 524.5,
-        "saleStart": "2026-10-16",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "US": {
       "price": 9.99,
       "currency": "USD",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 9.99,
-        "currency": "USD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 9.99,
-        "saleStart": "2026-10-16",
-        "saleEnd": "2026-10-29T06:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "HK": {
       "price": 78.5,
       "currency": "HKD",
-      "date": "2026-07-26",
-      "currentSale": {
-        "price": 78.5,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 78.5,
-        "saleStart": "2026-10-16",
-        "saleEnd": "2026-11-04T14:59:00.000Z"
-      }
+      "date": "2026-07-26"
     }
   },
   "warriors-orochi-4-ultimate-ps4": {
@@ -278823,7 +278787,7 @@
       "currency": "INR",
       "date": "2026-08-11",
       "currentSale": {
-        "price": 3496,
+        "price": 3996,
         "currency": "INR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278837,7 +278801,7 @@
       "currency": "SGD",
       "date": "2026-07-01",
       "currentSale": {
-        "price": 59.84,
+        "price": 67.17,
         "currency": "SGD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278895,7 +278859,7 @@
       "currency": "IDR",
       "date": "2026-05-27",
       "currentSale": {
-        "price": 751914,
+        "price": 665334,
         "currency": "IDR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278909,7 +278873,7 @@
       "currency": "INR",
       "date": "2026-08-11",
       "currentSale": {
-        "price": 3996,
+        "price": 3496,
         "currency": "INR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278937,7 +278901,7 @@
       "currency": "TRY",
       "date": "2026-08-11",
       "currentSale": {
-        "price": 2069.4,
+        "price": 1799.4,
         "currency": "TRY",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -398240,44 +398204,17 @@
     "IN": {
       "price": 1665,
       "currency": "INR",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 1665,
-        "currency": "INR",
-        "status": "matches_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 1665,
-        "saleStart": "2026-10-16",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "TR": {
       "price": 1049.5,
       "currency": "TRY",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 1049.5,
-        "currency": "TRY",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 1049.5,
-        "saleStart": "2026-10-16",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "US": {
       "price": 19.99,
       "currency": "USD",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 19.99,
-        "currency": "USD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 19.99,
-        "saleStart": "2026-10-16",
-        "saleEnd": "2026-10-29T06:59:00.000Z"
-      }
+      "date": "2026-06-10"
     }
   },
   "ys-ix-monstrum-nox-ps4": {

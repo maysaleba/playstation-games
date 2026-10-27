@@ -9,8 +9,8 @@
       "sampleProductName": "Garfield - Escape From Monday (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "typeFacetCounts": {
         "FULL_GAME": 1269,
-        "GAME_BUNDLE": 284,
-        "PREMIUM_EDITION": 179
+        "GAME_BUNDLE": 282,
+        "PREMIUM_EDITION": 178
       },
       "lastRan": "",
       "region": "en-id"
@@ -46,8 +46,8 @@
       "discoveredAt": "2026-10-21",
       "typeFacetCounts": {
         "FULL_GAME": 1245,
-        "GAME_BUNDLE": 274,
-        "PREMIUM_EDITION": 172
+        "GAME_BUNDLE": 272,
+        "PREMIUM_EDITION": 171
       },
       "reason": "Type facet count changed",
       "lastRan": "2026-10-27",
@@ -66,7 +66,7 @@
       "typeFacetCounts": {
         "FULL_GAME": 1046,
         "GAME_BUNDLE": 137,
-        "PREMIUM_EDITION": 54
+        "PREMIUM_EDITION": 53
       },
       "reason": "Type facet count changed",
       "lastRan": "2026-10-27",
