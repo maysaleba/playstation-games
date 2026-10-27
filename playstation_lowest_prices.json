@@ -21633,30 +21633,12 @@
     "IN": {
       "price": 339,
       "currency": "INR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 339,
-        "currency": "INR",
-        "status": "new_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 999,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "TR": {
       "price": 220.83,
       "currency": "TRY",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 220.83,
-        "currency": "TRY",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 649.5,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "US": {
       "price": 14.99,
@@ -23969,16 +23951,7 @@
     "IN": {
       "price": 299,
       "currency": "INR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 299,
-        "currency": "INR",
-        "status": "new_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 1249,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "SG": {
       "price": 17.61,
@@ -23997,16 +23970,7 @@
     "TR": {
       "price": 209.88,
       "currency": "TRY",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 209.88,
-        "currency": "TRY",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 874.5,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "US": {
       "price": 4.99,
@@ -132807,7 +132771,7 @@
       "currentSale": {
         "price": 1499,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1499,
         "saleStart": "2026-10-21",
@@ -132849,7 +132813,7 @@
       "currentSale": {
         "price": 285714,
         "currency": "IDR",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 300300,
         "saleStart": "2026-10-21",
@@ -265118,7 +265082,7 @@
       "currentSale": {
         "price": 142857,
         "currency": "IDR",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 171600,
         "saleStart": "2026-10-21",
@@ -265146,7 +265110,7 @@
       "currentSale": {
         "price": 749,
         "currency": "INR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 999,
         "saleStart": "2026-10-21",
@@ -278845,7 +278809,7 @@
       "currency": "IDR",
       "date": "2026-05-27",
       "currentSale": {
-        "price": 665334,
+        "price": 751914,
         "currency": "IDR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278859,7 +278823,7 @@
       "currency": "INR",
       "date": "2026-08-11",
       "currentSale": {
-        "price": 3996,
+        "price": 3496,
         "currency": "INR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278873,7 +278837,7 @@
       "currency": "SGD",
       "date": "2026-07-01",
       "currentSale": {
-        "price": 67.17,
+        "price": 59.84,
         "currency": "SGD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278887,7 +278851,7 @@
       "currency": "TRY",
       "date": "2026-08-11",
       "currentSale": {
-        "price": 1799.4,
+        "price": 2069.4,
         "currency": "TRY",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278945,7 +278909,7 @@
       "currency": "INR",
       "date": "2026-08-11",
       "currentSale": {
-        "price": 3496,
+        "price": 3996,
         "currency": "INR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278959,7 +278923,7 @@
       "currency": "SGD",
       "date": "2026-07-01",
       "currentSale": {
-        "price": 59.84,
+        "price": 67.17,
         "currency": "SGD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -278973,7 +278937,7 @@
       "currency": "TRY",
       "date": "2026-08-11",
       "currentSale": {
-        "price": 1799.4,
+        "price": 2069.4,
         "currency": "TRY",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -382675,16 +382639,7 @@
     "IN": {
       "price": 474,
       "currency": "INR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 474,
-        "currency": "INR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 999,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "SG": {
       "price": 23.67,
@@ -382703,16 +382658,7 @@
     "TR": {
       "price": 332.31,
       "currency": "TRY",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 332.31,
-        "currency": "TRY",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 699.6,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "US": {
       "price": 4.99,
@@ -396374,19 +396320,46 @@
   },
   "amnesia-the-bunker-ps4": {
     "IN": {
-      "price": 624,
+      "price": 520,
       "currency": "INR",
-      "date": "2026-08-11"
+      "date": "2026-10-27",
+      "currentSale": {
+        "price": 520,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 624,
+        "saleStart": "2026-10-27",
+        "saleEnd": "2026-10-28T23:59:00.000Z"
+      }
     },
     "TR": {
-      "price": 262.5,
+      "price": 218.75,
       "currency": "TRY",
-      "date": "2026-08-11"
+      "date": "2026-10-27",
+      "currentSale": {
+        "price": 218.75,
+        "currency": "TRY",
+        "status": "new_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 262.5,
+        "saleStart": "2026-10-27",
+        "saleEnd": "2026-10-28T23:59:00.000Z"
+      }
     },
     "US": {
-      "price": 7.49,
+      "price": 6.24,
       "currency": "USD",
-      "date": "2026-08-12"
+      "date": "2026-10-27",
+      "currentSale": {
+        "price": 6.24,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 7.49,
+        "saleStart": "2026-10-27",
+        "saleEnd": "2026-10-29T06:59:00.000Z"
+      }
     }
   },
   "vaccine-rebirth-ps4": {
@@ -427594,30 +427567,12 @@
     "IN": {
       "price": 299,
       "currency": "INR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 299,
-        "currency": "INR",
-        "status": "new_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 1499,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "TR": {
       "price": 174.9,
       "currency": "TRY",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 174.9,
-        "currency": "TRY",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 874.5,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "US": {
       "price": 11.99,
@@ -491030,86 +490985,32 @@
     "IN": {
       "price": 349,
       "currency": "INR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 349,
-        "currency": "INR",
-        "status": "new_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 1749,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "SG": {
       "price": 40.69,
       "currency": "SGD",
-      "date": "2026-08-11",
-      "currentSale": {
-        "price": 40.69,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 40.69,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-04T14:59:00.000Z"
-      }
+      "date": "2026-08-11"
     },
     "TR": {
       "price": 209.9,
       "currency": "TRY",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 209.9,
-        "currency": "TRY",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 1049.5,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-28T23:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "HK": {
       "price": 234,
       "currency": "HKD",
-      "date": "2026-08-11",
-      "currentSale": {
-        "price": 234,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 234,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-04T14:59:00.000Z"
-      }
+      "date": "2026-08-11"
     },
     "US": {
       "price": 14.99,
       "currency": "USD",
-      "date": "2026-10-23",
-      "currentSale": {
-        "price": 14.99,
-        "currency": "USD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 29.99,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-10-29T06:59:00.000Z"
-      }
+      "date": "2026-10-23"
     },
     "ID": {
       "price": 487845,
       "currency": "IDR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 487845,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 487845,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-04T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "escape-game-fort-boyard-ps4": {
@@ -519675,7 +519576,7 @@
       "currentSale": {
         "price": 333333,
         "currency": "IDR",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 333333,
         "saleStart": "2026-10-21",
@@ -519689,7 +519590,7 @@
       "currentSale": {
         "price": 1749,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1749,
         "saleStart": "2026-10-21",

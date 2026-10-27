@@ -8,9 +8,9 @@
       "sampleProductId": "EP4295-PPSA36268_00-GARFIELDDWPS50WW",
       "sampleProductName": "Garfield - Escape From Monday (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "typeFacetCounts": {
-        "FULL_GAME": 1247,
+        "FULL_GAME": 1248,
         "GAME_BUNDLE": 269,
-        "PREMIUM_EDITION": 175
+        "PREMIUM_EDITION": 174
       },
       "lastRan": "",
       "region": "en-hk"
@@ -28,9 +28,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 1226,
         "GAME_BUNDLE": 259,
-        "PREMIUM_EDITION": 168
+        "PREMIUM_EDITION": 167
       },
-      "lastRan": "2026-10-21",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-27",
       "region": "en-hk"
     },
     "5c3b22b6-5d93-46ed-a6f9-4eaf9269de57": {
@@ -46,9 +47,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 265,
         "GAME_BUNDLE": 67,
-        "PREMIUM_EDITION": 33
+        "PREMIUM_EDITION": 32
       },
-      "lastRan": "2026-10-21",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-27",
       "region": "en-hk"
     },
     "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0": {
@@ -64,9 +66,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 1026,
         "GAME_BUNDLE": 122,
-        "PREMIUM_EDITION": 55
+        "PREMIUM_EDITION": 54
       },
-      "lastRan": "2026-10-21",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-27",
       "region": "en-hk"
     }
   },

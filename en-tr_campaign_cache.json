@@ -8,9 +8,9 @@
       "sampleProductId": "UP0006-PPSA34015_00-27ULTIMATEBUNDLE",
       "sampleProductName": "EA SPORTS FC™ 27 Ultimate Edition PS4 & PS5",
       "typeFacetCounts": {
-        "FULL_GAME": 1902,
+        "FULL_GAME": 1901,
         "GAME_BUNDLE": 376,
-        "PREMIUM_EDITION": 219
+        "PREMIUM_EDITION": 217
       },
       "lastRan": "",
       "region": "en-tr"
@@ -26,11 +26,12 @@
       "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition",
       "discoveredAt": "2026-10-22",
       "typeFacetCounts": {
-        "FULL_GAME": 497,
+        "FULL_GAME": 496,
         "GAME_BUNDLE": 102,
-        "PREMIUM_EDITION": 59
+        "PREMIUM_EDITION": 58
       },
-      "lastRan": "2026-10-22",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-27",
       "region": "en-tr"
     },
     "cb8ec4c1-0a4a-4ff9-8d97-e2b85f2f0f39": {
@@ -44,11 +45,12 @@
       "sampleProductName": "Safety First!",
       "discoveredAt": "2026-10-22",
       "typeFacetCounts": {
-        "FULL_GAME": 1676,
+        "FULL_GAME": 1675,
         "GAME_BUNDLE": 210,
         "PREMIUM_EDITION": 89
       },
-      "lastRan": "2026-10-22",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-27",
       "region": "en-tr"
     },
     "11276272-7cfd-4cf7-b84d-510b516bdd1b": {
@@ -62,12 +64,12 @@
       "sampleProductName": "Moomintroll: Winter's Warmth",
       "discoveredAt": "2026-10-22",
       "typeFacetCounts": {
-        "FULL_GAME": 1872,
+        "FULL_GAME": 1869,
         "GAME_BUNDLE": 363,
-        "PREMIUM_EDITION": 211
+        "PREMIUM_EDITION": 209
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-22",
+      "lastRan": "2026-10-27",
       "region": "en-tr"
     }
   },
