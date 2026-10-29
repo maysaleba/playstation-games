@@ -9,8 +9,8 @@
       "sampleProductName": "Garfield - Escape From Monday (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "typeFacetCounts": {
         "FULL_GAME": 1250,
-        "GAME_BUNDLE": 268,
-        "PREMIUM_EDITION": 174
+        "GAME_BUNDLE": 267,
+        "PREMIUM_EDITION": 171
       },
       "lastRan": "",
       "region": "en-hk"
@@ -26,12 +26,12 @@
       "sampleProductName": "Garfield - Escape From Monday (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-10-21",
       "typeFacetCounts": {
-        "FULL_GAME": 1226,
+        "FULL_GAME": 1225,
         "GAME_BUNDLE": 258,
-        "PREMIUM_EDITION": 166
+        "PREMIUM_EDITION": 164
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-27",
+      "lastRan": "2026-10-29",
       "region": "en-hk"
     },
     "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0": {
@@ -51,6 +51,24 @@
       },
       "reason": "Type facet count changed",
       "lastRan": "2026-10-27",
+      "region": "en-hk"
+    },
+    "5c3b22b6-5d93-46ed-a6f9-4eaf9269de57": {
+      "categoryId": "5c3b22b6-5d93-46ed-a6f9-4eaf9269de57",
+      "internalName": "cat.gma.Halloween",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-04T14:59:00.000Z",
+      "sampleProductId": "UP2136-PPSA27967_00-DEADLANDVR2KODOB",
+      "sampleProductName": "Dead Land 2 VR (English)",
+      "discoveredAt": "2026-10-29",
+      "typeFacetCounts": {
+        "FULL_GAME": 265,
+        "GAME_BUNDLE": 67,
+        "PREMIUM_EDITION": 32
+      },
+      "lastRan": "2026-10-29",
       "region": "en-hk"
     }
   },

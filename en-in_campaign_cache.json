@@ -4,13 +4,13 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-10-28T23:59:00.000Z",
-      "sampleProductId": "UP0006-PPSA34015_00-27ULTIMATEBUNDLE",
-      "sampleProductName": "EA SPORTS FC™ 27 Ultimate Edition PS4 & PS5",
+      "saleEnds": "2026-11-04T23:59:00.000Z",
+      "sampleProductId": "EP3387-PPSA37137_00-0195913753223999",
+      "sampleProductName": "Moomintroll: Winter's Warmth",
       "typeFacetCounts": {
-        "FULL_GAME": 1930,
-        "GAME_BUNDLE": 378,
-        "PREMIUM_EDITION": 217
+        "FULL_GAME": 1932,
+        "GAME_BUNDLE": 377,
+        "PREMIUM_EDITION": 216
       },
       "lastRan": "",
       "region": "en-in"
@@ -28,10 +28,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 1701,
         "GAME_BUNDLE": 212,
-        "PREMIUM_EDITION": 88
+        "PREMIUM_EDITION": 89
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-27",
+      "lastRan": "2026-10-29",
       "region": "en-in"
     },
     "11276272-7cfd-4cf7-b84d-510b516bdd1b": {
@@ -47,10 +47,28 @@
       "typeFacetCounts": {
         "FULL_GAME": 1896,
         "GAME_BUNDLE": 364,
-        "PREMIUM_EDITION": 208
+        "PREMIUM_EDITION": 209
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-27",
+      "lastRan": "2026-10-29",
+      "region": "en-in"
+    },
+    "1081ee34-bea1-442b-a545-58183cdc63af": {
+      "categoryId": "1081ee34-bea1-442b-a545-58183cdc63af",
+      "internalName": "cat.gma.Halloween",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-04T23:59:00.000Z",
+      "sampleProductId": "UB2551-PPSA38510_00-0542265777974288",
+      "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition",
+      "discoveredAt": "2026-10-29",
+      "typeFacetCounts": {
+        "FULL_GAME": 499,
+        "GAME_BUNDLE": 102,
+        "PREMIUM_EDITION": 59
+      },
+      "lastRan": "2026-10-29",
       "region": "en-in"
     }
   },
