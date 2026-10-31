@@ -278811,7 +278811,7 @@
       "currency": "USD",
       "date": "2026-08-12",
       "currentSale": {
-        "price": 47.99,
+        "price": 41.99,
         "currency": "USD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
