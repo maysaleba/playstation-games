@@ -5,12 +5,12 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-11-20T23:59:00.000Z",
-      "sampleProductId": "EP1833-PPSA02391_00-DADELUXEEDITION0",
-      "sampleProductName": "Dune: Awakening - Deluxe Edition",
+      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
+      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
       "typeFacetCounts": {
-        "FULL_GAME": 1936,
+        "FULL_GAME": 1935,
         "GAME_BUNDLE": 376,
-        "PREMIUM_EDITION": 214
+        "PREMIUM_EDITION": 215
       },
       "lastRan": "",
       "region": "en-in"
@@ -28,10 +28,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 1701,
         "GAME_BUNDLE": 212,
-        "PREMIUM_EDITION": 89
+        "PREMIUM_EDITION": 88
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-29",
+      "lastRan": "2026-11-03",
       "region": "en-in"
     },
     "11276272-7cfd-4cf7-b84d-510b516bdd1b": {
@@ -47,10 +47,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 1896,
         "GAME_BUNDLE": 364,
-        "PREMIUM_EDITION": 209
+        "PREMIUM_EDITION": 208
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-29",
+      "lastRan": "2026-11-03",
       "region": "en-in"
     },
     "1081ee34-bea1-442b-a545-58183cdc63af": {
@@ -66,9 +66,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 499,
         "GAME_BUNDLE": 102,
-        "PREMIUM_EDITION": 59
+        "PREMIUM_EDITION": 58
       },
-      "lastRan": "2026-10-29",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-03",
       "region": "en-in"
     }
   },

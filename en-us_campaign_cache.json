@@ -28,10 +28,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 505,
         "GAME_BUNDLE": 105,
-        "PREMIUM_EDITION": 62
+        "PREMIUM_EDITION": 61
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-27",
+      "lastRan": "2026-11-03",
       "region": "en-us"
     },
     "3d62380f-7d69-40ae-aefe-52387125e07a": {
@@ -47,10 +47,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 1971,
         "GAME_BUNDLE": 364,
-        "PREMIUM_EDITION": 206
+        "PREMIUM_EDITION": 205
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-27",
+      "lastRan": "2026-11-03",
       "region": "en-us"
     },
     "17deb54c-b0f5-48a5-88dd-6f970ece5136": {
@@ -66,10 +66,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 1798,
         "GAME_BUNDLE": 215,
-        "PREMIUM_EDITION": 89
+        "PREMIUM_EDITION": 88
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-29",
+      "lastRan": "2026-11-03",
       "region": "en-us"
     }
   },
