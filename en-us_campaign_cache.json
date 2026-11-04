@@ -8,7 +8,7 @@
       "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
       "typeFacetCounts": {
-        "FULL_GAME": 1999,
+        "FULL_GAME": 2000,
         "GAME_BUNDLE": 370,
         "PREMIUM_EDITION": 212
       },
@@ -70,6 +70,24 @@
       },
       "reason": "Type facet count changed",
       "lastRan": "2026-11-03",
+      "region": "en-us"
+    },
+    "a4e0dfc4-22bd-4238-95ae-7ef093fb479a": {
+      "categoryId": "a4e0dfc4-22bd-4238-95ae-7ef093fb479a",
+      "internalName": "cat.gma.20deals_title1",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-21T07:59:00.000Z",
+      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
+      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
+      "discoveredAt": "2026-11-04",
+      "typeFacetCounts": {
+        "FULL_GAME": 0,
+        "GAME_BUNDLE": 1,
+        "PREMIUM_EDITION": 2
+      },
+      "lastRan": "2026-11-04",
       "region": "en-us"
     }
   },

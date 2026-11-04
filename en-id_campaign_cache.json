@@ -5,70 +5,68 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
-      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
+      "sampleProductName": "Easy Fishing Simulator (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 1272,
-        "GAME_BUNDLE": 283,
-        "PREMIUM_EDITION": 174
+        "FULL_GAME": 3261,
+        "GAME_BUNDLE": 514,
+        "PREMIUM_EDITION": 373
       },
       "lastRan": "",
       "region": "en-id"
     },
-    "e41a8c76-2db9-4878-8896-34beb0bf8d4f": {
-      "categoryId": "e41a8c76-2db9-4878-8896-34beb0bf8d4f",
-      "internalName": "cat.gma.PlanetOfTheDiscounts",
+    "131585f5-e4d2-44e4-9295-17ec2c4430c9": {
+      "categoryId": "131585f5-e4d2-44e4-9295-17ec2c4430c9",
+      "internalName": "cat.gma.20deals_title1",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T14:59:00.000Z",
-      "sampleProductId": "EP4295-PPSA36268_00-GARFIELDDWPS50WW",
-      "sampleProductName": "Garfield - Escape From Monday (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
-      "discoveredAt": "2026-10-21",
+      "saleEnds": "2026-11-20T14:59:00.000Z",
+      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
+      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 1244,
-        "GAME_BUNDLE": 272,
-        "PREMIUM_EDITION": 168
+        "FULL_GAME": 0,
+        "GAME_BUNDLE": 1,
+        "PREMIUM_EDITION": 2
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-29",
+      "lastRan": "2026-11-04",
       "region": "en-id"
     },
-    "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0": {
-      "categoryId": "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0",
+    "6a3fd66f-f063-4015-aecb-70776fa5e492": {
+      "categoryId": "6a3fd66f-f063-4015-aecb-70776fa5e492",
+      "internalName": "cat.am.Black_Friday_Sale",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-20T14:59:00.000Z",
+      "sampleProductId": "JP0700-PPSA24913_00-MAINGAME00000000",
+      "sampleProductName": "ACE COMBAT 8: WINGS OF THEVE (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-11-04",
+      "typeFacetCounts": {
+        "FULL_GAME": 530,
+        "GAME_BUNDLE": 116,
+        "PREMIUM_EDITION": 151
+      },
+      "lastRan": "2026-11-04",
+      "region": "en-id"
+    },
+    "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {
+      "categoryId": "87c2c5af-9f89-4204-b5ff-eccfc4ee752e",
       "internalName": "cat.gma.GamesforLess",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T14:59:00.000Z",
-      "sampleProductId": "EP0822-PPSA33121_00-SAFETYFIRSTPS500",
-      "sampleProductName": "Safety First! (Simplified Chinese, English)",
-      "discoveredAt": "2026-10-21",
+      "saleEnds": "2026-11-20T14:59:00.000Z",
+      "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
+      "sampleProductName": "Easy Fishing Simulator (English)",
+      "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 1046,
-        "GAME_BUNDLE": 137,
-        "PREMIUM_EDITION": 52
+        "FULL_GAME": 1529,
+        "GAME_BUNDLE": 126,
+        "PREMIUM_EDITION": 83
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-29",
-      "region": "en-id"
-    },
-    "5c3b22b6-5d93-46ed-a6f9-4eaf9269de57": {
-      "categoryId": "5c3b22b6-5d93-46ed-a6f9-4eaf9269de57",
-      "internalName": "cat.gma.Halloween",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T14:59:00.000Z",
-      "sampleProductId": "UB2551-PPSA38510_00-0542265777974288",
-      "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition (English)",
-      "discoveredAt": "2026-10-29",
-      "typeFacetCounts": {
-        "FULL_GAME": 265,
-        "GAME_BUNDLE": 68,
-        "PREMIUM_EDITION": 33
-      },
-      "lastRan": "2026-10-29",
+      "lastRan": "2026-11-04",
       "region": "en-id"
     }
   },
@@ -298,17 +296,60 @@
       "saleEnds": "2026-11-04T14:59:00.000Z",
       "sampleProductId": "UB2551-PPSA38510_00-0542265777974288",
       "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition (English)",
-      "discoveredAt": "2026-10-21",
+      "discoveredAt": "2026-10-29",
       "typeFacetCounts": {
         "FULL_GAME": 265,
         "GAME_BUNDLE": 68,
         "PREMIUM_EDITION": 33
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-27",
+      "lastRan": "2026-10-29",
       "region": "en-id",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-10-28",
+      "endedDetectedAt": "2026-11-04",
+      "ended": true
+    },
+    "e41a8c76-2db9-4878-8896-34beb0bf8d4f": {
+      "categoryId": "e41a8c76-2db9-4878-8896-34beb0bf8d4f",
+      "internalName": "cat.gma.PlanetOfTheDiscounts",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-04T14:59:00.000Z",
+      "sampleProductId": "EP4295-PPSA36268_00-GARFIELDDWPS50WW",
+      "sampleProductName": "Garfield - Escape From Monday (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-10-21",
+      "typeFacetCounts": {
+        "FULL_GAME": 1244,
+        "GAME_BUNDLE": 272,
+        "PREMIUM_EDITION": 168
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-29",
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-04",
+      "ended": true
+    },
+    "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0": {
+      "categoryId": "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0",
+      "internalName": "cat.gma.GamesforLess",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-04T14:59:00.000Z",
+      "sampleProductId": "EP0822-PPSA33121_00-SAFETYFIRSTPS500",
+      "sampleProductName": "Safety First! (Simplified Chinese, English)",
+      "discoveredAt": "2026-10-21",
+      "typeFacetCounts": {
+        "FULL_GAME": 1046,
+        "GAME_BUNDLE": 137,
+        "PREMIUM_EDITION": 52
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-29",
+      "region": "en-id",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-04",
       "ended": true
     }
   }

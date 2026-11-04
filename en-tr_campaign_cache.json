@@ -5,12 +5,12 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-11-20T23:59:00.000Z",
-      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
-      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
+      "sampleProductId": "EP1661-PPSA39981_00-SYPS5SIGIAFARTFO",
+      "sampleProductName": "Sigi - A Fart for Melusina",
       "typeFacetCounts": {
-        "FULL_GAME": 1909,
-        "GAME_BUNDLE": 373,
-        "PREMIUM_EDITION": 215
+        "FULL_GAME": 4964,
+        "GAME_BUNDLE": 836,
+        "PREMIUM_EDITION": 457
       },
       "lastRan": "",
       "region": "en-tr"
@@ -70,6 +70,42 @@
       },
       "reason": "Type facet count changed",
       "lastRan": "2026-11-03",
+      "region": "en-tr"
+    },
+    "fbed2426-16af-4e57-bea2-71345ab5f4de": {
+      "categoryId": "fbed2426-16af-4e57-bea2-71345ab5f4de",
+      "internalName": "cat.gma.20deals_title1",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-20T23:59:00.000Z",
+      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
+      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
+      "discoveredAt": "2026-11-04",
+      "typeFacetCounts": {
+        "FULL_GAME": 0,
+        "GAME_BUNDLE": 1,
+        "PREMIUM_EDITION": 2
+      },
+      "lastRan": "2026-11-04",
+      "region": "en-tr"
+    },
+    "5298ddd6-5475-4e26-8e73-820355a3fae6": {
+      "categoryId": "5298ddd6-5475-4e26-8e73-820355a3fae6",
+      "internalName": "cat.gma.BF_and_Deals",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-20T23:59:00.000Z",
+      "sampleProductId": "EP0001-PPSA14723_00-THECREWMGARAGE00",
+      "sampleProductName": "The Crew Motorfest Grand Garage Edition",
+      "discoveredAt": "2026-11-04",
+      "typeFacetCounts": {
+        "FULL_GAME": 753,
+        "GAME_BUNDLE": 161,
+        "PREMIUM_EDITION": 129
+      },
+      "lastRan": "2026-11-04",
       "region": "en-tr"
     }
   },

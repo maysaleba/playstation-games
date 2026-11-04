@@ -5,70 +5,68 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
-      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
+      "sampleProductName": "Easy Fishing Simulator (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 1251,
-        "GAME_BUNDLE": 269,
-        "PREMIUM_EDITION": 170
+        "FULL_GAME": 3230,
+        "GAME_BUNDLE": 500,
+        "PREMIUM_EDITION": 370
       },
       "lastRan": "",
       "region": "en-hk"
     },
-    "e41a8c76-2db9-4878-8896-34beb0bf8d4f": {
-      "categoryId": "e41a8c76-2db9-4878-8896-34beb0bf8d4f",
-      "internalName": "cat.gma.PlanetOfTheDiscounts",
+    "6a3fd66f-f063-4015-aecb-70776fa5e492": {
+      "categoryId": "6a3fd66f-f063-4015-aecb-70776fa5e492",
+      "internalName": "cat.am.Black_Friday_Sale",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T14:59:00.000Z",
-      "sampleProductId": "EP4295-PPSA36268_00-GARFIELDDWPS50WW",
-      "sampleProductName": "Garfield - Escape From Monday (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
-      "discoveredAt": "2026-10-21",
+      "saleEnds": "2026-11-20T14:59:00.000Z",
+      "sampleProductId": "JP0700-PPSA24913_00-MAINGAME00000000",
+      "sampleProductName": "ACE COMBAT 8: WINGS OF THEVE (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 1225,
-        "GAME_BUNDLE": 258,
-        "PREMIUM_EDITION": 164
+        "FULL_GAME": 525,
+        "GAME_BUNDLE": 116,
+        "PREMIUM_EDITION": 153
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-29",
+      "lastRan": "2026-11-04",
       "region": "en-hk"
     },
-    "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0": {
-      "categoryId": "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0",
+    "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {
+      "categoryId": "87c2c5af-9f89-4204-b5ff-eccfc4ee752e",
       "internalName": "cat.gma.GamesforLess",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T14:59:00.000Z",
-      "sampleProductId": "UP2136-CUSA56423_00-0821890861429474",
-      "sampleProductName": "Beauty Clicker (English)",
-      "discoveredAt": "2026-10-21",
+      "saleEnds": "2026-11-20T14:59:00.000Z",
+      "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
+      "sampleProductName": "Easy Fishing Simulator (English)",
+      "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 1026,
-        "GAME_BUNDLE": 122,
-        "PREMIUM_EDITION": 53
+        "FULL_GAME": 1523,
+        "GAME_BUNDLE": 126,
+        "PREMIUM_EDITION": 82
       },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-10-27",
+      "lastRan": "2026-11-04",
       "region": "en-hk"
     },
-    "5c3b22b6-5d93-46ed-a6f9-4eaf9269de57": {
-      "categoryId": "5c3b22b6-5d93-46ed-a6f9-4eaf9269de57",
-      "internalName": "cat.gma.Halloween",
+    "131585f5-e4d2-44e4-9295-17ec2c4430c9": {
+      "categoryId": "131585f5-e4d2-44e4-9295-17ec2c4430c9",
+      "internalName": "cat.gma.20deals_title1",
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T14:59:00.000Z",
-      "sampleProductId": "UP2136-PPSA27967_00-DEADLANDVR2KODOB",
-      "sampleProductName": "Dead Land 2 VR (English)",
-      "discoveredAt": "2026-10-29",
+      "saleEnds": "2026-11-20T14:59:00.000Z",
+      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
+      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 265,
-        "GAME_BUNDLE": 67,
-        "PREMIUM_EDITION": 32
+        "FULL_GAME": 0,
+        "GAME_BUNDLE": 1,
+        "PREMIUM_EDITION": 2
       },
-      "lastRan": "2026-10-29",
+      "lastRan": "2026-11-04",
       "region": "en-hk"
     }
   },
@@ -277,17 +275,60 @@
       "saleEnds": "2026-11-04T14:59:00.000Z",
       "sampleProductId": "UP2136-PPSA27967_00-DEADLANDVR2KODOB",
       "sampleProductName": "Dead Land 2 VR (English)",
-      "discoveredAt": "2026-10-21",
+      "discoveredAt": "2026-10-29",
       "typeFacetCounts": {
         "FULL_GAME": 265,
         "GAME_BUNDLE": 67,
         "PREMIUM_EDITION": 32
       },
+      "lastRan": "2026-10-29",
+      "region": "en-hk",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-04",
+      "ended": true
+    },
+    "e41a8c76-2db9-4878-8896-34beb0bf8d4f": {
+      "categoryId": "e41a8c76-2db9-4878-8896-34beb0bf8d4f",
+      "internalName": "cat.gma.PlanetOfTheDiscounts",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-04T14:59:00.000Z",
+      "sampleProductId": "EP4295-PPSA36268_00-GARFIELDDWPS50WW",
+      "sampleProductName": "Garfield - Escape From Monday (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-10-21",
+      "typeFacetCounts": {
+        "FULL_GAME": 1225,
+        "GAME_BUNDLE": 258,
+        "PREMIUM_EDITION": 164
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-10-29",
+      "region": "en-hk",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-04",
+      "ended": true
+    },
+    "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0": {
+      "categoryId": "faf5a70a-bc18-46b1-a6e5-bb755e8ad7f0",
+      "internalName": "cat.gma.GamesforLess",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-04T14:59:00.000Z",
+      "sampleProductId": "UP2136-CUSA56423_00-0821890861429474",
+      "sampleProductName": "Beauty Clicker (English)",
+      "discoveredAt": "2026-10-21",
+      "typeFacetCounts": {
+        "FULL_GAME": 1026,
+        "GAME_BUNDLE": 122,
+        "PREMIUM_EDITION": 53
+      },
       "reason": "Type facet count changed",
       "lastRan": "2026-10-27",
       "region": "en-hk",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-10-28",
+      "endedDetectedAt": "2026-11-04",
       "ended": true
     }
   }
