@@ -15,63 +15,6 @@
       "lastRan": "",
       "region": "en-in"
     },
-    "cb8ec4c1-0a4a-4ff9-8d97-e2b85f2f0f39": {
-      "categoryId": "cb8ec4c1-0a4a-4ff9-8d97-e2b85f2f0f39",
-      "internalName": "cat.gma.GamesforLess",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T23:59:00.000Z",
-      "sampleProductId": "EP0822-PPSA33121_00-SAFETYFIRSTPS500",
-      "sampleProductName": "Safety First!",
-      "discoveredAt": "2026-10-22",
-      "typeFacetCounts": {
-        "FULL_GAME": 1701,
-        "GAME_BUNDLE": 212,
-        "PREMIUM_EDITION": 88
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-11-03",
-      "region": "en-in"
-    },
-    "11276272-7cfd-4cf7-b84d-510b516bdd1b": {
-      "categoryId": "11276272-7cfd-4cf7-b84d-510b516bdd1b",
-      "internalName": "cat.gma.PlanetOfTheDiscounts",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T23:59:00.000Z",
-      "sampleProductId": "EP3387-PPSA37137_00-0195913753223999",
-      "sampleProductName": "Moomintroll: Winter's Warmth",
-      "discoveredAt": "2026-10-22",
-      "typeFacetCounts": {
-        "FULL_GAME": 1896,
-        "GAME_BUNDLE": 364,
-        "PREMIUM_EDITION": 208
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-11-03",
-      "region": "en-in"
-    },
-    "1081ee34-bea1-442b-a545-58183cdc63af": {
-      "categoryId": "1081ee34-bea1-442b-a545-58183cdc63af",
-      "internalName": "cat.gma.Halloween",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-04T23:59:00.000Z",
-      "sampleProductId": "UB2551-PPSA38510_00-0542265777974288",
-      "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition",
-      "discoveredAt": "2026-10-29",
-      "typeFacetCounts": {
-        "FULL_GAME": 499,
-        "GAME_BUNDLE": 102,
-        "PREMIUM_EDITION": 58
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-11-03",
-      "region": "en-in"
-    },
     "5298ddd6-5475-4e26-8e73-820355a3fae6": {
       "categoryId": "5298ddd6-5475-4e26-8e73-820355a3fae6",
       "internalName": "cat.gma.BF_and_Deals",
@@ -104,6 +47,24 @@
         "FULL_GAME": 0,
         "GAME_BUNDLE": 1,
         "PREMIUM_EDITION": 2
+      },
+      "lastRan": "2026-11-04",
+      "region": "en-in"
+    },
+    "59431f5d-1af0-42e6-ae2e-59c7edd02048": {
+      "categoryId": "59431f5d-1af0-42e6-ae2e-59c7edd02048",
+      "internalName": "cat.gma.GamesforLess",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-20T23:59:00.000Z",
+      "sampleProductId": "EP1661-PPSA39981_00-SYPS5SIGIAFARTFO",
+      "sampleProductName": "Sigi - A Fart for Melusina",
+      "discoveredAt": "2026-11-04",
+      "typeFacetCounts": {
+        "FULL_GAME": 2345,
+        "GAME_BUNDLE": 305,
+        "PREMIUM_EDITION": 122
       },
       "lastRan": "2026-11-04",
       "region": "en-in"
@@ -417,17 +378,61 @@
       "saleEnds": "2026-11-04T23:59:00.000Z",
       "sampleProductId": "UB2551-PPSA38510_00-0542265777974288",
       "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition",
-      "discoveredAt": "2026-10-22",
+      "discoveredAt": "2026-10-29",
       "typeFacetCounts": {
         "FULL_GAME": 499,
         "GAME_BUNDLE": 102,
         "PREMIUM_EDITION": 58
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-10-27",
+      "lastRan": "2026-11-03",
       "region": "en-in",
       "endedReason": "missing from deals page",
-      "endedDetectedAt": "2026-10-28",
+      "endedDetectedAt": "2026-11-04",
+      "ended": true
+    },
+    "cb8ec4c1-0a4a-4ff9-8d97-e2b85f2f0f39": {
+      "categoryId": "cb8ec4c1-0a4a-4ff9-8d97-e2b85f2f0f39",
+      "internalName": "cat.gma.GamesforLess",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-04T23:59:00.000Z",
+      "sampleProductId": "EP0822-PPSA33121_00-SAFETYFIRSTPS500",
+      "sampleProductName": "Safety First!",
+      "discoveredAt": "2026-10-22",
+      "typeFacetCounts": {
+        "FULL_GAME": 1701,
+        "GAME_BUNDLE": 212,
+        "PREMIUM_EDITION": 88
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-03",
+      "region": "en-in",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-04",
+      "ended": true
+    },
+    "11276272-7cfd-4cf7-b84d-510b516bdd1b": {
+      "categoryId": "11276272-7cfd-4cf7-b84d-510b516bdd1b",
+      "internalName": "cat.gma.PlanetOfTheDiscounts",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-04T23:59:00.000Z",
+      "sampleProductId": "EP3387-PPSA37137_00-0195913753223999",
+      "sampleProductName": "Moomintroll: Winter's Warmth",
+      "discoveredAt": "2026-10-22",
+      "typeFacetCounts": {
+        "FULL_GAME": 1896,
+        "GAME_BUNDLE": 364,
+        "PREMIUM_EDITION": 208
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-03",
+      "region": "en-in",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-04",
       "ended": true
     }
   }

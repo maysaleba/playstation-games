@@ -5,12 +5,12 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-11-21T07:59:00.000Z",
-      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
-      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
+      "sampleProductId": "UP1675-PPSA39980_00-SYPS5SIGIAFARTFO",
+      "sampleProductName": "Sigi - A Fart for Melusina",
       "typeFacetCounts": {
-        "FULL_GAME": 2000,
-        "GAME_BUNDLE": 370,
-        "PREMIUM_EDITION": 212
+        "FULL_GAME": 5054,
+        "GAME_BUNDLE": 844,
+        "PREMIUM_EDITION": 462
       },
       "lastRan": "",
       "region": "en-us"
@@ -86,6 +86,24 @@
         "FULL_GAME": 0,
         "GAME_BUNDLE": 1,
         "PREMIUM_EDITION": 2
+      },
+      "lastRan": "2026-11-04",
+      "region": "en-us"
+    },
+    "24379bde-560d-4ba8-8662-2d55d6143888": {
+      "categoryId": "24379bde-560d-4ba8-8662-2d55d6143888",
+      "internalName": "cat.gma.x_Black_Friday",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-21T07:59:00.000Z",
+      "sampleProductId": "EP4638-PPSA39472_00-0746594807529054",
+      "sampleProductName": "PAPERHEAD",
+      "discoveredAt": "2026-11-04",
+      "typeFacetCounts": {
+        "FULL_GAME": 732,
+        "GAME_BUNDLE": 166,
+        "PREMIUM_EDITION": 126
       },
       "lastRan": "2026-11-04",
       "region": "en-us"
