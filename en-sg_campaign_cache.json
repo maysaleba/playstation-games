@@ -5,12 +5,12 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
+      "sampleProductId": "UP7552-PPSA40051_00-0723954392860078",
       "sampleProductName": "Easy Fishing Simulator (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 3260,
-        "GAME_BUNDLE": 516,
-        "PREMIUM_EDITION": 372
+        "FULL_GAME": 2020,
+        "GAME_BUNDLE": 238,
+        "PREMIUM_EDITION": 203
       },
       "lastRan": "",
       "region": "en-sg"
@@ -44,11 +44,12 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 0,
-        "GAME_BUNDLE": 1,
+        "FULL_GAME": 2,
+        "GAME_BUNDLE": 3,
         "PREMIUM_EDITION": 2
       },
-      "lastRan": "2026-11-04",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-05",
       "region": "en-sg"
     },
     "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {

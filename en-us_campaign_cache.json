@@ -15,63 +15,6 @@
       "lastRan": "",
       "region": "en-us"
     },
-    "c69e349b-2c5b-435c-af83-69fa06673f26": {
-      "categoryId": "c69e349b-2c5b-435c-af83-69fa06673f26",
-      "internalName": "cat.gma.Halloween",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-05T07:59:00.000Z",
-      "sampleProductId": "UB2551-PPSA38510_00-0542265777974288",
-      "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition",
-      "discoveredAt": "2026-10-21",
-      "typeFacetCounts": {
-        "FULL_GAME": 505,
-        "GAME_BUNDLE": 105,
-        "PREMIUM_EDITION": 61
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-11-03",
-      "region": "en-us"
-    },
-    "3d62380f-7d69-40ae-aefe-52387125e07a": {
-      "categoryId": "3d62380f-7d69-40ae-aefe-52387125e07a",
-      "internalName": "cat.gma.PlanetOfTheDiscounts",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-05T07:59:00.000Z",
-      "sampleProductId": "EP3387-PPSA37137_00-0195913753223999",
-      "sampleProductName": "Moomintroll: Winter's Warmth",
-      "discoveredAt": "2026-10-22",
-      "typeFacetCounts": {
-        "FULL_GAME": 1971,
-        "GAME_BUNDLE": 364,
-        "PREMIUM_EDITION": 205
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-11-03",
-      "region": "en-us"
-    },
-    "17deb54c-b0f5-48a5-88dd-6f970ece5136": {
-      "categoryId": "17deb54c-b0f5-48a5-88dd-6f970ece5136",
-      "internalName": "cat.gma.GamesforLess",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-05T07:59:00.000Z",
-      "sampleProductId": "HB1576-PPSA33909_00-00000PS5AUREVOIR",
-      "sampleProductName": "Au Revoir",
-      "discoveredAt": "2026-10-22",
-      "typeFacetCounts": {
-        "FULL_GAME": 1798,
-        "GAME_BUNDLE": 215,
-        "PREMIUM_EDITION": 88
-      },
-      "reason": "Type facet count changed",
-      "lastRan": "2026-11-03",
-      "region": "en-us"
-    },
     "a4e0dfc4-22bd-4238-95ae-7ef093fb479a": {
       "categoryId": "a4e0dfc4-22bd-4238-95ae-7ef093fb479a",
       "internalName": "cat.gma.20deals_title1",
@@ -83,11 +26,12 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 0,
-        "GAME_BUNDLE": 1,
+        "FULL_GAME": 1,
+        "GAME_BUNDLE": 2,
         "PREMIUM_EDITION": 2
       },
-      "lastRan": "2026-11-04",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-05",
       "region": "en-us"
     },
     "24379bde-560d-4ba8-8662-2d55d6143888": {
@@ -106,6 +50,24 @@
         "PREMIUM_EDITION": 126
       },
       "lastRan": "2026-11-04",
+      "region": "en-us"
+    },
+    "99de77b7-8855-4f10-bea3-bfc45317e2b1": {
+      "categoryId": "99de77b7-8855-4f10-bea3-bfc45317e2b1",
+      "internalName": "cat.gma.GamesforLess",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-21T07:59:00.000Z",
+      "sampleProductId": "UP1675-PPSA39980_00-SYPS5SIGIAFARTFO",
+      "sampleProductName": "Sigi - A Fart for Melusina",
+      "discoveredAt": "2026-11-05",
+      "typeFacetCounts": {
+        "FULL_GAME": 2334,
+        "GAME_BUNDLE": 304,
+        "PREMIUM_EDITION": 121
+      },
+      "lastRan": "2026-11-05",
       "region": "en-us"
     }
   },
@@ -402,6 +364,72 @@
       "region": "en-us",
       "endedReason": "missing from deals page",
       "endedDetectedAt": "2026-10-22",
+      "ended": true
+    },
+    "c69e349b-2c5b-435c-af83-69fa06673f26": {
+      "categoryId": "c69e349b-2c5b-435c-af83-69fa06673f26",
+      "internalName": "cat.gma.Halloween",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-05T07:59:00.000Z",
+      "sampleProductId": "UB2551-PPSA38510_00-0542265777974288",
+      "sampleProductName": "The Walking Dead: Streets of Survival - Deluxe Edition",
+      "discoveredAt": "2026-10-21",
+      "typeFacetCounts": {
+        "FULL_GAME": 505,
+        "GAME_BUNDLE": 105,
+        "PREMIUM_EDITION": 61
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-03",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-05",
+      "ended": true
+    },
+    "3d62380f-7d69-40ae-aefe-52387125e07a": {
+      "categoryId": "3d62380f-7d69-40ae-aefe-52387125e07a",
+      "internalName": "cat.gma.PlanetOfTheDiscounts",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-05T07:59:00.000Z",
+      "sampleProductId": "EP3387-PPSA37137_00-0195913753223999",
+      "sampleProductName": "Moomintroll: Winter's Warmth",
+      "discoveredAt": "2026-10-22",
+      "typeFacetCounts": {
+        "FULL_GAME": 1971,
+        "GAME_BUNDLE": 364,
+        "PREMIUM_EDITION": 205
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-03",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-05",
+      "ended": true
+    },
+    "17deb54c-b0f5-48a5-88dd-6f970ece5136": {
+      "categoryId": "17deb54c-b0f5-48a5-88dd-6f970ece5136",
+      "internalName": "cat.gma.GamesforLess",
+      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
+      "source": "emsBanner",
+      "strandName": "DEALSTOP",
+      "saleEnds": "2026-11-05T07:59:00.000Z",
+      "sampleProductId": "HB1576-PPSA33909_00-00000PS5AUREVOIR",
+      "sampleProductName": "Au Revoir",
+      "discoveredAt": "2026-10-22",
+      "typeFacetCounts": {
+        "FULL_GAME": 1798,
+        "GAME_BUNDLE": 215,
+        "PREMIUM_EDITION": 88
+      },
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-03",
+      "region": "en-us",
+      "endedReason": "missing from deals page",
+      "endedDetectedAt": "2026-11-05",
       "ended": true
     }
   }
