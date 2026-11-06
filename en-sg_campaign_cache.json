@@ -26,11 +26,12 @@
       "sampleProductName": "ACE COMBAT 8: WINGS OF THEVE (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 530,
-        "GAME_BUNDLE": 116,
+        "FULL_GAME": 532,
+        "GAME_BUNDLE": 118,
         "PREMIUM_EDITION": 151
       },
-      "lastRan": "2026-11-04",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-06",
       "region": "en-sg"
     },
     "131585f5-e4d2-44e4-9295-17ec2c4430c9": {

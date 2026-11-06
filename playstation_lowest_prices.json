@@ -475,16 +475,7 @@
     "ID": {
       "price": 489300,
       "currency": "IDR",
-      "date": "2026-06-20",
-      "currentSale": {
-        "price": 543123,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 489300,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-20"
     },
     "IN": {
       "price": 1664,
@@ -494,16 +485,7 @@
     "SG": {
       "price": 48.41,
       "currency": "SGD",
-      "date": "2026-06-20",
-      "currentSale": {
-        "price": 48.41,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 48.41,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-20"
     },
     "TR": {
       "price": 859.6,
@@ -518,16 +500,7 @@
     "HK": {
       "price": 278.6,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 278.6,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 278.6,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "dont-mess-with-bober-ps5": {
@@ -625,16 +598,7 @@
     "ID": {
       "price": 414500,
       "currency": "IDR",
-      "date": "2026-06-20",
-      "currentSale": {
-        "price": 460095,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 414500,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-20"
     },
     "IN": {
       "price": 1399,
@@ -644,16 +608,7 @@
     "SG": {
       "price": 40.69,
       "currency": "SGD",
-      "date": "2026-06-20",
-      "currentSale": {
-        "price": 40.69,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 40.69,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-20"
     },
     "TR": {
       "price": 1031.6,
@@ -668,16 +623,7 @@
     "HK": {
       "price": 234,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 234,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 234,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "two-strikes-ultimate-edition-ps4": {
@@ -1215,16 +1161,7 @@
     "ID": {
       "price": 414500,
       "currency": "IDR",
-      "date": "2026-06-20",
-      "currentSale": {
-        "price": 460095,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 414500,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-20"
     },
     "IN": {
       "price": 1399,
@@ -1234,16 +1171,7 @@
     "SG": {
       "price": 40.69,
       "currency": "SGD",
-      "date": "2026-06-20",
-      "currentSale": {
-        "price": 40.69,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 40.69,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-20"
     },
     "TR": {
       "price": 1031.6,
@@ -1258,16 +1186,7 @@
     "HK": {
       "price": 234,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 234,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 234,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "have-it-coming-ps4": {
@@ -11146,16 +11065,7 @@
     "ID": {
       "price": 347400,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 385614,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 347400,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 749,
@@ -11165,16 +11075,7 @@
     "SG": {
       "price": 33.55,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 33.55,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 33.55,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 419.7,
@@ -11189,16 +11090,7 @@
     "HK": {
       "price": 184.8,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 184.8,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 184.8,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "skull-and-bones-ps5": {
@@ -12489,16 +12381,7 @@
     "ID": {
       "price": 295630,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 328149,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 295630,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 274,
@@ -12508,16 +12391,7 @@
     "SG": {
       "price": 29.63,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 29.63,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 29.63,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 194.9,
@@ -12532,16 +12406,7 @@
     "HK": {
       "price": 163.56,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 163.56,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 163.56,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "alpha-particle-ps4-ps5": {
@@ -17749,30 +17614,12 @@
     "ID": {
       "price": 82900,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 92019,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 82900,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "SG": {
       "price": 8.13,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 8.13,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 8.13,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 499,
@@ -17792,16 +17639,7 @@
     "HK": {
       "price": 46.8,
       "currency": "HKD",
-      "date": "2026-08-11",
-      "currentSale": {
-        "price": 46.8,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 46.8,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-08-11"
     }
   },
   "cave-bad-ps5": {
@@ -21363,16 +21201,7 @@
     "ID": {
       "price": 87250,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 96847,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 87250,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 437,
@@ -21382,16 +21211,7 @@
     "SG": {
       "price": 8.88,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 8.88,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 8.88,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 269.75,
@@ -21406,16 +21226,7 @@
     "HK": {
       "price": 49.5,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 49.5,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 49.5,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "blood-and-truth-ps4": {
@@ -48784,16 +48595,7 @@
     "ID": {
       "price": 279600,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 310356,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 279600,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 416,
@@ -48803,16 +48605,7 @@
     "SG": {
       "price": 27.66,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 27.66,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 27.66,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 214.9,
@@ -48827,16 +48620,7 @@
     "HK": {
       "price": 159.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 159.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 159.2,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "saga-frontier-remastered-ps4": {
@@ -57094,16 +56878,7 @@
     "ID": {
       "price": 432345,
       "currency": "IDR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 432345,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 467400,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "IN": {
       "price": 799,
@@ -57113,16 +56888,7 @@
     "SG": {
       "price": 38.15,
       "currency": "SGD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 38.15,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 45.78,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "TR": {
       "price": 487.25,
@@ -57137,16 +56903,7 @@
     "HK": {
       "price": 214,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 214,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 214,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "session-skate-sim-year-one-and-two-edition-ps4-ps5": {
@@ -57490,16 +57247,7 @@
     "ID": {
       "price": 414500,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 460095,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 414500,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 1599,
@@ -57509,16 +57257,7 @@
     "SG": {
       "price": 40.69,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 40.69,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 40.69,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 999.6,
@@ -57533,16 +57272,7 @@
     "HK": {
       "price": 234,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 234,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 234,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "parking-masters-ps5": {
@@ -57945,16 +57675,7 @@
     "ID": {
       "price": 376350,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 417748,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 376350,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 874,
@@ -57964,16 +57685,7 @@
     "SG": {
       "price": 36.35,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 36.35,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 36.35,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 489.65,
@@ -57988,16 +57700,7 @@
     "HK": {
       "price": 200.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 200.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 200.2,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "extreme-offroad-racing-ps4": {
@@ -58685,16 +58388,7 @@
     "ID": {
       "price": 202650,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 224941,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 202650,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 499,
@@ -58704,16 +58398,7 @@
     "SG": {
       "price": 19.57,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 19.57,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 19.57,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 279.8,
@@ -58728,16 +58413,7 @@
     "HK": {
       "price": 107.8,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 107.8,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 107.8,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "crusader-kings-iii-ps5": {
@@ -68367,16 +68043,7 @@
     "ID": {
       "price": 165800,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 598123,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 165800,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 699,
@@ -68386,16 +68053,7 @@
     "SG": {
       "price": 16.27,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 52.9,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 16.27,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 419.8,
@@ -68410,32 +68068,14 @@
     "HK": {
       "price": 304.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 304.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 304.2,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "test-drive-unlimited-solar-crown-silver-sharps-edition-ps5": {
     "ID": {
       "price": 225800,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 250638,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 225800,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 959,
@@ -68445,16 +68085,7 @@
     "SG": {
       "price": 22.39,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 22.39,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 22.39,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 559.8,
@@ -68469,16 +68100,7 @@
     "HK": {
       "price": 127.6,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 127.6,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 127.6,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "circuit-superstars-ps4": {
@@ -84206,16 +83828,7 @@
     "IN": {
       "price": 424,
       "currency": "INR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 566,
-        "currency": "INR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 424,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T23:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "SG": {
       "price": 8.52,
@@ -84225,16 +83838,7 @@
     "TR": {
       "price": 178.5,
       "currency": "TRY",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 238,
-        "currency": "TRY",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 178.5,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T23:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "US": {
       "price": 5.09,
@@ -88096,16 +87700,7 @@
     "ID": {
       "price": 55800,
       "currency": "IDR",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 61938,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 55800,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "IN": {
       "price": 166,
@@ -88115,16 +87710,7 @@
     "SG": {
       "price": 5.68,
       "currency": "SGD",
-      "date": "2026-05-26",
-      "currentSale": {
-        "price": 5.68,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 5.68,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-26"
     },
     "TR": {
       "price": 69.9,
@@ -88139,16 +87725,7 @@
     "HK": {
       "price": 29.6,
       "currency": "HKD",
-      "date": "2026-08-11",
-      "currentSale": {
-        "price": 29.6,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 29.6,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-08-11"
     }
   },
   "time-carnage-ps4": {
@@ -146804,44 +146381,17 @@
     "ID": {
       "price": 279600,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 310356,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 279600,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 27.66,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 27.66,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 27.66,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 159.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 159.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 159.2,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "morbid-the-lords-of-ire-ps5": {
@@ -147996,44 +147546,17 @@
     "ID": {
       "price": 214500,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 238095,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 214500,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 21.34,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 21.34,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 21.34,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 119,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 119,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 119,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition-ps4-ps5": {
@@ -157067,44 +156590,17 @@
     "ID": {
       "price": 83700,
       "currency": "IDR",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 92907,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 83700,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "SG": {
       "price": 8.52,
       "currency": "SGD",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 8.52,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 8.52,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "HK": {
       "price": 44.4,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 44.4,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 44.4,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "dead-ahead-zombie-warfare-and-3-packs-ps4": {
@@ -183258,30 +182754,12 @@
     "ID": {
       "price": 119750,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 132922,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 119750,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 12.2,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 12.2,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 12.2,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "US": {
       "price": 3.49,
@@ -183291,16 +182769,7 @@
     "HK": {
       "price": 67,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 67,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 67,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "final-sword-ps5": {
@@ -183870,7 +183339,7 @@
       "currency": "USD",
       "date": "2026-05-26",
       "currentSale": {
-        "price": 6.24,
+        "price": 4.99,
         "currency": "USD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -188703,44 +188172,17 @@
     "ID": {
       "price": 347400,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 385614,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 347400,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 33.55,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 33.55,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 33.55,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 184.8,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 184.8,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 184.8,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "cazzarion-pacific-winds-ps5": {
@@ -189250,44 +188692,17 @@
     "ID": {
       "price": 314500,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 349095,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 314500,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 31.52,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 31.52,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 31.52,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 174,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 174,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 174,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "hotel-lake-edition-ps4-ps5": {
@@ -189309,44 +188724,17 @@
     "ID": {
       "price": 128700,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 142857,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 128700,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 12.8,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 12.8,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 12.8,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 71.4,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 71.4,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 71.4,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "dessert-diy-complete-edition-ps4": {
@@ -189535,44 +188923,17 @@
     "ID": {
       "price": 209700,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 232767,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 209700,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 20.75,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 20.75,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 20.75,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 119.4,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 119.4,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 119.4,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "doraemon-story-of-seasons-friends-of-the-great-kingdom-special-edition-ps5": {
@@ -193256,44 +192617,17 @@
     "ID": {
       "price": 71850,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 79753,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 71850,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 7.32,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 7.32,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 7.32,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 40.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 40.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 40.2,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "horror-tale-1-kidnapper-ps4": {
@@ -195075,44 +194409,17 @@
     "ID": {
       "price": 276057,
       "currency": "IDR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 276057,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 497400,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "SG": {
       "price": 24.41,
       "currency": "SGD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 24.41,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 48.83,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "HK": {
       "price": 140.4,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 140.4,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 140.4,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "assetto-corsa-competizione-2024-pack-ps5": {
@@ -195227,44 +194534,17 @@
     "ID": {
       "price": 214500,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 238095,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 214500,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 21.34,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 21.34,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 21.34,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 119,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 119,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 119,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "spectrolite-ps5": {
@@ -196762,44 +196042,17 @@
     "ID": {
       "price": 115800,
       "currency": "IDR",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 128538,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 115800,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "SG": {
       "price": 11.18,
       "currency": "SGD",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 11.18,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 11.18,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "HK": {
       "price": 61.6,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 61.6,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 61.6,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "monster-truck-championship-ps5": {
@@ -196924,44 +196177,17 @@
     "ID": {
       "price": 85800,
       "currency": "IDR",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 95238,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 85800,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "SG": {
       "price": 8.53,
       "currency": "SGD",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 8.53,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 8.53,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "HK": {
       "price": 47.6,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 47.6,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 47.6,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "tennis-world-tour-2-ace-edition-ps4": {
@@ -196983,44 +196209,17 @@
     "ID": {
       "price": 173700,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 192807,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 173700,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 16.77,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 16.77,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 16.77,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "HK": {
       "price": 92.4,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 92.4,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 92.4,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "street-power-football-ps4": {
@@ -224957,16 +224156,7 @@
     "ID": {
       "price": 128700,
       "currency": "IDR",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 142857,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 128700,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "IN": {
       "price": 249,
@@ -224976,16 +224166,7 @@
     "SG": {
       "price": 12.8,
       "currency": "SGD",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 12.8,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 12.8,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "TR": {
       "price": 129.9,
@@ -224995,16 +224176,7 @@
     "HK": {
       "price": 71.4,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 71.4,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 71.4,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "dragon-star-varnir-ps4": {
@@ -254350,7 +253522,16 @@
     "US": {
       "price": 35.49,
       "currency": "USD",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "currentSale": {
+        "price": 35.49,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 35.49,
+        "saleStart": "2026-11-06",
+        "saleEnd": "2026-11-21T07:59:00.000Z"
+      }
     },
     "HK": {
       "price": 284,
@@ -258275,30 +257456,12 @@
     "ID": {
       "price": 231600,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 257076,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 231600,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 22.37,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 22.37,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 22.37,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "IN": {
       "price": 749,
@@ -258318,46 +257481,19 @@
     "HK": {
       "price": 123.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 123.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 123.2,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "train-life-a-railway-simulator-ps4-ps5": {
     "ID": {
       "price": 111600,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 123876,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 111600,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 11.36,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 11.36,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 11.36,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "IN": {
       "price": 299,
@@ -258377,16 +257513,7 @@
     "HK": {
       "price": 59.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 59.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 59.2,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "train-life-a-railway-simulator-orient-express-train-edition-ps4-ps5": {
@@ -264178,30 +263305,12 @@
     "ID": {
       "price": 150150,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 166666,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 150150,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 14.93,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 14.93,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 14.93,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "IN": {
       "price": 199,
@@ -264221,46 +263330,19 @@
     "HK": {
       "price": 83.3,
       "currency": "HKD",
-      "date": "2026-10-23",
-      "currentSale": {
-        "price": 83.3,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 83.3,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-23"
     }
   },
   "werewolf-the-apocalypse-earthblood-ps4": {
     "ID": {
       "price": 150150,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 166666,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 150150,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 14.93,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 14.93,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 14.93,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "IN": {
       "price": 199,
@@ -264280,16 +263362,7 @@
     "HK": {
       "price": 83.3,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 83.3,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 83.3,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "werewolf-the-apocalypse-earthblood-champion-of-gaia-ps5": {
@@ -264970,30 +264043,12 @@
     "ID": {
       "price": 209700,
       "currency": "IDR",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 232767,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 209700,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "SG": {
       "price": 20.75,
       "currency": "SGD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 20.75,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 20.75,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-05-27"
     },
     "IN": {
       "price": 699,
@@ -265013,16 +264068,7 @@
     "HK": {
       "price": 119.4,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 119.4,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 119.4,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "need-for-speed-unbound-ps5": {
@@ -380183,16 +379229,7 @@
     "ID": {
       "price": 154956,
       "currency": "IDR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 154956,
-        "currency": "IDR",
-        "status": "new_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 174325,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "IN": {
       "price": 898,
@@ -380211,16 +379248,7 @@
     "SG": {
       "price": 14.21,
       "currency": "SGD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 14.21,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 15.99,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "TR": {
       "price": 464,
@@ -380253,32 +379281,14 @@
     "HK": {
       "price": 79.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 79.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 89.1,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "boti-byteland-overclocked-ultimate-edition-ps5": {
     "ID": {
       "price": 154956,
       "currency": "IDR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 154956,
-        "currency": "IDR",
-        "status": "new_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 174325,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "IN": {
       "price": 898,
@@ -380297,16 +379307,7 @@
     "SG": {
       "price": 14.21,
       "currency": "SGD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 14.21,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 15.99,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "TR": {
       "price": 464,
@@ -380339,16 +379340,7 @@
     "HK": {
       "price": 79.2,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 79.2,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 89.1,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "hunt-showdown-1896-ps5": {
@@ -385368,16 +384360,7 @@
     "IN": {
       "price": 665,
       "currency": "INR",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 665,
-        "currency": "INR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 665,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T23:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "SG": {
       "price": 11.36,
@@ -385387,16 +384370,7 @@
     "TR": {
       "price": 199.6,
       "currency": "TRY",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 199.6,
-        "currency": "TRY",
-        "status": "matches_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 199.6,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T23:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "US": {
       "price": 7.99,
@@ -391671,16 +390645,7 @@
     "ID": {
       "price": 128700,
       "currency": "IDR",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 142857,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 128700,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "IN": {
       "price": 199,
@@ -391690,16 +390655,7 @@
     "SG": {
       "price": 12.8,
       "currency": "SGD",
-      "date": "2026-06-10",
-      "currentSale": {
-        "price": 12.8,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 12.8,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-06-10"
     },
     "TR": {
       "price": 129.9,
@@ -391714,16 +390670,7 @@
     "HK": {
       "price": 71.4,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 71.4,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 71.4,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "demons-souls-deluxe-edition-ps5": {
@@ -460232,44 +459179,17 @@
     "ID": {
       "price": 193972,
       "currency": "IDR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 193972,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 193972,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "SG": {
       "price": 17.29,
       "currency": "SGD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 17.29,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 17.29,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "HK": {
       "price": 99.5,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 99.5,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 99.5,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "srx-the-game-ps4-ps5": {
@@ -464939,44 +463859,17 @@
     "ID": {
       "price": 166666,
       "currency": "IDR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 166666,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 166666,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "SG": {
       "price": 14.93,
       "currency": "SGD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 14.93,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 14.93,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "HK": {
       "price": 83.3,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 83.3,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 83.3,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "rims-racing-ps5": {
@@ -464998,44 +463891,17 @@
     "ID": {
       "price": 166666,
       "currency": "IDR",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 166666,
-        "currency": "IDR",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 166666,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "SG": {
       "price": 14.93,
       "currency": "SGD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 14.93,
-        "currency": "SGD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 14.93,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     },
     "HK": {
       "price": 83.3,
       "currency": "HKD",
-      "date": "2026-10-21",
-      "currentSale": {
-        "price": 83.3,
-        "currency": "HKD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 83.3,
-        "saleStart": "2026-10-21",
-        "saleEnd": "2026-11-20T14:59:00.000Z"
-      }
+      "date": "2026-10-21"
     }
   },
   "ea-sports-fc-26-ps4-ps5": {
@@ -512735,7 +511601,7 @@
       "currency": "IDR",
       "date": "2026-09-09",
       "currentSale": {
-        "price": 1046896,
+        "price": 914862,
         "currency": "IDR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",

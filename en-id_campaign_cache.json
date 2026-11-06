@@ -8,7 +8,7 @@
       "sampleProductId": "UP7552-PPSA40051_00-0723954392860078",
       "sampleProductName": "Easy Fishing Simulator (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 2023,
+        "FULL_GAME": 2022,
         "GAME_BUNDLE": 240,
         "PREMIUM_EDITION": 205
       },
@@ -45,11 +45,12 @@
       "sampleProductName": "ACE COMBAT 8: WINGS OF THEVE (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 530,
-        "GAME_BUNDLE": 116,
+        "FULL_GAME": 532,
+        "GAME_BUNDLE": 118,
         "PREMIUM_EDITION": 151
       },
-      "lastRan": "2026-11-04",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-06",
       "region": "en-id"
     },
     "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {

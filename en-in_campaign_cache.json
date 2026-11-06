@@ -8,7 +8,7 @@
       "sampleProductId": "EP1661-PPSA39981_00-SYPS5SIGIAFARTFO",
       "sampleProductName": "Sigi - A Fart for Melusina",
       "typeFacetCounts": {
-        "FULL_GAME": 3116,
+        "FULL_GAME": 3115,
         "GAME_BUNDLE": 480,
         "PREMIUM_EDITION": 257
       },
@@ -26,11 +26,12 @@
       "sampleProductName": "The Crew Motorfest Grand Garage Edition",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 751,
-        "GAME_BUNDLE": 161,
+        "FULL_GAME": 752,
+        "GAME_BUNDLE": 162,
         "PREMIUM_EDITION": 129
       },
-      "lastRan": "2026-11-04",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-06",
       "region": "en-in"
     },
     "fbed2426-16af-4e57-bea2-71345ab5f4de": {
@@ -63,11 +64,12 @@
       "sampleProductName": "Sigi - A Fart for Melusina",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 2345,
-        "GAME_BUNDLE": 305,
-        "PREMIUM_EDITION": 122
+        "FULL_GAME": 2340,
+        "GAME_BUNDLE": 304,
+        "PREMIUM_EDITION": 121
       },
-      "lastRan": "2026-11-04",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-06",
       "region": "en-in"
     }
   },
