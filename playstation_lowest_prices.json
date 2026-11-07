@@ -263601,7 +263601,7 @@
       "currentSale": {
         "price": 1748,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1748,
         "saleStart": "2026-11-04",
