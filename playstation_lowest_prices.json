@@ -566986,24 +566986,60 @@
   },
   "battlefield-6-game-of-the-year-edition-ps5": {
     "ID": {
-      "price": 938400,
+      "price": 860200,
       "currency": "IDR",
-      "date": "2026-10-14"
+      "date": "2026-11-09",
+      "currentSale": {
+        "price": 860200,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 938400,
+        "saleStart": "2026-11-09",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     },
     "IN": {
-      "price": 4499,
+      "price": 4124,
       "currency": "INR",
-      "date": "2026-10-14"
+      "date": "2026-11-09",
+      "currentSale": {
+        "price": 4124,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 4499,
+        "saleStart": "2026-11-09",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "SG": {
-      "price": 83.94,
+      "price": 76.94,
       "currency": "SGD",
-      "date": "2026-10-14"
+      "date": "2026-11-09",
+      "currentSale": {
+        "price": 76.94,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 83.94,
+        "saleStart": "2026-11-09",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     },
     "TR": {
-      "price": 2400,
+      "price": 2200,
       "currency": "TRY",
-      "date": "2026-10-14"
+      "date": "2026-11-09",
+      "currentSale": {
+        "price": 2200,
+        "currency": "TRY",
+        "status": "new_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 2400,
+        "saleStart": "2026-11-09",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "US": {
       "price": 59.99,
@@ -567011,9 +567047,18 @@
       "date": "2026-10-14"
     },
     "HK": {
-      "price": 472.8,
+      "price": 433.4,
       "currency": "HKD",
-      "date": "2026-10-14"
+      "date": "2026-11-09",
+      "currentSale": {
+        "price": 433.4,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 472.8,
+        "saleStart": "2026-11-09",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     }
   },
   "patlabor-the-case-files-ps5": {
