@@ -5,12 +5,12 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
+      "sampleProductId": "UP7552-PPSA40051_00-0723954392860078",
       "sampleProductName": "Easy Fishing Simulator (English)",
       "typeFacetCounts": {
         "FULL_GAME": 2022,
         "GAME_BUNDLE": 241,
-        "PREMIUM_EDITION": 203
+        "PREMIUM_EDITION": 204
       },
       "lastRan": "",
       "region": "en-sg"
@@ -47,10 +47,10 @@
       "typeFacetCounts": {
         "FULL_GAME": 2,
         "GAME_BUNDLE": 5,
-        "PREMIUM_EDITION": 2
+        "PREMIUM_EDITION": 3
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-09",
+      "lastRan": "2026-11-10",
       "region": "en-sg"
     },
     "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {

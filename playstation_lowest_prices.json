@@ -76880,7 +76880,7 @@
       "currentSale": {
         "price": 619.2,
         "currency": "TRY",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 619.2,
         "saleStart": "2026-11-04",
@@ -180081,7 +180081,7 @@
       "currentSale": {
         "price": 2099,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 2099,
         "saleStart": "2026-11-04",
@@ -180123,7 +180123,7 @@
       "currentSale": {
         "price": 404595,
         "currency": "IDR",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 525973,
         "saleStart": "2026-11-04",
@@ -276986,7 +276986,7 @@
       "currentSale": {
         "price": 387,
         "currency": "TRY",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 387,
         "saleStart": "2026-11-04",
@@ -485575,7 +485575,7 @@
       "currentSale": {
         "price": 154845,
         "currency": "IDR",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 154845,
         "saleStart": "2026-11-04",
@@ -531500,29 +531500,79 @@
   },
   "baldurs-gate-3-deluxe-edition-ps5": {
     "SG": {
-      "price": 69.81,
+      "price": 62.93,
       "currency": "SGD",
-      "date": "2026-07-26"
+      "date": "2026-11-10",
+      "currentSale": {
+        "price": 62.93,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 69.81,
+        "saleStart": "2026-11-10",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 1959.3,
       "currency": "TRY",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "currentSale": {
+        "price": 1959.3,
+        "currency": "TRY",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1959.3,
+        "saleStart": "2026-11-10",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "HK": {
       "price": 397.6,
       "currency": "HKD",
-      "date": "2026-07-26"
+      "date": "2026-07-26",
+      "currentSale": {
+        "price": 397.6,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 397.6,
+        "saleStart": "2026-11-10",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 4662,
       "currency": "INR",
-      "date": "2026-07-27"
+      "date": "2026-07-27",
+      "currentSale": {
+        "price": 4662,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 4662,
+        "saleStart": "2026-11-10",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "US": {
       "price": 55.99,
       "currency": "USD",
       "date": "2026-07-27"
+    },
+    "ID": {
+      "price": 776223,
+      "currency": "IDR",
+      "date": "2026-11-10",
+      "currentSale": {
+        "price": 776223,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-10",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     }
   },
   "cube-decider-ps4": {
