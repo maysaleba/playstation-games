@@ -230713,22 +230713,58 @@
     "ID": {
       "price": 807303,
       "currency": "IDR",
-      "date": "2026-09-09"
+      "date": "2026-09-09",
+      "currentSale": {
+        "price": 807303,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 807303,
+        "saleStart": "2026-11-11",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 2975,
       "currency": "INR",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "currentSale": {
+        "price": 2975,
+        "currency": "INR",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 2975,
+        "saleStart": "2026-11-11",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "SG": {
       "price": 69.23,
       "currency": "SGD",
-      "date": "2026-09-09"
+      "date": "2026-09-09",
+      "currentSale": {
+        "price": 69.23,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 69.23,
+        "saleStart": "2026-11-11",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 2386.38,
       "currency": "TRY",
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "currentSale": {
+        "price": 2386.38,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 2386.38,
+        "saleStart": "2026-11-11",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "US": {
       "price": 55.99,
@@ -230738,7 +230774,16 @@
     "HK": {
       "price": 418.6,
       "currency": "HKD",
-      "date": "2026-09-09"
+      "date": "2026-09-09",
+      "currentSale": {
+        "price": 418.6,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 418.6,
+        "saleStart": "2026-11-11",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     }
   },
   "tales-of-berseria-remastered-deluxe-edition-ps5": {
@@ -273014,7 +273059,7 @@
       "currency": "TRY",
       "date": "2026-05-27",
       "currentSale": {
-        "price": 779.4,
+        "price": 509.4,
         "currency": "TRY",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -511545,7 +511590,7 @@
       "currency": "SGD",
       "date": "2026-07-14",
       "currentSale": {
-        "price": 85.41,
+        "price": 96.17,
         "currency": "SGD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -511601,7 +511646,7 @@
       "currency": "IDR",
       "date": "2026-09-09",
       "currentSale": {
-        "price": 914862,
+        "price": 1046896,
         "currency": "IDR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",

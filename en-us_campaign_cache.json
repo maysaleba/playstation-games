@@ -9,7 +9,7 @@
       "sampleProductName": "Sigi - A Fart for Melusina",
       "typeFacetCounts": {
         "FULL_GAME": 3088,
-        "GAME_BUNDLE": 483,
+        "GAME_BUNDLE": 485,
         "PREMIUM_EDITION": 258
       },
       "lastRan": "",
@@ -46,11 +46,11 @@
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
         "FULL_GAME": 733,
-        "GAME_BUNDLE": 167,
-        "PREMIUM_EDITION": 126
+        "GAME_BUNDLE": 168,
+        "PREMIUM_EDITION": 127
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-06",
+      "lastRan": "2026-11-11",
       "region": "en-us"
     },
     "99de77b7-8855-4f10-bea3-bfc45317e2b1": {

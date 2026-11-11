@@ -8,9 +8,9 @@
       "sampleProductId": "EP1661-PPSA39981_00-SYPS5SIGIAFARTFO",
       "sampleProductName": "Sigi - A Fart for Melusina",
       "typeFacetCounts": {
-        "FULL_GAME": 3088,
-        "GAME_BUNDLE": 474,
-        "PREMIUM_EDITION": 250
+        "FULL_GAME": 3086,
+        "GAME_BUNDLE": 477,
+        "PREMIUM_EDITION": 249
       },
       "lastRan": "",
       "region": "en-tr"
@@ -27,11 +27,11 @@
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
         "FULL_GAME": 1,
-        "GAME_BUNDLE": 4,
+        "GAME_BUNDLE": 5,
         "PREMIUM_EDITION": 3
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-10",
+      "lastRan": "2026-11-11",
       "region": "en-tr"
     },
     "5298ddd6-5475-4e26-8e73-820355a3fae6": {
@@ -46,11 +46,11 @@
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
         "FULL_GAME": 754,
-        "GAME_BUNDLE": 162,
-        "PREMIUM_EDITION": 129
+        "GAME_BUNDLE": 163,
+        "PREMIUM_EDITION": 130
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-06",
+      "lastRan": "2026-11-11",
       "region": "en-tr"
     },
     "59431f5d-1af0-42e6-ae2e-59c7edd02048": {
