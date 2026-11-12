@@ -64,12 +64,12 @@
       "sampleProductName": "Sigi - A Fart for Melusina",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 2316,
-        "GAME_BUNDLE": 299,
+        "FULL_GAME": 2317,
+        "GAME_BUNDLE": 298,
         "PREMIUM_EDITION": 113
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-06",
+      "lastRan": "2026-11-12",
       "region": "en-tr"
     }
   },
