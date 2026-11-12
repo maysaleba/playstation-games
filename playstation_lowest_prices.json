@@ -542176,9 +542176,18 @@
       }
     },
     "US": {
-      "price": 48.99,
+      "price": 34.99,
       "currency": "USD",
-      "date": "2026-10-07"
+      "date": "2026-11-12",
+      "currentSale": {
+        "price": 34.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 48.99,
+        "saleStart": "2026-11-12",
+        "saleEnd": "2026-11-21T07:59:00.000Z"
+      }
     }
   },
   "fallen-fatal-force-ps5": {
@@ -585068,7 +585077,7 @@
         "currency": "INR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 366,
         "saleStart": "2026-11-04",
         "saleEnd": "2026-11-20T23:59:00.000Z"
       }
@@ -585080,9 +585089,9 @@
       "currentSale": {
         "price": 189.8,
         "currency": "TRY",
-        "status": "unknown",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 189.8,
         "saleStart": "2026-11-04",
         "saleEnd": "2026-11-20T23:59:00.000Z"
       }

@@ -8,8 +8,8 @@
       "sampleProductId": "UP1675-PPSA39980_00-SYPS5SIGIAFARTFO",
       "sampleProductName": "Sigi - A Fart for Melusina",
       "typeFacetCounts": {
-        "FULL_GAME": 3085,
-        "GAME_BUNDLE": 486,
+        "FULL_GAME": 3088,
+        "GAME_BUNDLE": 488,
         "PREMIUM_EDITION": 257
       },
       "lastRan": "",
@@ -26,12 +26,12 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 1,
+        "FULL_GAME": 2,
         "GAME_BUNDLE": 5,
         "PREMIUM_EDITION": 3
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-11",
+      "lastRan": "2026-11-12",
       "region": "en-us"
     },
     "24379bde-560d-4ba8-8662-2d55d6143888": {

@@ -8,8 +8,8 @@
       "sampleProductId": "UP7552-PPSA40051_00-0723954392860078",
       "sampleProductName": "Easy Fishing Simulator (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 2009,
-        "GAME_BUNDLE": 242,
+        "FULL_GAME": 2013,
+        "GAME_BUNDLE": 244,
         "PREMIUM_EDITION": 206
       },
       "lastRan": "",
@@ -63,12 +63,12 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 2,
+        "FULL_GAME": 3,
         "GAME_BUNDLE": 6,
         "PREMIUM_EDITION": 3
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-11",
+      "lastRan": "2026-11-12",
       "region": "en-hk"
     }
   },
