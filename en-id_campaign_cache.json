@@ -8,8 +8,8 @@
       "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
       "sampleProductName": "Easy Fishing Simulator (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 2020,
-        "GAME_BUNDLE": 242,
+        "FULL_GAME": 2019,
+        "GAME_BUNDLE": 243,
         "PREMIUM_EDITION": 205
       },
       "lastRan": "",
@@ -27,11 +27,11 @@
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
         "FULL_GAME": 3,
-        "GAME_BUNDLE": 6,
+        "GAME_BUNDLE": 7,
         "PREMIUM_EDITION": 3
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-12",
+      "lastRan": "2026-11-13",
       "region": "en-id"
     },
     "6a3fd66f-f063-4015-aecb-70776fa5e492": {
@@ -64,11 +64,12 @@
       "sampleProductName": "Easy Fishing Simulator (English)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 1529,
+        "FULL_GAME": 1528,
         "GAME_BUNDLE": 126,
         "PREMIUM_EDITION": 83
       },
-      "lastRan": "2026-11-04",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-13",
       "region": "en-id"
     }
   },
