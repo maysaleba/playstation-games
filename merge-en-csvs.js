@@ -2,6 +2,7 @@ const fs = require("fs");
 const { parse } = require("csv-parse/sync");
 const { stringify } = require("csv-stringify/sync");
 const { BetaAnalyticsDataClient } = require("@google-analytics/data");
+const { createHltbMatcher } = require("./hltb-matcher");
 
 // =====================================================
 // CONFIG
@@ -235,27 +236,6 @@ function createMatchSlug(value = "") {
   return cleanTitleForMatch(value).replace(/ /g, "-").replace(/-+/g, "-");
 }
 
-function createHltbKey(value = "") {
-  return String(value)
-    .replace(/\(.*?\)/g, "")
-    .replace(/[™®©]/g, "")
-    .normalize("NFKD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/\b(tm|r|c)\b/gi, "")
-    .replace(/[’']/g, "")
-    .replace(/\bplaystation\s*hits\b/gi, "")
-    .replace(/\bplaystationhits\b/gi, "")
-    .replace(/\bdigital\b/gi, "")
-    .replace(/\bdigital edition\b/gi, "")
-    .replace(/\bstandard edition\b/gi, "")
-    .replace(/\bdigital\b/gi, "")
-    .replace(/\bstandard\b/gi, "")
-    .replace(/[^a-zA-Z0-9:+ ]/g, "")
-    .replace(/\s+/g, " ")
-    .trim()
-    .toLowerCase();
-}
-
 // =====================================================
 // LOAD METACRITIC
 // =====================================================
@@ -280,23 +260,8 @@ console.log(`Metacritic rows loaded: ${metacriticMap.size}`);
 // =====================================================
 
 const hltbRows = safeReadJson(HLTB_FILE);
-const hltbMap = new Map();
-
-for (const item of hltbRows) {
-  const name = item.game_name || "";
-  const key = createHltbKey(name);
-
-  if (!key) continue;
-
-  hltbMap.set(key, {
-    gameId: item.game_id ? `/game/${item.game_id}` : "",
-    mainStory: item.comp_main ? Math.round(Number(item.comp_main) / 3600) : 0,
-    mainExtra: item.comp_plus ? Math.round(Number(item.comp_plus) / 3600) : 0,
-    completionist: item.comp_100 ? Math.round(Number(item.comp_100) / 3600) : 0,
-  });
-}
-
-console.log(`HLTB rows loaded: ${hltbMap.size}`);
+const matchHltb = createHltbMatcher(hltbRows);
+console.log(`HLTB rows loaded: ${Array.isArray(hltbRows) ? hltbRows.length : 0}`);
 
 // =====================================================
 // MERGE
@@ -323,7 +288,6 @@ for (const file of FILES) {
     if (!mergeKey) continue;
 
     const meta = metacriticMap.get(createMatchSlug(titleForMatch)) || {};
-    const hltb = hltbMap.get(createHltbKey(titleForMatch)) || {};
 
     if (!merged.has(mergeKey)) {
       merged.set(mergeKey, {
@@ -331,11 +295,10 @@ for (const file of FILES) {
         OpenCriticURL: meta.url || "",
         SaleEnds: normalizeDate(row.SaleEnds || ""),
         SaleStarted: normalizeDate(row.SaleStarted || ""),
-        LowestPrice: hltb.gameId || "",
-
-        MainStory: hltb.mainStory || "",
-        MainExtra: hltb.mainExtra || "",
-        Completionist: hltb.completionist || "",
+        LowestPrice: "",
+        MainStory: "",
+        MainExtra: "",
+        Completionist: "",
 
         PlusPrice: row.PlusPrice || "",
         PlusDiscount: row.PlusDiscount || "",
@@ -392,16 +355,6 @@ for (const file of FILES) {
       existing.OpenCriticURL = meta.url;
     }
 
-    if (!existing.MainStory && hltb.mainStory) {
-      existing.MainStory = hltb.mainStory;
-      existing.MainExtra = hltb.mainExtra;
-      existing.Completionist = hltb.completionist;
-    }
-
-    if (!existing.LowestPrice && hltb.gameId) {
-      existing.LowestPrice = hltb.gameId;
-    }
-
     existing[`${region}Price`] = cleanPrice(row.Price);
     existing[`${region}SalePrice`] = cleanPrice(row.SalePrice);
   }
@@ -413,6 +366,8 @@ async function main() {
   const outputRows = [...merged.values()]
     .map((row) => {
       row.Popularity = popularityMap.get(row.Slug) || row.Popularity || "";
+      // Recalculate all HLTB fields together from the displayed title each run.
+      Object.assign(row, matchHltb(row.Title || row.OriginalTitle || row.Slug));
 
       const ordered = {};
 
