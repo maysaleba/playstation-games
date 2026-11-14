@@ -5,11 +5,11 @@
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
       "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "UP7552-PPSA40051_00-0723954392860078",
+      "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
       "sampleProductName": "Easy Fishing Simulator (English)",
       "typeFacetCounts": {
         "FULL_GAME": 2023,
-        "GAME_BUNDLE": 245,
+        "GAME_BUNDLE": 243,
         "PREMIUM_EDITION": 203
       },
       "lastRan": "",
@@ -26,12 +26,12 @@
       "sampleProductName": "ACE COMBAT 8: WINGS OF THEVE (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 532,
+        "FULL_GAME": 533,
         "GAME_BUNDLE": 119,
         "PREMIUM_EDITION": 152
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-11",
+      "lastRan": "2026-11-14",
       "region": "en-sg"
     },
     "131585f5-e4d2-44e4-9295-17ec2c4430c9": {

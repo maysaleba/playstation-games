@@ -45,12 +45,12 @@
       "sampleProductName": "PAPERHEAD",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 733,
-        "GAME_BUNDLE": 168,
+        "FULL_GAME": 734,
+        "GAME_BUNDLE": 169,
         "PREMIUM_EDITION": 127
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-13",
+      "lastRan": "2026-11-14",
       "region": "en-us"
     },
     "99de77b7-8855-4f10-bea3-bfc45317e2b1": {

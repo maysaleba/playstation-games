@@ -511641,7 +511641,7 @@
       "currency": "HKD",
       "date": "2026-07-19",
       "currentSale": {
-        "price": 453.7,
+        "price": 514.8,
         "currency": "HKD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -585150,7 +585150,7 @@
         "currency": "USD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 34.99,
         "saleStart": "2026-11-13",
         "saleEnd": "2026-11-21T07:59:00.000Z"
       }
