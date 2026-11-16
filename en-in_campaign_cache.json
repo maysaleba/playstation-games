@@ -46,12 +46,12 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 2,
-        "GAME_BUNDLE": 6,
+        "FULL_GAME": 3,
+        "GAME_BUNDLE": 5,
         "PREMIUM_EDITION": 3
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-13",
+      "lastRan": "2026-11-16",
       "region": "en-in"
     },
     "59431f5d-1af0-42e6-ae2e-59c7edd02048": {
@@ -65,12 +65,12 @@
       "sampleProductName": "Sigi - A Fart for Melusina",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 2341,
-        "GAME_BUNDLE": 303,
-        "PREMIUM_EDITION": 121
+        "FULL_GAME": 2201,
+        "GAME_BUNDLE": 425,
+        "PREMIUM_EDITION": 160
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-12",
+      "lastRan": "2026-11-16",
       "region": "en-in"
     }
   },

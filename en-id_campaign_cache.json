@@ -9,7 +9,7 @@
       "sampleProductName": "Warrior Cats: Clans of the Forest (English)",
       "typeFacetCounts": {
         "FULL_GAME": 3559,
-        "GAME_BUNDLE": 528,
+        "GAME_BUNDLE": 531,
         "PREMIUM_EDITION": 424
       },
       "lastRan": "",
@@ -65,12 +65,12 @@
       "sampleProductName": "Easy Fishing Simulator (English)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 1529,
-        "GAME_BUNDLE": 126,
-        "PREMIUM_EDITION": 83
+        "FULL_GAME": 2611,
+        "GAME_BUNDLE": 276,
+        "PREMIUM_EDITION": 173
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-13",
+      "lastRan": "2026-11-16",
       "region": "en-id"
     }
   },
