@@ -4,34 +4,35 @@
       "categoryId": "3f772501-f6f8-49b7-abac-874a88ca4897",
       "internalName": "cat.gma.AllDeals",
       "emsViewId": "static",
-      "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "UP7552-PPSA40051_00-0723954392860078",
-      "sampleProductName": "Easy Fishing Simulator (English)",
+      "saleEnds": "2026-11-30T14:59:00.000Z",
+      "sampleProductId": "UB2551-PPSA38507_00-0938503966815822",
+      "sampleProductName": "Warrior Cats: Clans of the Forest (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 2014,
-        "GAME_BUNDLE": 243,
-        "PREMIUM_EDITION": 206
+        "FULL_GAME": 3539,
+        "GAME_BUNDLE": 528,
+        "PREMIUM_EDITION": 418
       },
       "lastRan": "",
       "region": "en-hk"
     },
     "6a3fd66f-f063-4015-aecb-70776fa5e492": {
       "categoryId": "6a3fd66f-f063-4015-aecb-70776fa5e492",
-      "internalName": "cat.am.Black_Friday_Sale",
-      "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
-      "source": "emsBanner",
-      "strandName": "DEALSTOP",
+      "internalName": "Deals",
+      "emsViewId": "9697ed1c-d2b8-11f1-b77a-beedeb078121",
+      "source": "emsStrandCategoryId",
+      "strandName": "[CRO] [PROMO] Black Friday 2026 Part 2 - Web - Hub - See All Strand - SIEAsia",
+      "parentViewId": "c4544e4c-d2b8-11f1-b77a-beedeb078121",
       "saleEnds": "2026-11-20T14:59:00.000Z",
       "sampleProductId": "JP0700-PPSA24913_00-MAINGAME00000000",
       "sampleProductName": "ACE COMBAT 8: WINGS OF THEVE (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 528,
-        "GAME_BUNDLE": 119,
-        "PREMIUM_EDITION": 154
+        "FULL_GAME": 931,
+        "GAME_BUNDLE": 245,
+        "PREMIUM_EDITION": 251
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-14",
+      "lastRan": "2026-11-16",
       "region": "en-hk"
     },
     "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {
@@ -64,12 +65,12 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 3,
-        "GAME_BUNDLE": 7,
+        "FULL_GAME": 4,
+        "GAME_BUNDLE": 6,
         "PREMIUM_EDITION": 3
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-13",
+      "lastRan": "2026-11-16",
       "region": "en-hk"
     }
   },
