@@ -8,8 +8,8 @@
       "sampleProductId": "UB2551-PPSA38507_00-0938503966815822",
       "sampleProductName": "Warrior Cats: Clans of the Forest (English)",
       "typeFacetCounts": {
-        "FULL_GAME": 3539,
-        "GAME_BUNDLE": 531,
+        "FULL_GAME": 3540,
+        "GAME_BUNDLE": 530,
         "PREMIUM_EDITION": 418
       },
       "lastRan": "",
@@ -27,12 +27,12 @@
       "sampleProductName": "ACE COMBAT 8: WINGS OF THEVE (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 931,
+        "FULL_GAME": 932,
         "GAME_BUNDLE": 245,
         "PREMIUM_EDITION": 251
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-16",
+      "lastRan": "2026-11-17",
       "region": "en-hk"
     },
     "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {
@@ -65,12 +65,12 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 4,
+        "FULL_GAME": 5,
         "GAME_BUNDLE": 6,
         "PREMIUM_EDITION": 3
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-16",
+      "lastRan": "2026-11-17",
       "region": "en-hk"
     }
   },
