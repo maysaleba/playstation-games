@@ -219042,9 +219042,9 @@
       "currency": "TRY",
       "date": "2026-05-26",
       "currentSale": {
-        "price": 218.75,
+        "price": 174.75,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 174.75,
         "saleStart": "2026-11-04",
@@ -705752,16 +705752,7 @@
     "US": {
       "price": 54.99,
       "currency": "USD",
-      "date": "2026-11-09",
-      "currentSale": {
-        "price": 54.99,
-        "currency": "USD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 59.99,
-        "saleStart": "2026-11-09",
-        "saleEnd": "2026-11-21T07:59:00.000Z"
-      }
+      "date": "2026-11-09"
     },
     "HK": {
       "price": 433.4,
@@ -734866,7 +734857,7 @@
         "currency": "IDR",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 887200,
         "saleStart": "2026-11-17",
         "saleEnd": "2026-11-20T14:59:00.000Z"
       }
@@ -734878,9 +734869,9 @@
       "currentSale": {
         "price": 3199,
         "currency": "INR",
-        "status": "unknown",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 3199,
         "saleStart": "2026-11-17",
         "saleEnd": "2026-11-20T23:59:00.000Z"
       }
@@ -734894,7 +734885,7 @@
         "currency": "SGD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 71.68,
         "saleStart": "2026-11-17",
         "saleEnd": "2026-11-20T14:59:00.000Z"
       }
@@ -734908,7 +734899,7 @@
         "currency": "TRY",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 2399.2,
         "saleStart": "2026-11-17",
         "saleEnd": "2026-11-20T23:59:00.000Z"
       }
@@ -734922,9 +734913,23 @@
         "currency": "HKD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 399.2,
         "saleStart": "2026-11-17",
         "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
+    },
+    "US": {
+      "price": 55.99,
+      "currency": "USD",
+      "date": "2026-11-17",
+      "currentSale": {
+        "price": 55.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-17",
+        "saleEnd": "2026-11-21T07:59:00.000Z"
       }
     }
   }
