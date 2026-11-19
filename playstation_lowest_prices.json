@@ -298882,7 +298882,16 @@
     "US": {
       "price": 9.99,
       "currency": "USD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 9.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 9.99,
+        "saleStart": "2026-11-19",
+        "saleEnd": "2026-11-21T07:59:00.000Z"
+      }
     },
     "HK": {
       "price": 79.6,
