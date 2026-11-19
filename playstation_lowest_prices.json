@@ -110100,7 +110100,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 279200,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "SG": {
@@ -110114,7 +110114,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 28.43,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "US": {
@@ -110161,7 +110161,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 158.4,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     }
   },
@@ -136628,7 +136628,16 @@
     "IN": {
       "price": 719,
       "currency": "INR",
-      "date": "2026-11-04"
+      "date": "2026-11-04",
+      "currentSale": {
+        "price": 719,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 719,
+        "saleStart": "2026-11-19",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "TR": {
       "price": 346.05,
@@ -165838,7 +165847,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 173700,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "SG": {
@@ -165852,7 +165861,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 16.77,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "HK": {
@@ -165866,7 +165875,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 92.4,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "IN": {
@@ -217398,7 +217407,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 596400,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "SG": {
@@ -217412,7 +217421,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 70.6,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "HK": {
@@ -217426,7 +217435,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 325.2,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     }
   },
@@ -287506,7 +287515,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 524750,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "IN": {
@@ -287534,7 +287543,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 50.21,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "TR": {
@@ -287576,7 +287585,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 287.5,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     }
   },
@@ -291201,7 +291210,7 @@
       "currentSale": {
         "price": 3799,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 3799,
         "saleStart": "2026-11-04",
@@ -291229,7 +291238,7 @@
       "currentSale": {
         "price": 2049.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 2049.5,
         "saleStart": "2026-11-04",
@@ -298817,22 +298826,58 @@
     "ID": {
       "price": 159600,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 177156,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 159600,
+        "saleStart": "2026-11-19",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 639,
       "currency": "INR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 639,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 639,
+        "saleStart": "2026-11-19",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "SG": {
       "price": 16.27,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 16.27,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 16.27,
+        "saleStart": "2026-11-19",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 319.8,
       "currency": "TRY",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 319.8,
+        "currency": "TRY",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 319.8,
+        "saleStart": "2026-11-19",
+        "saleEnd": "2026-11-20T23:59:00.000Z"
+      }
     },
     "US": {
       "price": 9.99,
@@ -298842,7 +298887,16 @@
     "HK": {
       "price": 79.6,
       "currency": "HKD",
-      "date": "2026-07-19"
+      "date": "2026-07-19",
+      "currentSale": {
+        "price": 79.6,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 79.6,
+        "saleStart": "2026-11-19",
+        "saleEnd": "2026-11-20T14:59:00.000Z"
+      }
     }
   },
   "super-robot-wars-og-the-moon-dwellers-ps4": {
@@ -338055,7 +338109,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 118150,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "IN": {
@@ -338074,7 +338128,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 11.16,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "TR": {
@@ -338098,7 +338152,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 66.3,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     }
   },
@@ -340680,7 +340734,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 118150,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "IN": {
@@ -340699,7 +340753,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 11.16,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "TR": {
@@ -340723,7 +340777,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 66.3,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     }
   },
@@ -422846,7 +422900,7 @@
       "currentSale": {
         "price": 1649,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1649,
         "saleStart": "2026-11-04",
@@ -656347,7 +656401,7 @@
       "currentSale": {
         "price": 3799,
         "currency": "INR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 3799,
         "saleStart": "2026-11-04",
@@ -656375,7 +656429,7 @@
       "currentSale": {
         "price": 2049.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 2049.5,
         "saleStart": "2026-11-04",
@@ -701929,7 +701983,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 232267,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "IN": {
@@ -701948,7 +702002,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 21.31,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "TR": {
@@ -701967,7 +702021,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 111,
         "saleStart": "2026-11-04",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "US": {
@@ -708166,7 +708220,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 599400,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "IN": {
@@ -708194,7 +708248,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 56.94,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "TR": {
@@ -708222,7 +708276,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 329.4,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "US": {
@@ -730896,7 +730950,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 655050,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "SG": {
@@ -730910,7 +730964,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 48.95,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     },
     "US": {
@@ -730938,7 +730992,7 @@
         "statusRule": "ps_global_php_v1",
         "historicPrice": 301.4,
         "saleStart": "2026-11-16",
-        "saleEnd": "2026-11-30T14:59:00.000Z"
+        "saleEnd": "2026-11-20T14:59:00.000Z"
       }
     }
   },
@@ -735004,7 +735058,7 @@
         "currency": "USD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 47.99,
         "saleStart": "2026-11-18",
         "saleEnd": "2026-11-21T07:59:00.000Z"
       }

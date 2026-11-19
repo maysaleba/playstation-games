@@ -110008,6 +110008,32 @@
   {
     "SCORE": "",
     "SaleEnds": "2026-11-20T14:59:00.000Z",
+    "SaleStarted": "2026-11-19",
+    "PlusPrice": "",
+    "PlusDiscount": "",
+    "PlusPercentOff": "",
+    "Publisher": "",
+    "ReleaseDate": "",
+    "Genre": "Action, Shooter",
+    "Price": "SGD81.39",
+    "SalePrice": "SGD16.27",
+    "PercentOff": "80%",
+    "Title": "BioShock: The Collection",
+    "OriginalTitle": "BioShock: The Collection (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+    "Slug": "bioshock-the-collection-ps4",
+    "id": "UP1001-CUSA03979_00-ASIAPLACEHOLDER0",
+    "img": "https://image.api.playstation.com/vulcan/img/cfn/11307QpVmqagVcRAFe17k7t0Q-CLBHI3N-W-AEiwr56-91ZI_3DjQ1w2mkE8faAkMGlVsZdwp9bbe_qW_34OBfH-GLYPOIf7.png?w=200",
+    "PS4": "TRUE",
+    "PS5": "FALSE",
+    "Popularity": "",
+    "CampaignName": "cat.gma.20deals_title1",
+    "CampaignCategoryId": "131585f5-e4d2-44e4-9295-17ec2c4430c9",
+    "Region": "en-sg",
+    "url": "https://store.playstation.com/en-sg/product/UP1001-CUSA03979_00-ASIAPLACEHOLDER0"
+  },
+  {
+    "SCORE": "",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-18",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110033,7 +110059,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-16",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110059,7 +110085,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-04",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110085,7 +110111,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-04",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110111,7 +110137,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-16",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110137,7 +110163,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-04",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110163,7 +110189,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-04",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110189,7 +110215,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-04",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110215,7 +110241,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-16",
     "PlusPrice": "",
     "PlusDiscount": "",
@@ -110241,7 +110267,7 @@
   },
   {
     "SCORE": "",
-    "SaleEnds": "2026-11-30T14:59:00.000Z",
+    "SaleEnds": "2026-11-20T14:59:00.000Z",
     "SaleStarted": "2026-11-04",
     "PlusPrice": "",
     "PlusDiscount": "",
