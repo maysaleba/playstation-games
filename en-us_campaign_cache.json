@@ -26,10 +26,11 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
-        "FULL_GAME": 5,
-        "GAME_BUNDLE": 5,
-        "PREMIUM_EDITION": 4
+        "FULL_GAME": 4,
+        "GAME_BUNDLE": 4,
+        "PREMIUM_EDITION": 2
       },
+      "reason": "Type facet count changed",
       "lastRan": "2026-11-20",
       "region": "en-us"
     },
