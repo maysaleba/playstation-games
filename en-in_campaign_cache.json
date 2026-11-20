@@ -8,8 +8,8 @@
       "sampleProductId": "EP1661-PPSA39981_00-SYPS5SIGIAFARTFO",
       "sampleProductName": "Sigi - A Fart for Melusina",
       "typeFacetCounts": {
-        "FULL_GAME": 5769,
-        "GAME_BUNDLE": 1121,
+        "FULL_GAME": 5767,
+        "GAME_BUNDLE": 1124,
         "PREMIUM_EDITION": 544
       },
       "lastRan": "",
@@ -27,12 +27,12 @@
       "sampleProductName": "The Crew Motorfest Grand Garage Edition",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 1231,
-        "GAME_BUNDLE": 321,
-        "PREMIUM_EDITION": 252
+        "FULL_GAME": 481,
+        "GAME_BUNDLE": 161,
+        "PREMIUM_EDITION": 123
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-16",
+      "lastRan": "2026-11-20",
       "region": "en-in"
     },
     "fbed2426-16af-4e57-bea2-71345ab5f4de": {
@@ -46,12 +46,12 @@
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
       "discoveredAt": "2026-11-04",
       "typeFacetCounts": {
-        "FULL_GAME": 5,
-        "GAME_BUNDLE": 5,
-        "PREMIUM_EDITION": 4
+        "FULL_GAME": 4,
+        "GAME_BUNDLE": 4,
+        "PREMIUM_EDITION": 2
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-19",
+      "lastRan": "2026-11-20",
       "region": "en-in"
     },
     "59431f5d-1af0-42e6-ae2e-59c7edd02048": {
