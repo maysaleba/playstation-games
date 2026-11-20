@@ -3,6 +3,7 @@ const { parse } = require("csv-parse/sync");
 const { stringify } = require("csv-stringify/sync");
 const { BetaAnalyticsDataClient } = require("@google-analytics/data");
 const { createHltbMatcher } = require("./hltb-matcher");
+const { ALL_DEALS_ID } = require("./dedupe-campaign-rows");
 
 // =====================================================
 // CONFIG
@@ -268,6 +269,7 @@ console.log(`HLTB rows loaded: ${Array.isArray(hltbRows) ? hltbRows.length : 0}`
 // =====================================================
 
 const merged = new Map();
+const namedCampaignSaleEnds = new Map();
 
 for (const file of FILES) {
   console.log(`Processing ${file}...`);
@@ -332,7 +334,21 @@ for (const file of FILES) {
 
     const existing = merged.get(mergeKey);
 
-    existing.SaleEnds = normalizeDate(
+    const saleEnds = normalizeDate(row.SaleEnds || "");
+
+    if (
+      saleEnds &&
+      row.CampaignCategoryId &&
+      row.CampaignCategoryId !== ALL_DEALS_ID
+    ) {
+      namedCampaignSaleEnds.set(
+        mergeKey,
+        earlierDate(namedCampaignSaleEnds.get(mergeKey), saleEnds)
+      );
+    }
+
+    // Sampled All Deals dates must not override a named campaign's expiry.
+    existing.SaleEnds = namedCampaignSaleEnds.get(mergeKey) || normalizeDate(
       earlierDate(existing.SaleEnds, row.SaleEnds)
     );
 

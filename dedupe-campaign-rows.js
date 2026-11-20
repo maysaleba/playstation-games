@@ -34,4 +34,4 @@ function dedupeRows(rows) {
   return [...map.values()];
 }
 
-module.exports = { dedupeRows };
+module.exports = { ALL_DEALS_ID, dedupeRows };
