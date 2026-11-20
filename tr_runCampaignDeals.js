@@ -2,6 +2,7 @@
 // Node 18+
 
 const fs = require("fs/promises");
+const { dedupeRows } = require("./dedupe-campaign-rows");
 const {
   discoverCampaigns,
   fetchSampleProductId,
@@ -327,35 +328,6 @@ function toCsv(rows) {
   ];
 
   return lines.join("\n");
-}
-
-function dedupeRows(rows) {
-  const map = new Map();
-
-  for (const row of rows) {
-    const existing = map.get(row.id);
-
-    if (!existing) {
-      map.set(row.id, row);
-      continue;
-    }
-
-    const saleStarted =
-      existing.SaleStarted || row.SaleStarted || "";
-
-    // keep the campaign with the earlier SaleEnds
-    if (
-      row.SaleEnds &&
-      (!existing.SaleEnds || row.SaleEnds < existing.SaleEnds)
-    ) {
-      map.set(row.id, {
-        ...row,
-        SaleStarted: saleStarted,
-      });
-    }
-  }
-
-  return [...map.values()];
 }
 
 async function scrapeCampaign(campaign, existingSaleStartedById = new Map()) {

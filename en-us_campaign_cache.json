@@ -31,7 +31,7 @@
         "PREMIUM_EDITION": 4
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-19",
+      "lastRan": "",
       "region": "en-us"
     },
     "24379bde-560d-4ba8-8662-2d55d6143888": {
@@ -51,7 +51,7 @@
         "PREMIUM_EDITION": 251
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-16",
+      "lastRan": "",
       "region": "en-us"
     },
     "99de77b7-8855-4f10-bea3-bfc45317e2b1": {
@@ -70,7 +70,7 @@
         "PREMIUM_EDITION": 156
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-16",
+      "lastRan": "",
       "region": "en-us"
     }
   },
