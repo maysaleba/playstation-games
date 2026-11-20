@@ -8,8 +8,8 @@
       "sampleProductId": "UP1675-PPSA39980_00-SYPS5SIGIAFARTFO",
       "sampleProductName": "Sigi - A Fart for Melusina",
       "typeFacetCounts": {
-        "FULL_GAME": 5743,
-        "GAME_BUNDLE": 1075,
+        "FULL_GAME": 5742,
+        "GAME_BUNDLE": 1078,
         "PREMIUM_EDITION": 544
       },
       "lastRan": "",
@@ -24,14 +24,13 @@
       "saleEnds": "2026-11-21T07:59:00.000Z",
       "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
       "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
-      "discoveredAt": "2026-11-04",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 5,
         "GAME_BUNDLE": 5,
         "PREMIUM_EDITION": 4
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-us"
     },
     "24379bde-560d-4ba8-8662-2d55d6143888": {
@@ -41,17 +40,16 @@
       "source": "emsStrandCategoryId",
       "strandName": "[CRO] [PROMO] Black Friday 2026 Part 2 - Web - Hub - See All Strand - SIEA",
       "parentViewId": "c4544e4c-d2b8-11f1-b77a-beedeb078121",
-      "saleEnds": "2026-11-21T07:59:00.000Z",
-      "sampleProductId": "EP4638-PPSA39472_00-0746594807529054",
-      "sampleProductName": "PAPERHEAD",
-      "discoveredAt": "2026-11-04",
+      "saleEnds": "2026-12-01T07:59:00.000Z",
+      "sampleProductId": "UP0001-PPSA07252_00-JDNEXTY5BUNDLE01",
+      "sampleProductName": "Just Dance: Decades of Hits",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
-        "FULL_GAME": 1216,
-        "GAME_BUNDLE": 330,
-        "PREMIUM_EDITION": 251
+        "FULL_GAME": 486,
+        "GAME_BUNDLE": 165,
+        "PREMIUM_EDITION": 125
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-us"
     },
     "99de77b7-8855-4f10-bea3-bfc45317e2b1": {
@@ -60,17 +58,16 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-21T07:59:00.000Z",
-      "sampleProductId": "UP1675-PPSA39980_00-SYPS5SIGIAFARTFO",
-      "sampleProductName": "Sigi - A Fart for Melusina",
-      "discoveredAt": "2026-11-05",
+      "saleEnds": "2026-12-01T07:59:00.000Z",
+      "sampleProductId": "UP4786-CUSA60027_00-CW50000000000001",
+      "sampleProductName": "Croc's World 5",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 2195,
         "GAME_BUNDLE": 368,
         "PREMIUM_EDITION": 156
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-us"
     }
   },

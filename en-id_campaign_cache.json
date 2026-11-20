@@ -22,16 +22,15 @@
       "source": "emsBanner",
       "strandName": "DEALSTOP",
       "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
-      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
-      "discoveredAt": "2026-11-04",
+      "sampleProductId": "JP0101-PPSA33286_00-SHTOWNFALLDELUXE",
+      "sampleProductName": "SILENT HILL: Townfall - Deluxe Edition (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 4,
         "GAME_BUNDLE": 4,
         "PREMIUM_EDITION": 2
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-id"
     },
     "6a3fd66f-f063-4015-aecb-70776fa5e492": {
@@ -41,17 +40,16 @@
       "source": "emsStrandCategoryId",
       "strandName": "[CRO] [PROMO] Black Friday 2026 Part 2 - Web - Hub - See All Strand - SIEAsia",
       "parentViewId": "c4544e4c-d2b8-11f1-b77a-beedeb078121",
-      "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "JP0700-PPSA24913_00-MAINGAME00000000",
-      "sampleProductName": "ACE COMBAT 8: WINGS OF THEVE (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
-      "discoveredAt": "2026-11-04",
+      "saleEnds": "2026-11-30T14:59:00.000Z",
+      "sampleProductId": "JP0001-PPSA07253_00-JDNEXTY5BUNDLE01",
+      "sampleProductName": "Just Dance: Decades of Hits (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 478,
         "GAME_BUNDLE": 149,
         "PREMIUM_EDITION": 134
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-id"
     },
     "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {
@@ -60,17 +58,16 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-20T14:59:00.000Z",
-      "sampleProductId": "UP7552-CUSA60099_00-0116188967145799",
-      "sampleProductName": "Easy Fishing Simulator (English)",
-      "discoveredAt": "2026-11-04",
+      "saleEnds": "2026-11-30T14:59:00.000Z",
+      "sampleProductId": "UB2551-PPSA38507_00-0938503966815822",
+      "sampleProductName": "Warrior Cats: Clans of the Forest (English)",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 2611,
         "GAME_BUNDLE": 276,
         "PREMIUM_EDITION": 173
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-id"
     }
   },

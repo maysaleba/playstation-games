@@ -22,16 +22,15 @@
       "source": "emsBanner",
       "strandName": "DEALSTOP",
       "saleEnds": "2026-11-20T23:59:00.000Z",
-      "sampleProductId": "EP5291-PPSA34547_00-0993602042148218",
-      "sampleProductName": "CONTROL Resonant Digital Deluxe Edition",
-      "discoveredAt": "2026-11-04",
+      "sampleProductId": "JP0101-PPSA33286_00-SHTOWNFALLDELUXE",
+      "sampleProductName": "SILENT HILL: Townfall - Deluxe Edition",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 4,
         "GAME_BUNDLE": 4,
         "PREMIUM_EDITION": 2
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-tr"
     },
     "5298ddd6-5475-4e26-8e73-820355a3fae6": {
@@ -41,17 +40,16 @@
       "source": "emsStrandCategoryId",
       "strandName": "[CRO] [PROMO] Black Friday 2026 Part 2 - Web - Hub - See All Strand - SIEE",
       "parentViewId": "c4544e4c-d2b8-11f1-b77a-beedeb078121",
-      "saleEnds": "2026-11-20T23:59:00.000Z",
-      "sampleProductId": "EP0001-PPSA14723_00-THECREWMGARAGE00",
-      "sampleProductName": "The Crew Motorfest Grand Garage Edition",
-      "discoveredAt": "2026-11-04",
+      "saleEnds": "2026-11-30T23:59:00.000Z",
+      "sampleProductId": "EP0001-PPSA07251_00-JDNEXTY5BUNDLE01",
+      "sampleProductName": "Just Dance: Decades of Hits",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 486,
         "GAME_BUNDLE": 159,
         "PREMIUM_EDITION": 123
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-tr"
     },
     "59431f5d-1af0-42e6-ae2e-59c7edd02048": {
@@ -60,17 +58,16 @@
       "emsViewId": "6d9f9ea9-d7bf-11ee-a31f-a2110459ffc0",
       "source": "emsBanner",
       "strandName": "DEALSTOP",
-      "saleEnds": "2026-11-20T23:59:00.000Z",
-      "sampleProductId": "EP1661-PPSA39981_00-SYPS5SIGIAFARTFO",
-      "sampleProductName": "Sigi - A Fart for Melusina",
-      "discoveredAt": "2026-11-04",
+      "saleEnds": "2026-11-30T23:59:00.000Z",
+      "sampleProductId": "EP6300-PPSA29133_00-PS5GSSASCTTTW0EU",
+      "sampleProductName": "Paradise Pack 4 in 1",
+      "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 2129,
         "GAME_BUNDLE": 420,
         "PREMIUM_EDITION": 159
       },
-      "reason": "Type facet count changed",
-      "lastRan": "",
+      "lastRan": "2026-11-20",
       "region": "en-tr"
     }
   },
