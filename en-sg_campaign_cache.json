@@ -64,12 +64,12 @@
       "sampleProductName": "Warrior Cats: Clans of the Forest (English)",
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
-        "FULL_GAME": 2583,
+        "FULL_GAME": 2582,
         "GAME_BUNDLE": 275,
         "PREMIUM_EDITION": 169
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-21",
+      "lastRan": "2026-11-22",
       "region": "en-sg"
     }
   },
