@@ -501382,7 +501382,7 @@
       "currentSale": {
         "price": 1649,
         "currency": "INR",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 2199,
         "saleStart": "2026-11-16",
@@ -501410,7 +501410,7 @@
       "currentSale": {
         "price": 899.7,
         "currency": "TRY",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1199.6,
         "saleStart": "2026-11-16",
@@ -529791,7 +529791,7 @@
       "currentSale": {
         "price": 3599,
         "currency": "INR",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 3599,
         "saleStart": "2026-11-16",
@@ -573133,6 +573133,150 @@
         "historicPrice": 47.99,
         "saleStart": "2026-11-18",
         "saleEnd": "2026-12-01T07:59:00.000Z"
+      }
+    }
+  },
+  "call-of-duty-modern-warfare-4-ps5": {
+    "ID": {
+      "price": 942556,
+      "currency": "IDR",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 942556,
+        "currency": "IDR",
+        "status": "unknown",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
+    },
+    "IN": {
+      "price": 5099,
+      "currency": "INR",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 5099,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
+    },
+    "SG": {
+      "price": 82.36,
+      "currency": "SGD",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 82.36,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
+    },
+    "TR": {
+      "price": 2719.15,
+      "currency": "TRY",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 2719.15,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
+    },
+    "HK": {
+      "price": 482.8,
+      "currency": "HKD",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 482.8,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
+    }
+  },
+  "call-of-duty-modern-warfare-4-vault-edition-ps5": {
+    "ID": {
+      "price": 1296250,
+      "currency": "IDR",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 1296250,
+        "currency": "IDR",
+        "status": "unknown",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
+    },
+    "IN": {
+      "price": 7011,
+      "currency": "INR",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 7011,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
+    },
+    "SG": {
+      "price": 112.96,
+      "currency": "SGD",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 112.96,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
+    },
+    "TR": {
+      "price": 3739.15,
+      "currency": "TRY",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 3739.15,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
+    },
+    "HK": {
+      "price": 661.3,
+      "currency": "HKD",
+      "date": "2026-11-23",
+      "currentSale": {
+        "price": 661.3,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-23",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
       }
     }
   }
