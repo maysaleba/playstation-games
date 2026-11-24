@@ -9,7 +9,7 @@
       "sampleProductName": "Call of Duty®: Modern Warfare® 4",
       "typeFacetCounts": {
         "FULL_GAME": 2686,
-        "GAME_BUNDLE": 603,
+        "GAME_BUNDLE": 605,
         "PREMIUM_EDITION": 293
       },
       "lastRan": "",
@@ -27,11 +27,11 @@
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 4,
-        "GAME_BUNDLE": 6,
+        "GAME_BUNDLE": 8,
         "PREMIUM_EDITION": 2
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-23",
+      "lastRan": "2026-11-24",
       "region": "en-us"
     },
     "24379bde-560d-4ba8-8662-2d55d6143888": {
