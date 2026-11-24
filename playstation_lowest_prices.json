@@ -26748,7 +26748,7 @@
       "currentSale": {
         "price": 619.2,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 619.2,
         "saleStart": "2026-11-16",
@@ -28987,7 +28987,7 @@
       "currentSale": {
         "price": 619.2,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 619.2,
         "saleStart": "2026-11-16",
@@ -40641,7 +40641,7 @@
       "currentSale": {
         "price": 84859,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 90350,
         "saleStart": "2026-11-16",
@@ -40683,7 +40683,7 @@
       "currentSale": {
         "price": 235.95,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 257.4,
         "saleStart": "2026-11-16",
@@ -43439,7 +43439,7 @@
       "currentSale": {
         "price": 465867,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 543511,
         "saleStart": "2026-11-16",
@@ -43481,7 +43481,7 @@
       "currentSale": {
         "price": 1289.7,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1719.6,
         "saleStart": "2026-11-16",
@@ -61102,7 +61102,7 @@
       "currentSale": {
         "price": 85.8,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 85.8,
         "saleStart": "2026-11-16",
@@ -85974,7 +85974,7 @@
       "currentSale": {
         "price": 77145,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 77145,
         "saleStart": "2026-11-16",
@@ -86016,7 +86016,7 @@
       "currentSale": {
         "price": 214.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 214.5,
         "saleStart": "2026-11-16",
@@ -86488,7 +86488,7 @@
       "currentSale": {
         "price": 61716,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 69430,
         "saleStart": "2026-11-16",
@@ -86530,7 +86530,7 @@
       "currentSale": {
         "price": 171.6,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 193.05,
         "saleStart": "2026-11-16",
@@ -88038,7 +88038,7 @@
       "currentSale": {
         "price": 77145,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 77145,
         "saleStart": "2026-11-16",
@@ -88080,7 +88080,7 @@
       "currentSale": {
         "price": 214.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 214.5,
         "saleStart": "2026-11-16",
@@ -104183,7 +104183,7 @@
       "currentSale": {
         "price": 77145,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 77145,
         "saleStart": "2026-11-16",
@@ -104225,7 +104225,7 @@
       "currentSale": {
         "price": 214.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 214.5,
         "saleStart": "2026-11-16",
@@ -104463,7 +104463,7 @@
       "currentSale": {
         "price": 77145,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 77145,
         "saleStart": "2026-11-16",
@@ -104505,7 +104505,7 @@
       "currentSale": {
         "price": 214.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 214.5,
         "saleStart": "2026-11-16",
@@ -104672,7 +104672,7 @@
       "currentSale": {
         "price": 961.95,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1049.4,
         "saleStart": "2026-11-16",
@@ -111568,7 +111568,7 @@
       "currentSale": {
         "price": 84859,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 97300,
         "saleStart": "2026-11-16",
@@ -111610,7 +111610,7 @@
       "currentSale": {
         "price": 235.95,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 257.4,
         "saleStart": "2026-11-16",
@@ -111826,7 +111826,7 @@
       "currentSale": {
         "price": 92685,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 100200,
         "saleStart": "2026-11-16",
@@ -111868,7 +111868,7 @@
       "currentSale": {
         "price": 257.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 257.5,
         "saleStart": "2026-11-16",
@@ -148102,7 +148102,7 @@
       "currentSale": {
         "price": 1199,
         "currency": "INR",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1199,
         "saleStart": "2026-11-16",
@@ -149213,7 +149213,7 @@
       "currentSale": {
         "price": 343.2,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 364.65,
         "saleStart": "2026-11-16",
@@ -149241,7 +149241,7 @@
       "currentSale": {
         "price": 123432,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 131146,
         "saleStart": "2026-11-16",
@@ -156282,7 +156282,7 @@
       "currentSale": {
         "price": 85.8,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 107.25,
         "saleStart": "2026-11-16",
@@ -163826,7 +163826,7 @@
       "currentSale": {
         "price": 257.4,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 278.85,
         "saleStart": "2026-11-16",
@@ -163868,7 +163868,7 @@
       "currentSale": {
         "price": 92574,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 100288,
         "saleStart": "2026-11-16",
@@ -172070,7 +172070,7 @@
       "currentSale": {
         "price": 235.95,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 235.95,
         "saleStart": "2026-11-16",
@@ -172112,7 +172112,7 @@
       "currentSale": {
         "price": 84859,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 84859,
         "saleStart": "2026-11-16",
@@ -220429,7 +220429,7 @@
       "currentSale": {
         "price": 54001,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 61716,
         "saleStart": "2026-11-16",
@@ -220457,7 +220457,7 @@
       "currentSale": {
         "price": 150.15,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 171.6,
         "saleStart": "2026-11-16",
@@ -225478,7 +225478,7 @@
       "currentSale": {
         "price": 85.8,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 85.8,
         "saleStart": "2026-11-16",
@@ -233476,7 +233476,7 @@
       "currentSale": {
         "price": 524.75,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 524.75,
         "saleStart": "2026-11-16",
@@ -257681,22 +257681,58 @@
     "ID": {
       "price": 432180,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 479719,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 432180,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 2499,
       "currency": "INR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 2499,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 2499,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
     },
     "SG": {
       "price": 41.11,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 41.11,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 41.11,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 999.5,
       "currency": "TRY",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 999.5,
+        "currency": "TRY",
+        "status": "matches_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 999.5,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
     },
     "US": {
       "price": 27.99,
@@ -257706,29 +257742,74 @@
     "HK": {
       "price": 238.56,
       "currency": "HKD",
-      "date": "2026-07-19"
+      "date": "2026-07-19",
+      "currentSale": {
+        "price": 238.56,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 238.56,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     }
   },
   "gran-turismo-7-ps4": {
     "ID": {
       "price": 290070,
       "currency": "IDR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 321977,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 290070,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 1679,
       "currency": "INR",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 1679,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1679,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
     },
     "SG": {
       "price": 26.85,
       "currency": "SGD",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 26.85,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 26.85,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 1049.58,
       "currency": "TRY",
-      "date": "2026-05-27"
+      "date": "2026-05-27",
+      "currentSale": {
+        "price": 1049.58,
+        "currency": "TRY",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 1049.58,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
     },
     "US": {
       "price": 19.79,
@@ -257738,7 +257819,16 @@
     "HK": {
       "price": 154.44,
       "currency": "HKD",
-      "date": "2026-07-19"
+      "date": "2026-07-19",
+      "currentSale": {
+        "price": 154.44,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 154.44,
+        "saleStart": "2026-11-24",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     }
   },
   "grid-legends-deluxe-edition-ps4-ps5": {
@@ -262525,7 +262615,7 @@
       "currentSale": {
         "price": 46287,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 46287,
         "saleStart": "2026-11-16",
@@ -262567,7 +262657,7 @@
       "currentSale": {
         "price": 128.7,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 128.7,
         "saleStart": "2026-11-16",
@@ -266138,7 +266228,7 @@
       "currentSale": {
         "price": 46287,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 46287,
         "saleStart": "2026-11-16",
@@ -266180,7 +266270,7 @@
       "currentSale": {
         "price": 128.7,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 128.7,
         "saleStart": "2026-11-16",
@@ -267472,7 +267562,7 @@
       "currentSale": {
         "price": 46287,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 46287,
         "saleStart": "2026-11-16",
@@ -267514,7 +267604,7 @@
       "currentSale": {
         "price": 128.7,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 128.7,
         "saleStart": "2026-11-16",
@@ -299332,7 +299422,7 @@
       "currentSale": {
         "price": 100288,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 100288,
         "saleStart": "2026-11-16",
@@ -340106,7 +340196,7 @@
       "currentSale": {
         "price": 387945,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 489300,
         "saleStart": "2026-11-16",
@@ -369677,7 +369767,7 @@
       "currentSale": {
         "price": 257.4,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 257.4,
         "saleStart": "2026-11-16",
@@ -396591,7 +396681,7 @@
       "currentSale": {
         "price": 61716,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 69500,
         "saleStart": "2026-11-16",
@@ -396633,7 +396723,7 @@
       "currentSale": {
         "price": 171.6,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 214.5,
         "saleStart": "2026-11-16",
@@ -398541,7 +398631,7 @@
       "currentSale": {
         "price": 92574,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 97300,
         "saleStart": "2026-11-16",
@@ -398583,7 +398673,7 @@
       "currentSale": {
         "price": 257.4,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 278.85,
         "saleStart": "2026-11-16",
@@ -404390,7 +404480,7 @@
       "currentSale": {
         "price": 108003,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 108003,
         "saleStart": "2026-11-16",
@@ -404432,7 +404522,7 @@
       "currentSale": {
         "price": 300.3,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 300.3,
         "saleStart": "2026-11-16",
@@ -448020,7 +448110,7 @@
       "currentSale": {
         "price": 61716,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 61716,
         "saleStart": "2026-11-16",
@@ -448062,7 +448152,7 @@
       "currentSale": {
         "price": 171.6,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 171.6,
         "saleStart": "2026-11-16",
@@ -474162,7 +474252,7 @@
       "currentSale": {
         "price": 343.2,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 343.2,
         "saleStart": "2026-11-16",
@@ -474190,7 +474280,7 @@
       "currentSale": {
         "price": 123432,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 123432,
         "saleStart": "2026-11-16",
@@ -484221,7 +484311,7 @@
       "currentSale": {
         "price": 1396.85,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1719.2,
         "saleStart": "2026-11-16",
@@ -484263,7 +484353,7 @@
       "currentSale": {
         "price": 504328,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 504328,
         "saleStart": "2026-11-16",
@@ -485661,7 +485751,7 @@
       "currentSale": {
         "price": 128.7,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 150.15,
         "saleStart": "2026-11-16",
@@ -485689,7 +485779,7 @@
       "currentSale": {
         "price": 46287,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 54001,
         "saleStart": "2026-11-16",
@@ -485747,7 +485837,7 @@
       "currentSale": {
         "price": 128.7,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 150.15,
         "saleStart": "2026-11-16",
@@ -485775,7 +485865,7 @@
       "currentSale": {
         "price": 46287,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 54001,
         "saleStart": "2026-11-16",
@@ -504818,7 +504908,7 @@
       "currentSale": {
         "price": 343.2,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 343.2,
         "saleStart": "2026-11-16",
@@ -504860,7 +504950,7 @@
       "currentSale": {
         "price": 123432,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 123432,
         "saleStart": "2026-11-16",
@@ -546356,7 +546446,7 @@
       "currency": "SGD",
       "date": "2026-11-16",
       "currentSale": {
-        "price": 22.02,
+        "price": 16.12,
         "currency": "SGD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -546384,7 +546474,7 @@
       "currency": "HKD",
       "date": "2026-11-16",
       "currentSale": {
-        "price": 128.4,
+        "price": 93.6,
         "currency": "HKD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -548010,7 +548100,7 @@
       "currentSale": {
         "price": 92574,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 108003,
         "saleStart": "2026-11-16",
@@ -549552,7 +549642,7 @@
       "currentSale": {
         "price": 77145,
         "currency": "IDR",
-        "status": "new_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 108003,
         "saleStart": "2026-11-16",
@@ -549594,7 +549684,7 @@
       "currentSale": {
         "price": 214.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "new_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 300.3,
         "saleStart": "2026-11-16",
@@ -562656,7 +562746,7 @@
       "currentSale": {
         "price": 543123,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 543123,
         "saleStart": "2026-11-16",
@@ -562698,7 +562788,7 @@
       "currentSale": {
         "price": 1504.3,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1504.3,
         "saleStart": "2026-11-16",
@@ -564506,7 +564596,7 @@
       "currentSale": {
         "price": 115717,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 115717,
         "saleStart": "2026-11-16",
@@ -564548,7 +564638,7 @@
       "currentSale": {
         "price": 321.75,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 321.75,
         "saleStart": "2026-11-16",
@@ -565494,7 +565584,7 @@
       "currentSale": {
         "price": 107.25,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 107.25,
         "saleStart": "2026-11-16",
@@ -565580,7 +565670,7 @@
       "currentSale": {
         "price": 107.25,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 107.25,
         "saleStart": "2026-11-16",
@@ -566558,7 +566648,7 @@
       "currentSale": {
         "price": 107.25,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 107.25,
         "saleStart": "2026-11-16",
@@ -566646,7 +566736,7 @@
       "currentSale": {
         "price": 77145,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 77145,
         "saleStart": "2026-11-16",
@@ -566688,7 +566778,7 @@
       "currentSale": {
         "price": 214.5,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 214.5,
         "saleStart": "2026-11-16",
@@ -567134,7 +567224,7 @@
       "currentSale": {
         "price": 131146,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 131146,
         "saleStart": "2026-11-16",
@@ -567176,7 +567266,7 @@
       "currentSale": {
         "price": 364.65,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 364.65,
         "saleStart": "2026-11-16",
@@ -568616,7 +568706,7 @@
       "currentSale": {
         "price": 620712,
         "currency": "IDR",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 620712,
         "saleStart": "2026-11-16",
@@ -568658,7 +568748,7 @@
       "currentSale": {
         "price": 1719.2,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 1719.2,
         "saleStart": "2026-11-16",
@@ -573216,7 +573306,7 @@
         "currency": "USD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 59.49,
         "saleStart": "2026-11-23",
         "saleEnd": "2026-12-01T07:59:00.000Z"
       }
@@ -573302,7 +573392,7 @@
         "currency": "USD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
-        "historicPrice": null,
+        "historicPrice": 84.99,
         "saleStart": "2026-11-23",
         "saleEnd": "2026-12-01T07:59:00.000Z"
       }

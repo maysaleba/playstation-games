@@ -8,8 +8,8 @@
       "sampleProductId": "HP0002-PPSA07953_00-CODMW4STANDARD01",
       "sampleProductName": "Call of Duty®: Modern Warfare® 4 (Simplified Chinese, English, Korean, Traditional Chinese)",
       "typeFacetCounts": {
-        "FULL_GAME": 1561,
-        "GAME_BUNDLE": 304,
+        "FULL_GAME": 1560,
+        "GAME_BUNDLE": 306,
         "PREMIUM_EDITION": 225
       },
       "lastRan": "",
@@ -64,12 +64,12 @@
       "sampleProductName": "Warrior Cats: Clans of the Forest (English)",
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
-        "FULL_GAME": 2582,
-        "GAME_BUNDLE": 275,
-        "PREMIUM_EDITION": 169
+        "FULL_GAME": 1067,
+        "GAME_BUNDLE": 147,
+        "PREMIUM_EDITION": 87
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-22",
+      "lastRan": "2026-11-24",
       "region": "en-sg"
     }
   },
