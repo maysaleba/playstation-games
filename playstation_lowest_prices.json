@@ -320536,16 +320536,7 @@
     "US": {
       "price": 12.49,
       "currency": "USD",
-      "date": "2026-05-27",
-      "currentSale": {
-        "price": 24.99,
-        "currency": "USD",
-        "status": "not_low",
-        "statusRule": "ps_global_php_v1",
-        "historicPrice": 12.49,
-        "saleStart": "2026-11-04",
-        "saleEnd": "2026-12-01T07:59:00.000Z"
-      }
+      "date": "2026-05-27"
     }
   },
   "the-diofield-chronicle-ps4-ps5": {
@@ -514011,7 +514002,7 @@
       "currency": "HKD",
       "date": "2026-07-26",
       "currentSale": {
-        "price": 155,
+        "price": 176,
         "currency": "HKD",
         "status": "not_low",
         "statusRule": "ps_global_php_v1",
@@ -573413,6 +573404,78 @@
         "historicPrice": 84.99,
         "saleStart": "2026-11-23",
         "saleEnd": "2026-12-01T07:59:00.000Z"
+      }
+    }
+  },
+  "star-wars-galactic-racer-ps5": {
+    "ID": {
+      "price": 736152,
+      "currency": "IDR",
+      "date": "2026-11-25",
+      "currentSale": {
+        "price": 736152,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-25",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
+    },
+    "IN": {
+      "price": 2799,
+      "currency": "INR",
+      "date": "2026-11-25",
+      "currentSale": {
+        "price": 2799,
+        "currency": "INR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-25",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
+    },
+    "SG": {
+      "price": 65.11,
+      "currency": "SGD",
+      "date": "2026-11-25",
+      "currentSale": {
+        "price": 65.11,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-25",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
+    },
+    "TR": {
+      "price": 1199.2,
+      "currency": "TRY",
+      "date": "2026-11-25",
+      "currentSale": {
+        "price": 1199.2,
+        "currency": "TRY",
+        "status": "unknown",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-25",
+        "saleEnd": "2026-11-30T23:59:00.000Z"
+      }
+    },
+    "HK": {
+      "price": 374.4,
+      "currency": "HKD",
+      "date": "2026-11-25",
+      "currentSale": {
+        "price": 374.4,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": null,
+        "saleStart": "2026-11-25",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
       }
     }
   }

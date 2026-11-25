@@ -8,8 +8,8 @@
       "sampleProductId": "HP0002-PPSA07953_00-CODMW4STANDARD01",
       "sampleProductName": "Call of Duty®: Modern Warfare® 4 (Simplified Chinese, English, Korean, Traditional Chinese)",
       "typeFacetCounts": {
-        "FULL_GAME": 1565,
-        "GAME_BUNDLE": 303,
+        "FULL_GAME": 1566,
+        "GAME_BUNDLE": 304,
         "PREMIUM_EDITION": 225
       },
       "lastRan": "",
@@ -47,10 +47,11 @@
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 478,
-        "GAME_BUNDLE": 149,
+        "GAME_BUNDLE": 151,
         "PREMIUM_EDITION": 134
       },
-      "lastRan": "2026-11-20",
+      "reason": "Type facet count changed",
+      "lastRan": "2026-11-25",
       "region": "en-id"
     },
     "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {
