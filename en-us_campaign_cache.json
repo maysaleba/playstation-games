@@ -8,9 +8,9 @@
       "sampleProductId": "UP0002-PPSA01649_00-CODMW4STANDARD01",
       "sampleProductName": "Call of Duty®: Modern Warfare® 4",
       "typeFacetCounts": {
-        "FULL_GAME": 2686,
-        "GAME_BUNDLE": 606,
-        "PREMIUM_EDITION": 293
+        "FULL_GAME": 2682,
+        "GAME_BUNDLE": 605,
+        "PREMIUM_EDITION": 289
       },
       "lastRan": "",
       "region": "en-us"
@@ -27,11 +27,11 @@
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 5,
-        "GAME_BUNDLE": 8,
+        "GAME_BUNDLE": 9,
         "PREMIUM_EDITION": 2
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-25",
+      "lastRan": "2026-11-26",
       "region": "en-us"
     },
     "24379bde-560d-4ba8-8662-2d55d6143888": {

@@ -10,7 +10,7 @@
       "typeFacetCounts": {
         "FULL_GAME": 1566,
         "GAME_BUNDLE": 304,
-        "PREMIUM_EDITION": 225
+        "PREMIUM_EDITION": 226
       },
       "lastRan": "",
       "region": "en-id"
@@ -27,11 +27,11 @@
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 5,
-        "GAME_BUNDLE": 8,
+        "GAME_BUNDLE": 9,
         "PREMIUM_EDITION": 2
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-25",
+      "lastRan": "2026-11-26",
       "region": "en-id"
     },
     "6a3fd66f-f063-4015-aecb-70776fa5e492": {

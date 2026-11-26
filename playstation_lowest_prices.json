@@ -233390,7 +233390,7 @@
       "currentSale": {
         "price": 349.5,
         "currency": "TRY",
-        "status": "matches_low",
+        "status": "not_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 349.5,
         "saleStart": "2026-11-16",
@@ -523668,7 +523668,7 @@
       "currentSale": {
         "price": 56.25,
         "currency": "TRY",
-        "status": "not_low",
+        "status": "matches_low",
         "statusRule": "ps_global_php_v1",
         "historicPrice": 56.25,
         "saleStart": "2026-11-16",
@@ -539802,7 +539802,16 @@
     "ID": {
       "price": 456876,
       "currency": "IDR",
-      "date": "2026-09-23"
+      "date": "2026-09-23",
+      "currentSale": {
+        "price": 856642,
+        "currency": "IDR",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 456876,
+        "saleStart": "2026-11-26",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     },
     "IN": {
       "price": 3674,
@@ -539821,7 +539830,16 @@
     "SG": {
       "price": 39.16,
       "currency": "SGD",
-      "date": "2026-09-23"
+      "date": "2026-09-23",
+      "currentSale": {
+        "price": 73.42,
+        "currency": "SGD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 39.16,
+        "saleStart": "2026-11-26",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     },
     "TR": {
       "price": 2249.25,
@@ -539840,12 +539858,30 @@
     "HK": {
       "price": 219.2,
       "currency": "HKD",
-      "date": "2026-09-23"
+      "date": "2026-09-23",
+      "currentSale": {
+        "price": 411,
+        "currency": "HKD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 219.2,
+        "saleStart": "2026-11-26",
+        "saleEnd": "2026-11-30T14:59:00.000Z"
+      }
     },
     "US": {
-      "price": 59.49,
+      "price": 52.49,
       "currency": "USD",
-      "date": "2026-09-23"
+      "date": "2026-11-26",
+      "currentSale": {
+        "price": 52.49,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 59.49,
+        "saleStart": "2026-11-26",
+        "saleEnd": "2026-12-01T07:59:00.000Z"
+      }
     }
   },
   "kristala-ultimate-edition-ps5": {
