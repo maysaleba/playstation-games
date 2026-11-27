@@ -530014,7 +530014,16 @@
     "US": {
       "price": 63.99,
       "currency": "USD",
-      "date": "2026-08-25"
+      "date": "2026-08-25",
+      "currentSale": {
+        "price": 63.99,
+        "currency": "USD",
+        "status": "not_low",
+        "statusRule": "ps_global_php_v1",
+        "historicPrice": 63.99,
+        "saleStart": "2026-11-27",
+        "saleEnd": "2026-12-01T07:59:00.000Z"
+      }
     },
     "HK": {
       "price": 510.4,

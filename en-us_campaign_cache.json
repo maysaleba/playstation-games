@@ -9,7 +9,7 @@
       "sampleProductName": "Call of Duty®: Modern Warfare® 4",
       "typeFacetCounts": {
         "FULL_GAME": 2681,
-        "GAME_BUNDLE": 604,
+        "GAME_BUNDLE": 605,
         "PREMIUM_EDITION": 290
       },
       "lastRan": "",
@@ -27,11 +27,11 @@
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 5,
-        "GAME_BUNDLE": 9,
+        "GAME_BUNDLE": 10,
         "PREMIUM_EDITION": 2
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-26",
+      "lastRan": "2026-11-27",
       "region": "en-us"
     },
     "24379bde-560d-4ba8-8662-2d55d6143888": {
@@ -46,12 +46,12 @@
       "sampleProductName": "Just Dance: Decades of Hits",
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
-        "FULL_GAME": 486,
-        "GAME_BUNDLE": 167,
+        "FULL_GAME": 487,
+        "GAME_BUNDLE": 168,
         "PREMIUM_EDITION": 125
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-25",
+      "lastRan": "2026-11-27",
       "region": "en-us"
     },
     "99de77b7-8855-4f10-bea3-bfc45317e2b1": {

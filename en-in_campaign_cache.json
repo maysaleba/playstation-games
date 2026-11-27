@@ -8,7 +8,7 @@
       "sampleProductId": "EP0002-PPSA07950_00-CODMW4STANDARD01",
       "sampleProductName": "Call of Duty®: Modern Warfare® 4",
       "typeFacetCounts": {
-        "FULL_GAME": 2682,
+        "FULL_GAME": 2680,
         "GAME_BUNDLE": 658,
         "PREMIUM_EDITION": 290
       },
@@ -27,12 +27,12 @@
       "sampleProductName": "Just Dance: Decades of Hits",
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
-        "FULL_GAME": 481,
-        "GAME_BUNDLE": 163,
+        "FULL_GAME": 482,
+        "GAME_BUNDLE": 164,
         "PREMIUM_EDITION": 123
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-25",
+      "lastRan": "2026-11-27",
       "region": "en-in"
     },
     "fbed2426-16af-4e57-bea2-71345ab5f4de": {
