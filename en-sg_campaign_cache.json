@@ -10,7 +10,7 @@
       "typeFacetCounts": {
         "FULL_GAME": 1558,
         "GAME_BUNDLE": 306,
-        "PREMIUM_EDITION": 226
+        "PREMIUM_EDITION": 227
       },
       "lastRan": "",
       "region": "en-sg"
@@ -27,12 +27,12 @@
       "sampleProductName": "Just Dance: Decades of Hits (Simplified Chinese, English, Korean, Japanese, Traditional Chinese)",
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
-        "FULL_GAME": 479,
-        "GAME_BUNDLE": 152,
+        "FULL_GAME": 480,
+        "GAME_BUNDLE": 153,
         "PREMIUM_EDITION": 134
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-25",
+      "lastRan": "2026-11-27",
       "region": "en-sg"
     },
     "131585f5-e4d2-44e4-9295-17ec2c4430c9": {
@@ -47,11 +47,11 @@
       "discoveredAt": "2026-11-20",
       "typeFacetCounts": {
         "FULL_GAME": 5,
-        "GAME_BUNDLE": 9,
+        "GAME_BUNDLE": 10,
         "PREMIUM_EDITION": 2
       },
       "reason": "Type facet count changed",
-      "lastRan": "2026-11-26",
+      "lastRan": "2026-11-27",
       "region": "en-sg"
     },
     "87c2c5af-9f89-4204-b5ff-eccfc4ee752e": {
